@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+# Licensed Mixkit audio: serve in the website; do not redistribute as a public asset pack.
+public/assets/audio/*.mp3
+public/assets/audio/*.wav
+# Personal media stays out of Git by default.
+public/assets/personal/
