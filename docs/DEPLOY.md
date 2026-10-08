@@ -1,5 +1,15 @@
 # Static deployment
 
+## GitHub Pages
+
+The website is published by `.github/workflows/deploy.yml`. The workflow builds on Ubuntu with Node 22, installs with `npm ci`, runs `npm run build`, uploads `dist` and publishes through the `github-pages` environment. It runs on pushes to `main` or a manual **Actions → Deploy birthday website to GitHub Pages → Run workflow**. Publishing is restricted to `main`.
+
+Site URL: https://sarawut2001.github.io/Happy_Birthday/
+
+Repository Pages source must be **GitHub Actions**. Build permissions are read-only; the separate publish job has `pages: write` and `id-token: write`. No additional token or environment secret is stored in the repository. Concurrent deployments are queued without cancelling an in-progress publication.
+
+To roll back, revert the relevant commit and push to `main`. The same workflow publishes the rebuilt previous version. To redeploy the current version, run the workflow manually on `main`.
+
 The `main` branch contains the complete React/Vite website, runtime GLB models, nine memory photographs, a puzzle photograph and the prepared presentation MP4/poster. The user approved publishing this prepared media in the public repository on 2026-10-08. Raw files under `image/`, duplicate local checkouts, browser screenshots, `node_modules/` and `dist/` remain local.
 
 ## Build settings

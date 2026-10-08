@@ -1,5 +1,7 @@
 # Our memory box — Pink 3D birthday surprise
 
+เว็บออนไลน์: [เปิดเซอร์ไพรส์วันเกิด](https://sarawut2001.github.io/Happy_Birthday/) · deploy อัตโนมัติเมื่อ push เข้า `main` ผ่าน GitHub Actions
+
 เว็บ static เซอร์ไพรส์วันเกิดอายุ 22 ปี ใช้ React, TypeScript, Vite, Three.js, React Three Fiber, Drei, GSAP, Motion และ Bloom จาก React Postprocessing
 
 ## เปิดในเครื่อง
