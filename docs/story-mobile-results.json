@@ -1,0 +1,307 @@
+{
+  "checks": [
+    "wrong PIN clears and restores focus",
+    "short touch release fades door energy without opening",
+    "actual touch hold opens door and reduced motion completes cinematic",
+    "touch, keyboard cards, rating keys and full ending",
+    "all 7 parts at 320, 375, 414, 768, 1024, 1280, 1440 without horizontal overflow or clipped primary buttons",
+    "replay resets the story"
+  ],
+  "errors": [],
+  "matrix": [
+    {
+      "width": 320,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 375,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 414,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 768,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 1,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 2,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 3,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 4,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 5,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 6,
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "stage": 7,
+      "overflow": false,
+      "clipped": false
+    }
+  ]
+}

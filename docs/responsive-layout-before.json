@@ -1,0 +1,7898 @@
+{
+  "base": "http://127.0.0.1:5173",
+  "label": "before",
+  "records": [
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -14.03196550383609,
+        "y": 223.75690058135217,
+        "width": 796.0639310076722,
+        "height": 610.5363606480055
+      },
+      "guide": {
+        "x": 28,
+        "y": 593.90625,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 515.90625,
+        "width": 260,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 593.90625,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 345.4765625,
+          "y": 962,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 213.47602587212288,
+        "y": 167.8176754360141,
+        "width": 597.0479482557544,
+        "height": 457.90227048600406
+      },
+      "guide": {
+        "x": 860,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 736,
+        "y": 60,
+        "width": 260,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 473.4765625,
+          "y": 706,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 360.13377425511527,
+        "y": 157.3290707212632,
+        "width": 559.7324514897696,
+        "height": 429.2833785806289
+      },
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 204,
+        "y": 120,
+        "width": 260,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 601.4765625,
+          "y": 658,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 540.200661382673,
+        "y": 235.99360608189474,
+        "width": 839.598677234654,
+        "height": 643.925067870943
+      },
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 548.390625,
+        "width": 260,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 921.4765625,
+          "y": 1018,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 414.5522070388429,
+        "y": 126.73730696990644,
+        "width": 450.89558592231424,
+        "height": 345.81161052328423
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 260,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 601.4765625,
+          "y": 518,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -14.278373444924414,
+        "y": 202.18690106131808,
+        "width": 403.5567468898488,
+        "height": 314.80886512082884
+      },
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 114,
+        "y": 78,
+        "width": 236,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.9765625,
+          "y": 750,
+          "width": 77.046875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": -42.89214120922972,
+        "y": 99.83552967133045,
+        "width": 853.7842824184594,
+        "height": 708.5166472310907
+      },
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 60,
+        "width": 253,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 317.84375,
+          "y": 885,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": 191.83089409307763,
+        "y": 74.87664725349771,
+        "width": 640.3382118138447,
+        "height": 531.387485423318
+      },
+      "guide": {
+        "x": 860,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 743,
+        "y": 60,
+        "width": 253,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 445.84375,
+          "y": 629,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": 339.84146321226035,
+        "y": 70.19685680015411,
+        "width": 600.3170735754793,
+        "height": 498.17576758436064
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 999,
+        "y": 323.109375,
+        "width": 253,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 573.84375,
+          "y": 581,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": 509.7621948183905,
+        "y": 105.29528520023115,
+        "width": 900.475610363219,
+        "height": 747.263651376541
+      },
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 548.390625,
+        "width": 253,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 893.84375,
+          "y": 941,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": 398.20562314320966,
+        "y": 56.54746797790201,
+        "width": 483.5887537135807,
+        "height": 401.30825722073496
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 253,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 573.84375,
+          "y": 471,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "hero": {
+        "x": -57.33442465785748,
+        "y": 162.37154690231733,
+        "width": 489.66884931571497,
+        "height": 411.9875974156261
+      },
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 114,
+        "y": 78,
+        "width": 230,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "กลับไปหน้ากล่อง",
+          "class": "text-button spotlight-back",
+          "font": 13,
+          "disabled": false,
+          "x": 121.34375,
+          "y": 682,
+          "width": 132.296875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -78.98233126633744,
+        "y": 304.5542250998327,
+        "width": 925.964662532675,
+        "height": 596.6262474198465
+      },
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 184,
+        "y": 120,
+        "width": 251,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.84375,
+          "y": 962,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 151.80216229253415,
+        "y": 223.37647770474848,
+        "width": 720.3956754149317,
+        "height": 463.593058408507
+      },
+      "guide": {
+        "x": 860,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 589,
+        "y": 120,
+        "width": 251,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.84375,
+          "y": 706,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 302.3145271492508,
+        "y": 209.4154478482017,
+        "width": 675.3709457014984,
+        "height": 434.6184922579753
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1001,
+        "y": 323.109375,
+        "width": 251,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.84375,
+          "y": 658,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 453.47179072387627,
+        "y": 314.12317177230256,
+        "width": 1013.0564185522476,
+        "height": 651.927738386963
+      },
+      "guide": {
+        "x": 1736,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1641,
+        "y": 548.390625,
+        "width": 251,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1736,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.84375,
+          "y": 1018,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 367.97559131467415,
+        "y": 168.69577743327363,
+        "width": 544.0488173706517,
+        "height": 350.1093409855913
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 251,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.84375,
+          "y": 518,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "cake",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -16.5808554590299,
+        "y": 309.767319906335,
+        "width": 408.16171091805984,
+        "height": 261.7768915005493
+      },
+      "guide": {
+        "x": 275,
+        "y": 583.75,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 12,
+        "y": 591.75,
+        "width": 228,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 275,
+          "y": 583.75,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.34375,
+          "y": 750,
+          "width": 78.3125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -100.59334595340115,
+        "y": 171.27038897416264,
+        "width": 969.1866919068024,
+        "height": 718.2042658710222
+      },
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 60,
+        "width": 260,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 270.765625,
+          "y": 885,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.9609375,
+          "y": 962,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 136.89559137354127,
+        "y": 120.67870344132004,
+        "width": 750.2088172529175,
+        "height": 554.265712770864
+      },
+      "guide": {
+        "x": 860,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 736,
+        "y": 60,
+        "width": 260,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 398.765625,
+          "y": 629,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.9609375,
+          "y": 706,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 288.339616912695,
+        "y": 113.13628447623753,
+        "width": 703.3207661746098,
+        "height": 519.6241057226849
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 990,
+        "y": 323.109375,
+        "width": 262,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 526.765625,
+          "y": 581,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.9609375,
+          "y": 658,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 432.5094253690426,
+        "y": 169.70442671435623,
+        "width": 1054.9811492619147,
+        "height": 779.4361585840272
+      },
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 548.390625,
+        "width": 262,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 846.765625,
+          "y": 941,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.9609375,
+          "y": 1018,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 356.71802473522655,
+        "y": 91.13756249474687,
+        "width": 566.5639505295468,
+        "height": 418.5860851654961
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 262,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 526.765625,
+          "y": 441,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.9609375,
+          "y": 518,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "birthday",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": -44.04441947194319,
+        "y": 166.385519878541,
+        "width": 463.08883894388634,
+        "height": 351.44108496382444
+      },
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 114,
+        "y": 78,
+        "width": 239,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "มีจดหมายถึงเธอด้วย",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 74.265625,
+          "y": 673,
+          "width": 226.453125,
+          "height": 51
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.4609375,
+          "y": 750,
+          "width": 78.078125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 115.5823204871542,
+        "y": 467.8604931867136,
+        "width": 533.8088022166828,
+        "height": 363.4989101517539
+      },
+      "guide": {
+        "x": 604,
+        "y": 96,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 347,
+        "y": 120,
+        "width": 237,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 604,
+          "y": 96,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.3984375,
+          "y": 962,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 310.6867403653656,
+        "y": 350.8953698900352,
+        "width": 400.35660166251216,
+        "height": 272.6241826138154
+      },
+      "guide": {
+        "x": 860,
+        "y": 445.4375,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 759,
+        "y": 367.4375,
+        "width": 237,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 445.4375,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.3984375,
+          "y": 706,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 451.2688190925303,
+        "y": 328.964409271908,
+        "width": 375.33431405860506,
+        "height": 255.58517120045195
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1015,
+        "y": 323.109375,
+        "width": 237,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.3984375,
+          "y": 658,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 676.9032286387954,
+        "y": 493.446613907862,
+        "width": 563.0014710879076,
+        "height": 383.37775680067796
+      },
+      "guide": {
+        "x": 1736,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1655,
+        "y": 548.390625,
+        "width": 237,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1736,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.3984375,
+          "y": 1018,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 487.9665487134272,
+        "y": 264.9991074690371,
+        "width": 302.35264188054305,
+        "height": 205.88805457814186
+      },
+      "guide": {
+        "x": 1096,
+        "y": 208.796875,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1015,
+        "y": 130.796875,
+        "width": 237,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 208.796875,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.3984375,
+          "y": 518,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 44.28117333896716,
+        "y": 382.76707547937974,
+        "width": 284.82278236499656,
+        "height": 195.27104481464755
+      },
+      "guide": {
+        "x": 275,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 215,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 275,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 147.8984375,
+          "y": 750,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 113.49260259760891,
+        "y": 299.01173870577713,
+        "width": 538.3971175258723,
+        "height": 529.754819742081
+      },
+      "guide": {
+        "x": 604,
+        "y": 593.90625,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 480,
+        "y": 489.90625,
+        "width": 260,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 604,
+          "y": 593.90625,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.3984375,
+          "y": 962,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 309.11945194820663,
+        "y": 224.25880402933285,
+        "width": 403.79783814440435,
+        "height": 397.3161148065608
+      },
+      "guide": {
+        "x": 860,
+        "y": 445.4375,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 736,
+        "y": 341.4375,
+        "width": 260,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 445.4375,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.3984375,
+          "y": 706,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 449.7994862014437,
+        "y": 210.24262877749948,
+        "width": 378.56047326037896,
+        "height": 372.4838576311507
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 988,
+        "y": 323.109375,
+        "width": 264,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.3984375,
+          "y": 658,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 674.6992293021656,
+        "y": 315.3639431662493,
+        "width": 567.8407098905684,
+        "height": 558.7257864467261
+      },
+      "guide": {
+        "x": 1736,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1628,
+        "y": 548.390625,
+        "width": 264,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1736,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.3984375,
+          "y": 1018,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 486.7829194400519,
+        "y": 169.36211762631922,
+        "width": 304.9514923486386,
+        "height": 300.0564408695381
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 264,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.3984375,
+          "y": 518,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "envelope-ready",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "hero": {
+        "x": 43.94046949370128,
+        "y": 291.34684176569317,
+        "width": 285.72984753900687,
+        "height": 285.73176173250874
+      },
+      "guide": {
+        "x": 275,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 240,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 275,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 147.8984375,
+          "y": 750,
+          "width": 79.203125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 110,
+        "height": 162.796875
+      },
+      "bubble": {
+        "x": 158,
+        "y": 120,
+        "width": 260,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 110,
+          "height": 162.796875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 293.796875,
+          "y": 758,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.78125,
+          "y": 962,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 96,
+        "width": 110,
+        "height": 162.796875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 60,
+        "width": 260,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 96,
+          "width": 110,
+          "height": 162.796875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 421.796875,
+          "y": 630,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.78125,
+          "y": 706,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 417.59375,
+        "width": 110,
+        "height": 162.796875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 340.59375,
+        "width": 260,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 417.59375,
+          "width": 110,
+          "height": 162.796875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 549.796875,
+          "y": 594,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.78125,
+          "y": 658,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 110,
+        "height": 162.796875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 577.5906372070312,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 110,
+          "height": 162.796875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 869.796875,
+          "y": 786,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.78125,
+          "y": 1018,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 329.1875,
+        "width": 110,
+        "height": 162.796875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 280.38751220703125,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 329.1875,
+          "width": 110,
+          "height": 162.796875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 549.796875,
+          "y": 454,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.78125,
+          "y": 518,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "letter",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 90,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 22.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ไปดูโลกของเรากัน",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": false,
+          "x": 97.296875,
+          "y": 686,
+          "width": 180.390625,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.28125,
+          "y": 750,
+          "width": 78.4375,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 109.4449731285373,
+        "y": 195.34222482782883,
+        "width": 549.1100537429254,
+        "height": 658.3025793050222
+      },
+      "guide": {
+        "x": 28,
+        "y": 593.90625,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 515.90625,
+        "width": 206,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 593.90625,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 319,
+          "y": 450.546875,
+          "width": 130,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.2734375,
+          "y": 962,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 306.08372984640295,
+        "y": 146.5066686208716,
+        "width": 411.83254030719405,
+        "height": 493.7269344787666
+      },
+      "guide": {
+        "x": 860,
+        "y": 445.4375,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 790,
+        "y": 367.4375,
+        "width": 206,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 445.4375,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 256,
+          "y": 337.90625,
+          "width": 512,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.2734375,
+          "y": 706,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 446.9534967310028,
+        "y": 137.35000183206714,
+        "width": 386.09300653799437,
+        "height": 462.8690010738437
+      },
+      "guide": {
+        "x": 28,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 323.109375,
+        "width": 206,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 320,
+          "y": 316.796875,
+          "width": 640,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.2734375,
+          "y": 658,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 670.4302450965041,
+        "y": 206.02500274810066,
+        "width": 579.1395098069917,
+        "height": 694.3035016107657
+      },
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 548.390625,
+        "width": 206,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 480,
+          "y": 475.1875,
+          "width": 960,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.2734375,
+          "y": 1018,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 484.49031681108556,
+        "y": 110.64305703138743,
+        "width": 311.019366377829,
+        "height": 372.8666953094852
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 206,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 320,
+          "y": 255.1875,
+          "width": 640,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.2734375,
+          "y": 518,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "door",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": {
+        "x": 1.3050873834432875,
+        "y": 188.5090208132691,
+        "width": 372.38982523311347,
+        "height": 450.3617782435939
+      },
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 114,
+        "y": 78,
+        "width": 187,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "class": "model-hit hold-hit",
+          "font": 16,
+          "disabled": false,
+          "x": 122.5,
+          "y": 357.265625,
+          "width": 130,
+          "height": 136
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 147.7734375,
+          "y": 750,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 644,
+        "y": 96,
+        "width": 96,
+        "height": 142.078125
+      },
+      "bubble": {
+        "x": 484,
+        "y": 120,
+        "width": 140,
+        "height": 104.75
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 644,
+          "y": 96,
+          "width": 96,
+          "height": 142.078125
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 310.859375,
+          "y": 885,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.2734375,
+          "y": 962,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 900,
+        "y": 96,
+        "width": 96,
+        "height": 142.078125
+      },
+      "bubble": {
+        "x": 620,
+        "y": 120,
+        "width": 260,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 900,
+          "y": 96,
+          "width": 96,
+          "height": 142.078125
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 438.859375,
+          "y": 629,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.2734375,
+          "y": 706,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 1144,
+        "y": 462.15625,
+        "width": 108,
+        "height": 159.828125
+      },
+      "bubble": {
+        "x": 952,
+        "y": 358.15625,
+        "width": 300,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1144,
+          "y": 462.15625,
+          "width": 108,
+          "height": 159.828125
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 566.859375,
+          "y": 581,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.2734375,
+          "y": 658,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 1784,
+        "y": 822.15625,
+        "width": 108,
+        "height": 159.828125
+      },
+      "bubble": {
+        "x": 1592,
+        "y": 718.15625,
+        "width": 300,
+        "height": 79.5625
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1784,
+          "y": 822.15625,
+          "width": 108,
+          "height": 159.828125
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 886.859375,
+          "y": 941,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.2734375,
+          "y": 1018,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 1144,
+        "y": 322.15625,
+        "width": 108,
+        "height": 159.828125
+      },
+      "bubble": {
+        "x": 1112,
+        "y": 272.35626220703125,
+        "width": 140,
+        "height": 29.1875
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1144,
+          "y": 322.15625,
+          "width": 108,
+          "height": 159.828125
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 566.859375,
+          "y": 471,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.2734375,
+          "y": 518,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "universe",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "hero": null,
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 114.359375,
+          "y": 682,
+          "width": 146.28125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 147.7734375,
+          "y": 750,
+          "width": 79.453125,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 428,
+        "y": 120,
+        "width": 212,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 660,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 652,
+          "y": 236.96875,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 325.15625,
+          "y": 735.015625,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 784,
+        "y": 60,
+        "width": 212,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 916,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 835,
+          "y": 172,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 453.15625,
+          "y": 544,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 485.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1040,
+        "y": 408.828125,
+        "width": 212,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 485.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 963,
+          "y": 148,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 520,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1680,
+        "y": 768.828125,
+        "width": 212,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1800,
+          "y": 845.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 1283,
+          "y": 328,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 901.15625,
+          "y": 700,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 345.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1112,
+        "y": 297.02813720703125,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 345.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 963,
+          "y": 93,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 465,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-memory",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 22.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 302,
+          "y": 189,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 128.65625,
+          "y": 674.09375,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 458,
+        "y": 120,
+        "width": 182,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 660,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 652,
+          "y": 321.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 116,
+          "y": 459.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 225,
+          "y": 459.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 334,
+          "y": 459.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 443,
+          "y": 459.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 552,
+          "y": 459.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 325.15625,
+          "y": 650.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 714,
+        "y": 120,
+        "width": 182,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 916,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 780,
+          "y": 193.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 244,
+          "y": 331.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 353,
+          "y": 331.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 462,
+          "y": 331.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 571,
+          "y": 331.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 680,
+          "y": 331.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 453.15625,
+          "y": 522.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 485.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1070,
+        "y": 408.828125,
+        "width": 182,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 485.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 169.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 372,
+          "y": 307.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 481,
+          "y": 307.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 590,
+          "y": 307.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 699,
+          "y": 307.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 808,
+          "y": 307.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 498.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1710,
+        "y": 768.828125,
+        "width": 182,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1800,
+          "y": 845.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 1228,
+          "y": 349.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 692,
+          "y": 487.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 801,
+          "y": 487.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 910,
+          "y": 487.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 1019,
+          "y": 487.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 1128,
+          "y": 487.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 901.15625,
+          "y": 678.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 345.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1070,
+        "y": 268.828125,
+        "width": 182,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 345.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 99.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 372,
+          "y": 237.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 481,
+          "y": 237.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 590,
+          "y": 237.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 699,
+          "y": 237.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 808,
+          "y": 237.5,
+          "width": 100,
+          "height": 154
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 428.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-promise",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 156,
+        "height": 43.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 302,
+          "y": 291.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 1",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 37.015625,
+          "y": 421.5,
+          "width": 55.390625,
+          "height": 116
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 2",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 98.40625,
+          "y": 421.5,
+          "width": 55.390625,
+          "height": 116
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 3",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 159.796875,
+          "y": 421.5,
+          "width": 55.390625,
+          "height": 116
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 4",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 221.1875,
+          "y": 421.5,
+          "width": 55.390625,
+          "height": 116
+        },
+        {
+          "label": "เปิดคำสัญญาใบที่ 5",
+          "class": "promise-card ",
+          "font": 16,
+          "disabled": false,
+          "x": 282.578125,
+          "y": 421.5,
+          "width": 55.390625,
+          "height": 116
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 128.65625,
+          "y": 568.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 424,
+        "y": 120,
+        "width": 216,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 660,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 652,
+          "y": 214.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 241,
+          "y": 340.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 338,
+          "y": 340.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 435,
+          "y": 340.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 241,
+          "y": 437.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 338,
+          "y": 437.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 435,
+          "y": 437.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 241,
+          "y": 534.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 338,
+          "y": 534.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 435,
+          "y": 534.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 326.515625,
+          "y": 673.5,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 325.15625,
+          "y": 757.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 780,
+        "y": 60,
+        "width": 216,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 916,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 780,
+          "y": 93,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 369,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 466,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 563,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 369,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 466,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 563,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 369,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 466,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 563,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 454.515625,
+          "y": 552,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 453.15625,
+          "y": 636,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 485.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1036,
+        "y": 408.828125,
+        "width": 216,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 485.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 93,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 582.515625,
+          "y": 552,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 636,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1676,
+        "y": 768.828125,
+        "width": 216,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1800,
+          "y": 845.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 1228,
+          "y": 242.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 817,
+          "y": 368.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 914,
+          "y": 368.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 1011,
+          "y": 368.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 817,
+          "y": 465.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 914,
+          "y": 465.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 1011,
+          "y": 465.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 817,
+          "y": 562.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 914,
+          "y": 562.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 1011,
+          "y": 562.5,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 902.515625,
+          "y": 701.5,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 901.15625,
+          "y": 785.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 345.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1036,
+        "y": 268.828125,
+        "width": 216,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 345.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 93,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 219,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 316,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 497,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 594,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 691,
+          "y": 413,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 582.515625,
+          "y": 552,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 636,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-puzzle",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 185,
+        "height": 43.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 302,
+          "y": 189,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ช่อง 1: ชิ้นภาพ 5",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 44.5,
+          "y": 313,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 2: ชิ้นภาพ 1",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 141.5,
+          "y": 313,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 3: ชิ้นภาพ 8",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 238.5,
+          "y": 313,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 4: ชิ้นภาพ 3",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 44.5,
+          "y": 410,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 5: ชิ้นภาพ 9",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 141.5,
+          "y": 410,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 6: ชิ้นภาพ 2",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 238.5,
+          "y": 410,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 7: ชิ้นภาพ 6",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 44.5,
+          "y": 507,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 8: ชิ้นภาพ 4",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 141.5,
+          "y": 507,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ช่อง 9: ชิ้นภาพ 7",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 238.5,
+          "y": 507,
+          "width": 92,
+          "height": 92
+        },
+        {
+          "label": "ดูภาพเต็มเลย",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 130.015625,
+          "y": 646,
+          "width": 114.96875,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button world-back",
+          "font": 13,
+          "disabled": false,
+          "x": 128.65625,
+          "y": 730,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 380,
+        "y": 120,
+        "width": 260,
+        "height": 77.96875
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 660,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 652,
+          "y": 264.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 325.15625,
+          "y": 707.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 736,
+        "y": 60,
+        "width": 260,
+        "height": 77.96875
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 916,
+          "y": 96,
+          "width": 80,
+          "height": 118.390625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 780,
+          "y": 136.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 453.15625,
+          "y": 579.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 96,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 964,
+        "y": 60,
+        "width": 288,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 96,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 112.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 555.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1604,
+        "y": 768.828125,
+        "width": 288,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1800,
+          "y": 845.828125,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 1228,
+          "y": 292.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 901.15625,
+          "y": 735.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 1160,
+        "y": 96,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1000,
+        "y": 123.19999694824219,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1160,
+          "y": 96,
+          "width": 92,
+          "height": 136.15625
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 908,
+          "y": 93,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 581.15625,
+          "y": 536,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "panel-video",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "hero": null,
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 22.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "ปิดและกลับสู่จักรวาล",
+          "class": "panel-close icon-button",
+          "font": 16,
+          "disabled": false,
+          "x": 302,
+          "y": 249.5,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "กลับสู่จักรวาล",
+          "class": "text-button",
+          "font": 13,
+          "disabled": false,
+          "x": 128.65625,
+          "y": 610.5,
+          "width": 117.671875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 281.41907273275734,
+        "y": 279.5789780398252,
+        "width": 205.2908853321398,
+        "height": 204.3058243363413
+      },
+      "guide": {
+        "x": 28,
+        "y": 368.625,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 290.625,
+        "width": 221,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 368.625,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 225,
+          "y": 785,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 291,
+          "y": 785,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 357,
+          "y": 785,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 423,
+          "y": 785,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 489,
+          "y": 785,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 274,
+          "y": 867,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.6015625,
+          "y": 962,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 383.03139357385135,
+        "y": 113.43726239607938,
+        "width": 258.0994352322549,
+        "height": 251.83294346576932
+      },
+      "guide": {
+        "x": 28,
+        "y": 445.4375,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 28,
+        "y": 367.4375,
+        "width": 221,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 445.4375,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 353,
+          "y": 529,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 419,
+          "y": 529,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 485,
+          "y": 529,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 551,
+          "y": 529,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 617,
+          "y": 529,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 402,
+          "y": 611,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.6015625,
+          "y": 706,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 519.0919314754857,
+        "y": 106.34743349632441,
+        "width": 241.9682205302389,
+        "height": 236.09338449915873
+      },
+      "guide": {
+        "x": 28,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 323.109375,
+        "width": 221,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 481,
+          "y": 481,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 547,
+          "y": 481,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 613,
+          "y": 481,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 679,
+          "y": 481,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 745,
+          "y": 481,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 530,
+          "y": 563,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.6015625,
+          "y": 658,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 778.6378972132286,
+        "y": 159.52115024448662,
+        "width": 362.9523307953582,
+        "height": 354.140076748738
+      },
+      "guide": {
+        "x": 28,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 548.390625,
+        "width": 221,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 801,
+          "y": 841,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 867,
+          "y": 841,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 933,
+          "y": 841,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 999,
+          "y": 841,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 1065,
+          "y": 841,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 850,
+          "y": 923,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.6015625,
+          "y": 1018,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 542.6018336885857,
+        "y": 85.66876587203912,
+        "width": 194.9188443160258,
+        "height": 190.18633751321119
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 183.109375,
+        "width": 221,
+        "height": 54.375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 481,
+          "y": 383,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 547,
+          "y": 383,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 613,
+          "y": 383,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 679,
+          "y": 383,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 745,
+          "y": 383,
+          "width": 54,
+          "height": 58
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 530,
+          "y": 453,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.6015625,
+          "y": 518,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "rating",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "hero": {
+        "x": 108.06245343052473,
+        "y": 225.33882875327478,
+        "width": 158.23194971834363,
+        "height": 156.85400627713457
+      },
+      "guide": {
+        "x": 12,
+        "y": 70,
+        "width": 88,
+        "height": 130.234375
+      },
+      "bubble": {
+        "x": 114,
+        "y": 78,
+        "width": 201,
+        "height": 49.984375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 70,
+          "width": 88,
+          "height": 130.234375
+        },
+        {
+          "label": "1 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 51.5,
+          "y": 588,
+          "width": 48,
+          "height": 52
+        },
+        {
+          "label": "2 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 107.5,
+          "y": 588,
+          "width": 48,
+          "height": 52
+        },
+        {
+          "label": "3 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 163.5,
+          "y": 588,
+          "width": 48,
+          "height": 52
+        },
+        {
+          "label": "4 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 219.5,
+          "y": 588,
+          "width": 48,
+          "height": 52
+        },
+        {
+          "label": "5 หัวใจ",
+          "class": "",
+          "font": 16,
+          "disabled": false,
+          "x": 275.5,
+          "y": 588,
+          "width": 48,
+          "height": 52
+        },
+        {
+          "label": "มอบหัวใจให้เค้า",
+          "class": "primary-button",
+          "font": 14,
+          "disabled": true,
+          "x": 77.5,
+          "y": 664,
+          "width": 220,
+          "height": 50
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.1015625,
+          "y": 750,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 293.7927333613217,
+        "y": 200.76498678815176,
+        "width": 180.4145332773566,
+        "height": 170.51288487666721
+      },
+      "guide": {
+        "x": 604,
+        "y": 368.625,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 501,
+        "y": 291.625,
+        "width": 239,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 604,
+          "y": 368.625,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 13,
+          "disabled": false,
+          "x": 217.875,
+          "y": 865.8125,
+          "width": 171.546875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 12,
+          "disabled": false,
+          "x": 405.421875,
+          "y": 865.8125,
+          "width": 144.703125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 344.6015625,
+          "y": 962,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 962,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 400.0206041500152,
+        "y": 20.431415700150822,
+        "width": 223.95879169996965,
+        "height": 210.1831218507603
+      },
+      "guide": {
+        "x": 860,
+        "y": 276.46875,
+        "width": 136,
+        "height": 201.265625
+      },
+      "bubble": {
+        "x": 757,
+        "y": 199.46875,
+        "width": 239,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 860,
+          "y": 276.46875,
+          "width": 136,
+          "height": 201.265625
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 13,
+          "disabled": false,
+          "x": 345.875,
+          "y": 607.8125,
+          "width": 171.546875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 12,
+          "disabled": false,
+          "x": 533.421875,
+          "y": 609.8125,
+          "width": 144.703125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 472.6015625,
+          "y": 706,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 706,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 535.0193163906392,
+        "y": 19.154452218891397,
+        "width": 209.96136721872153,
+        "height": 197.04667673508774
+      },
+      "guide": {
+        "x": 1096,
+        "y": 401.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1013,
+        "y": 324.109375,
+        "width": 239,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1096,
+          "y": 401.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 13,
+          "disabled": false,
+          "x": 473.875,
+          "y": 561.8125,
+          "width": 171.546875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 12,
+          "disabled": false,
+          "x": 661.421875,
+          "y": 561.8125,
+          "width": 144.703125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.6015625,
+          "y": 658,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 658,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 802.5289745859588,
+        "y": 28.731678328337093,
+        "width": 314.9420508280823,
+        "height": 295.57001510263166
+      },
+      "guide": {
+        "x": 1736,
+        "y": 626.390625,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 1653,
+        "y": 549.390625,
+        "width": 239,
+        "height": 52.78125
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 1736,
+          "y": 626.390625,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 13,
+          "disabled": false,
+          "x": 793.875,
+          "y": 921.8125,
+          "width": 171.546875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 12,
+          "disabled": false,
+          "x": 981.421875,
+          "y": 921.8125,
+          "width": 144.703125,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 920.6015625,
+          "y": 1018,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 1018,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 555.4322270924594,
+        "y": 15.429975398551402,
+        "width": 169.1355458150813,
+        "height": 158.7320451477096
+      },
+      "guide": {
+        "x": 28,
+        "y": 261.109375,
+        "width": 156,
+        "height": 230.875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 211.3093719482422,
+        "width": 140,
+        "height": 29.1875
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 28,
+          "y": 261.109375,
+          "width": 156,
+          "height": 230.875
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 10,
+          "disabled": false,
+          "x": 512.1875,
+          "y": 452.8125,
+          "width": 127.1875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 10,
+          "disabled": false,
+          "x": 647.375,
+          "y": 452.8125,
+          "width": 120.421875,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 600.6015625,
+          "y": 518,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 24,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 68,
+          "y": 518,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "ending",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "app": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 117.51151756819102,
+        "y": 164.0939023613343,
+        "width": 139.97696486361792,
+        "height": 132.30701589371034
+      },
+      "guide": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 27.59375
+      },
+      "controls": [
+        {
+          "label": "แตะ Monchhichi เพื่ออ่านคำแนะนำอีกครั้ง",
+          "class": "guide-actor",
+          "font": 16,
+          "disabled": false,
+          "x": 299,
+          "y": 70,
+          "width": 64,
+          "height": 94.71875
+        },
+        {
+          "label": "กลับไปดูความทรงจำ",
+          "class": "primary-button",
+          "font": 12,
+          "disabled": false,
+          "x": 105.78125,
+          "y": 617.8125,
+          "width": 163.421875,
+          "height": 44
+        },
+        {
+          "label": "เริ่มเซอร์ไพรส์อีกครั้ง",
+          "class": "text-button",
+          "font": 11,
+          "disabled": false,
+          "x": 119.21875,
+          "y": 665.8125,
+          "width": 136.5625,
+          "height": 44
+        },
+        {
+          "label": "เปิดลำดับเรื่องราว",
+          "class": "chapter-indicator",
+          "font": 18,
+          "disabled": false,
+          "x": 148.1015625,
+          "y": 750,
+          "width": 78.796875,
+          "height": 44
+        },
+        {
+          "label": "เปิดเพลงและเสียงประกอบ",
+          "class": "icon-button sound-button",
+          "font": 16,
+          "disabled": false,
+          "x": 12,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        },
+        {
+          "label": "ลดการเคลื่อนไหว",
+          "class": "icon-button motion-button",
+          "font": 16,
+          "disabled": false,
+          "x": 56,
+          "y": 750,
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "http": []
+}

@@ -1,0 +1,47 @@
+{
+  "bytes": 1204400,
+  "triangles": 38436,
+  "meshes": 31,
+  "walkGround": {
+    "lowest": 0.001954365289331586,
+    "highestContact": 0.0020775603142798305
+  },
+  "loops": [
+    {
+      "name": "Idle",
+      "maxDifference": 1.469576190014977e-17,
+      "valid": true
+    },
+    {
+      "name": "Walk",
+      "maxDifference": 5.143516582334358e-17,
+      "valid": true
+    },
+    {
+      "name": "Wave",
+      "maxDifference": 1.469576190014977e-17,
+      "valid": true
+    },
+    {
+      "name": "Celebrate",
+      "maxDifference": 3.6739405577555036e-17,
+      "valid": true
+    },
+    {
+      "name": "Shy",
+      "maxDifference": 1.469576190014977e-17,
+      "valid": true
+    },
+    {
+      "name": "Float",
+      "maxDifference": 1.469576190014977e-17,
+      "valid": true
+    },
+    {
+      "name": "Hug",
+      "maxDifference": 1.469576190014977e-17,
+      "valid": true
+    }
+  ],
+  "waveArmZ": 2.179999976977143
+}

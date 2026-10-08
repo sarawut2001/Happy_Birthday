@@ -1,0 +1,5 @@
+Present — J-Toastie
+Model: https://poly.pizza/m/uio7lWWJo3
+Author: https://poly.pizza/u/J-Toastie
+License: Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/
+Changes: pink materials; body and lid separated for opening animations.

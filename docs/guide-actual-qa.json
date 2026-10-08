@@ -1,0 +1,69 @@
+{
+  "base": "http://127.0.0.1:5173",
+  "bytes": 4849476,
+  "checks": [
+    {
+      "label": "actual-gift",
+      "classes": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "de00eb63-b2b4-4adc-b4b3-d73240997ffb",
+        "pose": "Wave",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ใส่รหัส 6 หลัก แล้วไปเปิดของขวัญกัน ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        9.583895999999998
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "actual-cake",
+      "classes": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "de00eb63-b2b4-4adc-b4b3-d73240997ffb",
+        "pose": "Present",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "อธิษฐานก่อนนะ แล้วแตะเค้กเพื่อเป่า ♡",
+      "assets": [],
+      "camera": [
+        0,
+        2.600000000000001,
+        8.655323
+      ],
+      "guideVisible": "visible"
+    }
+  ],
+  "shots": [
+    "guide-story-actual-gift-mobile.png"
+  ],
+  "errors": [],
+  "http": []
+}

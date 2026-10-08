@@ -1,0 +1,143 @@
+{
+  "bytes": 4916684,
+  "triangles": 48724,
+  "bones": [
+    [
+      "Pelvis",
+      "Spine",
+      "Head",
+      "ArmL",
+      "ElbowL",
+      "HandL",
+      "ArmR",
+      "ElbowR",
+      "HandR",
+      "LegL",
+      "KneeL",
+      "FootL",
+      "LegR",
+      "KneeR",
+      "FootR",
+      "Tail"
+    ]
+  ],
+  "skinnedVertices": 134160,
+  "skinnedPrimitives": 5,
+  "frontArtworkVertices": 9384,
+  "meshes": [
+    {
+      "name": "little-heart",
+      "closed": true,
+      "vertices": 2292,
+      "weldedVertices": 384,
+      "triangles": 764,
+      "boundaryEdges": 0,
+      "boundaryLength": 0,
+      "boundarySamples": [],
+      "nonManifoldEdges": 0,
+      "nonManifoldSamples": [],
+      "inconsistentWindingEdges": 0,
+      "windingSamples": [],
+      "degenerateTriangles": 0,
+      "weldTolerance": 0.0000017548504100055773,
+      "bounds": {
+        "min": [
+          -0.6402190327644348,
+          -0.5556337237358093,
+          -0.03999999910593033
+        ],
+        "max": [
+          0.6402190327644348,
+          0.6275730729103088,
+          0.1599999964237213
+        ]
+      }
+    },
+    {
+      "name": "Monchhichi-textured-body",
+      "closed": true,
+      "vertices": 134160,
+      "weldedVertices": 23944,
+      "triangles": 47960,
+      "boundaryEdges": 0,
+      "boundaryLength": 0,
+      "boundarySamples": [],
+      "nonManifoldEdges": 0,
+      "nonManifoldSamples": [],
+      "inconsistentWindingEdges": 0,
+      "windingSamples": [],
+      "degenerateTriangles": 108,
+      "weldTolerance": 0.0000034616573559903787,
+      "bounds": {
+        "min": [
+          -0.9208726286888123,
+          -0.0008765580132603645,
+          -0.4099390208721161
+        ],
+        "max": [
+          0.9212263226509094,
+          2.799712896347046,
+          0.4540296196937561
+        ]
+      }
+    }
+  ],
+  "loops": [
+    {
+      "name": "Idle",
+      "duration": 4,
+      "maxDifference": 0
+    },
+    {
+      "name": "Walk",
+      "duration": 1.600000023841858,
+      "maxDifference": 0
+    },
+    {
+      "name": "Wave",
+      "duration": 2.799999952316284,
+      "maxDifference": 0
+    },
+    {
+      "name": "Celebrate",
+      "duration": 2,
+      "maxDifference": 0
+    },
+    {
+      "name": "Shy",
+      "duration": 3.200000047683716,
+      "maxDifference": 0
+    },
+    {
+      "name": "Float",
+      "duration": 4.800000190734863,
+      "maxDifference": 0
+    },
+    {
+      "name": "Hug",
+      "duration": 4.199999809265137,
+      "maxDifference": 0
+    },
+    {
+      "name": "Present",
+      "duration": 3.5999999046325684,
+      "maxDifference": 0
+    },
+    {
+      "name": "Invite",
+      "duration": 3.200000047683716,
+      "maxDifference": 0
+    },
+    {
+      "name": "Blow",
+      "duration": 3.5999999046325684,
+      "maxDifference": 0
+    },
+    {
+      "name": "Thanks",
+      "duration": 4.199999809265137,
+      "maxDifference": 0
+    }
+  ],
+  "embeddedImages": 2
+}

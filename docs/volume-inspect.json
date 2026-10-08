@@ -1,0 +1,85 @@
+{
+  "info": {
+    "model": {
+      "name": "Monchhichi",
+      "modelVersion": 2,
+      "source": "Meshy_AI_Monchhichi_Monkey_1003091923_texture.glb",
+      "method": "silhouette-preserving rounded volume reconstruction; original UV/albedo",
+      "rig": "16-bone smooth skin",
+      "forward": "+Z",
+      "ground": 0,
+      "walkStride": 0.28,
+      "walkDuration": 1.6
+    },
+    "bones": [
+      "Pelvis",
+      "Spine",
+      "Head",
+      "ArmL",
+      "ElbowL",
+      "HandL",
+      "ArmR",
+      "ElbowR",
+      "HandR",
+      "LegL",
+      "KneeL",
+      "FootL",
+      "LegR",
+      "KneeR",
+      "FootR",
+      "Tail"
+    ],
+    "bounds": {
+      "isBox3": true,
+      "min": {
+        "x": -0.9209634065628052,
+        "y": -5.568903671537839e-10,
+        "z": -0.6783163547515869
+      },
+      "max": {
+        "x": 0.9209633469581604,
+        "y": 2.799999952316284,
+        "z": 0.6783163547515869
+      }
+    },
+    "clips": [
+      {
+        "name": "Idle",
+        "duration": 4,
+        "tracks": 18
+      },
+      {
+        "name": "Walk",
+        "duration": 1.600000023841858,
+        "tracks": 18
+      },
+      {
+        "name": "Wave",
+        "duration": 2.799999952316284,
+        "tracks": 18
+      },
+      {
+        "name": "Celebrate",
+        "duration": 2,
+        "tracks": 18
+      },
+      {
+        "name": "Shy",
+        "duration": 3.200000047683716,
+        "tracks": 18
+      },
+      {
+        "name": "Float",
+        "duration": 4.800000190734863,
+        "tracks": 18
+      },
+      {
+        "name": "Hug",
+        "duration": 4.199999809265137,
+        "tracks": 18
+      }
+    ],
+    "draws": 20
+  },
+  "errors": []
+}

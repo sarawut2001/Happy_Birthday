@@ -1,0 +1,51 @@
+{
+  "info": [
+    {
+      "name": "source",
+      "clips": [],
+      "bound": [
+        1.841926792380463,
+        2.800000043251821,
+        0.21670438450547647
+      ],
+      "meshCount": 1
+    },
+    {
+      "name": "before",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Wave",
+        "Celebrate",
+        "Shy",
+        "Float",
+        "Hug"
+      ],
+      "bound": [
+        1.9468068783807195,
+        2.799999930353663,
+        1.3566327095031738
+      ],
+      "meshCount": 18
+    },
+    {
+      "name": "current",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Wave",
+        "Celebrate",
+        "Shy",
+        "Float",
+        "Hug"
+      ],
+      "bound": [
+        1.8420989755811306,
+        2.800589474788983,
+        0.6466768675294743
+      ],
+      "meshCount": 3
+    }
+  ],
+  "errors": []
+}

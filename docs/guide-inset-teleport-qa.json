@@ -1,0 +1,4025 @@
+{
+  "date": "2026-10-08",
+  "scope": "Birthday card composition, interior guide docks, teleport instead of travel",
+  "files": [
+    "src/Scene.tsx",
+    "src/Guide.tsx",
+    "src/guide-layout.ts",
+    "src/guide.css",
+    "src/story-layout.ts"
+  ],
+  "changes": {
+    "birthday": {
+      "numberScaleMultiplier": 0.74,
+      "numberCenter": [
+        0,
+        1.95,
+        -0.45
+      ],
+      "cardCenter": [
+        0,
+        -0.12,
+        0
+      ],
+      "cardSize": [
+        3.2,
+        2.08
+      ],
+      "headingFontPx": 70,
+      "confettiClearCenter": true
+    },
+    "guide": {
+      "preferredInsetViewportFraction": 0.1,
+      "separateActivityDocks": true,
+      "protectDecorativeBackground": false,
+      "protectTextAndControls": true,
+      "worldHeartProtected": true,
+      "portraitPhotoMoves": 2
+    },
+    "warp": {
+      "durationMs": 1360,
+      "reducedDurationMs": 240,
+      "canvasCssSize": [
+        200,
+        296
+      ],
+      "relocateWhenInvisible": true,
+      "hideBubbleBeforeRelocation": true,
+      "cancelPreviousOnRouteChange": true,
+      "hideDepartureWhenNewContentIntersects": true
+    }
+  },
+  "environment": {
+    "browser": "Headless Chromium with software WebGL",
+    "url": "http://127.0.0.1:5173/",
+    "physicalIPadTested": false
+  },
+  "layoutMatrix": {
+    "records": [
+      {
+        "name": "gift",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 66.72000122070312,
+          "y": 889.3455810546875,
+          "width": 138.27999877929688,
+          "height": 204.6544189453125
+        },
+        "gap": {
+          "left": 66.72000122070312,
+          "right": 629,
+          "top": 889.3455810546875,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 66.71875,
+          "y": 804.34375,
+          "width": 321,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 217,
+              "y": 937.390625,
+              "width": 400,
+              "height": 101.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 475.3800048828125,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 475.3800048828125,
+          "bottom": 124.09918212890625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 753.59375,
+          "y": 390.375,
+          "width": 321,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 397,
+              "y": 624.203125,
+              "width": 400,
+              "height": 101.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 144,
+          "right": 1136,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 144,
+          "y": 761,
+          "width": 321,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 520,
+              "y": 681.609375,
+              "width": 400,
+              "height": 101.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift-focus",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 680.5800170898438,
+          "width": 138.27999877929688,
+          "height": 204.6544189453125
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 612.3199996948242,
+          "top": 680.5800170898438,
+          "bottom": 308.76556396484375
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 241.671875,
+          "y": 742.171875,
+          "width": 313,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "gift-focus",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 475.3800048828125,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 475.3800048828125,
+          "bottom": 124.09918212890625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 583.125,
+          "y": 550.40625,
+          "width": 313,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "gift-focus",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 144,
+          "right": 1136,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 144,
+          "y": 761,
+          "width": 313,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 600.47998046875,
+          "y": 871.8223876953125,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "gap": {
+          "left": 600.47998046875,
+          "right": 83.4000244140625,
+          "top": 871.8223876953125,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 271.46875,
+          "y": 879.8125,
+          "width": 309,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 940.02001953125,
+          "y": 60,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 940.02001953125,
+          "right": 95.52001953125,
+          "top": 60,
+          "bottom": 539.4791870117188
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 611.015625,
+          "y": 68,
+          "width": 309,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1136,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 1136,
+          "right": 144,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 987,
+          "y": 761,
+          "width": 309,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "birthday",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 871.8223876953125,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 600.4800033569336,
+          "top": 871.8223876953125,
+          "bottom": 100
+        },
+        "guide": "guide       guide-celebration",
+        "side": "left",
+        "bubble": {
+          "x": 253.515625,
+          "y": 879.8125,
+          "width": 324,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 248.359375,
+              "y": 978.78125,
+              "width": 337.28125,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 475.3800048828125,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 475.3800048828125,
+          "bottom": 124.09918212890625
+        },
+        "guide": "guide       guide-celebration",
+        "side": "right",
+        "bubble": {
+          "x": 572.125,
+          "y": 550.40625,
+          "width": 324,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 428.359375,
+              "y": 665.59375,
+              "width": 337.28125,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 144,
+          "right": 1136,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-celebration",
+        "side": "left",
+        "bubble": {
+          "x": 324,
+          "y": 589.046875,
+          "width": 324,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 551.359375,
+              "y": 723,
+              "width": 337.28125,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday-model-bounds",
+        "number": {
+          "left": 568.484452846888,
+          "right": 873.3011176764893,
+          "top": 98.81684504336506,
+          "bottom": 293.6219396742943,
+          "min": {
+            "x": -1.3087656869810282,
+            "y": 1.157704418321654,
+            "z": -0.7349963326803952
+          },
+          "max": {
+            "x": 1.3241891433628292,
+            "y": 2.8391483691841803,
+            "z": -0.16471372240244797
+          }
+        },
+        "card": {
+          "left": 419.3910657763094,
+          "right": 929.3999919899077,
+          "top": 299.4447271154823,
+          "bottom": 583.2596073131782,
+          "min": {
+            "x": -2.470095902151456,
+            "y": -1.2344668044933431,
+            "z": -3.016842222614565
+          },
+          "max": {
+            "x": 1.7206343632485952,
+            "y": 0.9223034292891372,
+            "z": 0.643346260544842
+          }
+        }
+      },
+      {
+        "name": "envelope",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 600.47998046875,
+          "y": 871.8223876953125,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "gap": {
+          "left": 600.47998046875,
+          "right": 83.4000244140625,
+          "top": 871.8223876953125,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 289.46875,
+          "y": 879.8125,
+          "width": 291,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 475.3800048828125,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 475.3800048828125,
+          "bottom": 124.09918212890625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 605.125,
+          "y": 550.40625,
+          "width": 291,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1136,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 1136,
+          "right": 144,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 825,
+          "y": 589.046875,
+          "width": 291,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 600.47998046875,
+          "y": 835.7999877929688,
+          "width": 150.1199951171875,
+          "height": 222.17755126953125
+        },
+        "gap": {
+          "left": 600.47998046875,
+          "right": 83.4000244140625,
+          "top": 835.7999877929688,
+          "bottom": 136.0224609375
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 254.46875,
+          "y": 843.796875,
+          "width": 326,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 475.3800048828125,
+          "width": 158.4599609375,
+          "height": 234.52081298828125
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 475.3800048828125,
+          "bottom": 124.09918212890625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 570.125,
+          "y": 636.890625,
+          "width": 326,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1136,
+          "y": 513,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 1136,
+          "right": 144,
+          "top": 513,
+          "bottom": 150.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 970,
+          "y": 428,
+          "width": 326,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "letter",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 835.7999877929688,
+          "width": 123.99999237060547,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 626.6000061035156,
+          "top": 835.7999877929688,
+          "bottom": 174.67999267578125
+        },
+        "guide": "guide  guide-quiet     guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 227.390625,
+          "y": 843.796875,
+          "width": 326,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 105,
+              "y": 253,
+              "width": 624,
+              "height": 46
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 105,
+              "y": 319,
+              "width": 624,
+              "height": 372
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 265,
+              "y": 1046,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "letter",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 119.4000015258789,
+          "y": 54,
+          "width": 127.99999237060547,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 119.4000015258789,
+          "right": 946.6000061035156,
+          "top": 54,
+          "bottom": 590.5599975585938
+        },
+        "guide": "guide  guide-quiet     guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 267.390625,
+          "y": 62,
+          "width": 326,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 285,
+              "y": 183,
+              "width": 624,
+              "height": 46
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 285,
+              "y": 249,
+              "width": 624,
+              "height": 372
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 445,
+              "y": 686,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "letter",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 54,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 144,
+          "right": 1168,
+          "top": 54,
+          "bottom": 656.5599975585938
+        },
+        "guide": "guide  guide-quiet     guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 292,
+          "y": 65.19999694824219,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 408,
+              "y": 183,
+              "width": 624,
+              "height": 46
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 408,
+              "y": 249,
+              "width": 624,
+              "height": 372
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 568,
+              "y": 752,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "door",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 600.47998046875,
+          "y": 871.8223876953125,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "gap": {
+          "left": 600.47998046875,
+          "right": 83.4000244140625,
+          "top": 871.8223876953125,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 328.46875,
+          "y": 879.8125,
+          "width": 252,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "door",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 467.0400085449219,
+          "width": 158.4599609375,
+          "height": 234.52078247070312
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 467.0400085449219,
+          "bottom": 132.439208984375
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 822.59375,
+          "y": 382.03125,
+          "width": 252,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "door",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1136,
+          "y": 504,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 1136,
+          "right": 144,
+          "top": 504,
+          "bottom": 159.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 1044,
+          "y": 419,
+          "width": 252,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "universe",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 668.6400146484375,
+          "width": 108.00000762939453,
+          "height": 159.84002685546875
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 642.5999908447266,
+          "top": 668.6400146484375,
+          "bottom": 365.51995849609375
+        },
+        "guide": "guide   guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 211.390625,
+          "y": 676.625,
+          "width": 180,
+          "height": 124
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 265,
+              "y": 1042,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "universe",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "0.82",
+        "overflow": false,
+        "actor": {
+          "x": 990.47998046875,
+          "y": 383.6400146484375,
+          "width": 108,
+          "height": 159.84002685546875
+        },
+        "gap": {
+          "left": 990.47998046875,
+          "right": 95.52001953125,
+          "top": 383.6400146484375,
+          "bottom": 290.51995849609375
+        },
+        "guide": "guide   guide-universe    guide-silent",
+        "side": "right",
+        "bubble": {
+          "x": 830.46875,
+          "y": 394.82501220703125,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 445,
+              "y": 682,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "universe",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "0.82",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 630,
+          "width": 108,
+          "height": 159.84002685546875
+        },
+        "gap": {
+          "left": 144,
+          "right": 1188,
+          "top": 630,
+          "bottom": 110.15997314453125
+        },
+        "guide": "guide   guide-universe    guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 272,
+          "y": 641.2000122070312,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 568,
+              "y": 746,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "portrait",
+        "collisions": [
+          {
+            "x": 684,
+            "y": 285,
+            "width": 48,
+            "height": 48
+          }
+        ],
+        "opacity": "1",
+        "warp": "prepare",
+        "overflow": false,
+        "actor": {
+          "x": 643.280029296875,
+          "y": 274.6199951171875,
+          "width": 124,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 643.280029296875,
+          "right": 66.719970703125,
+          "top": 274.6199951171875,
+          "bottom": 735.8599853515625
+        },
+        "guide": "guide guide-traveling guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 504.265625,
+          "y": 1036.199951171875,
+          "width": 263,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 57,
+              "y": 224,
+              "width": 720,
+              "height": 882
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 179.25233459472656,
+              "y": 285.91326904296875,
+              "width": 435.495361328125,
+              "height": 580.0484619140625
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 96,
+              "y": 878.875,
+              "width": 602,
+              "height": 213.1875
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 946.5999755859375,
+          "y": 458.70001220703125,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 946.5999755859375,
+          "right": 119.4000244140625,
+          "top": 458.70001220703125,
+          "bottom": 185.8599853515625
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 663.59375,
+          "y": 466.6875,
+          "width": 263,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 133,
+              "y": 124.1875,
+              "width": 928,
+              "height": 577.625
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 164.76687622070312,
+              "y": 186.2048797607422,
+              "width": 421.9819030761719,
+              "height": 435.59027099609375
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 611.515625,
+              "y": 193.1875,
+              "width": 370.484375,
+              "height": 246.484375
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1168,
+          "y": 63,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 1168,
+          "right": 144,
+          "top": 63,
+          "bottom": 647.5599975585938
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 885,
+          "y": 71,
+          "width": 263,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 256,
+              "y": 142,
+              "width": 928,
+              "height": 608
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 287.2368469238281,
+              "y": 204.02662658691406,
+              "width": 423.0419616699219,
+              "height": 465.94677734375
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 734.515625,
+              "y": 211,
+              "width": 370.484375,
+              "height": 246.484375
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 83.58000183105469,
+          "width": 123.99999237060547,
+          "height": 183.52000427246094
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 626.6000061035156,
+          "top": 83.58000183105469,
+          "bottom": 926.8999938964844
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 227.390625,
+          "y": 91.578125,
+          "width": 225,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 57,
+              "y": 389,
+              "width": 720,
+              "height": 552
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 119.4000015258789,
+          "y": 58.380001068115234,
+          "width": 127.99999237060547,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 119.4000015258789,
+          "right": 946.6000061035156,
+          "top": 58.380001068115234,
+          "bottom": 586.1799964904785
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 267.390625,
+          "y": 66.375,
+          "width": 225,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 133,
+              "y": 137,
+              "width": 928,
+              "height": 552
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 63,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 144,
+          "right": 1168,
+          "top": 63,
+          "bottom": 647.5599975585938
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 292,
+          "y": 71,
+          "width": 225,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 256,
+              "y": 170,
+              "width": 928,
+              "height": 552
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 626.5999755859375,
+          "y": 60,
+          "width": 124,
+          "height": 183.52000427246094
+        },
+        "gap": {
+          "left": 626.5999755859375,
+          "right": 83.4000244140625,
+          "top": 60,
+          "bottom": 950.4799957275391
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 338.59375,
+          "y": 68,
+          "width": 268,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 57,
+              "y": 277.59375,
+              "width": 720,
+              "height": 774.796875
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 946.5999755859375,
+          "y": 325.260009765625,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 946.5999755859375,
+          "right": 119.4000244140625,
+          "top": 325.260009765625,
+          "bottom": 319.29998779296875
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 806.59375,
+          "y": 240.25,
+          "width": 268,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 133,
+              "y": 80,
+              "width": 928,
+              "height": 666
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 1168,
+          "y": 63,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 1168,
+          "right": 144,
+          "top": 63,
+          "bottom": 647.5599975585938
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 880,
+          "y": 71,
+          "width": 268,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 256,
+              "y": 89.09375,
+              "width": 928,
+              "height": 713.796875
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 83.58000183105469,
+          "width": 123.99999237060547,
+          "height": 183.52000427246094
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 626.6000061035156,
+          "top": 83.58000183105469,
+          "bottom": 926.8999938964844
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 227.390625,
+          "y": 91.578125,
+          "width": 361,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 57,
+              "y": 336.625,
+              "width": 720,
+              "height": 656.75
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 946.5999755859375,
+          "y": 325.260009765625,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 946.5999755859375,
+          "right": 119.4000244140625,
+          "top": 325.260009765625,
+          "bottom": 319.29998779296875
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 713.59375,
+          "y": 673,
+          "width": 361,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 133,
+              "y": 97.1875,
+              "width": 928,
+              "height": 631.625
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "0.82",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 63,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "gap": {
+          "left": 144,
+          "right": 1168,
+          "top": 63,
+          "bottom": 647.5599975585938
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 292,
+          "y": 74.19999694824219,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 256,
+              "y": 115,
+              "width": 928,
+              "height": 662
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 83.4000015258789,
+          "y": 656.7000122070312,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "gap": {
+          "left": 83.4000015258789,
+          "right": 600.4800033569336,
+          "top": 656.7000122070312,
+          "bottom": 315.12237548828125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 83.390625,
+          "y": 898.875,
+          "width": 271,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 265,
+              "y": 794.203125,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 916.1400146484375,
+          "y": 316.9200134277344,
+          "width": 158.4599609375,
+          "height": 234.52078247070312
+        },
+        "gap": {
+          "left": 916.1400146484375,
+          "right": 119.4000244140625,
+          "top": 316.9200134277344,
+          "bottom": 282.5592041015625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 803.59375,
+          "y": 231.90625,
+          "width": 271,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 445,
+              "y": 604.296875,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 144,
+          "y": 342,
+          "width": 160,
+          "height": 236.79998779296875
+        },
+        "gap": {
+          "left": 144,
+          "right": 1136,
+          "top": 342,
+          "bottom": 321.20001220703125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 144,
+          "y": 257,
+          "width": 271,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 568,
+              "y": 640.609375,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "portrait",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 618.5999755859375,
+          "y": 942.6400146484375,
+          "width": 132,
+          "height": 195.3599853515625
+        },
+        "gap": {
+          "left": 618.5999755859375,
+          "right": 83.4000244140625,
+          "top": 942.6400146484375,
+          "bottom": 56
+        },
+        "guide": "guide       guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 299.59375,
+          "y": 950.625,
+          "width": 299,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 92,
+              "y": 597,
+              "width": 650,
+              "height": 336.625
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 164.359375,
+              "y": 857.625,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "landscape",
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 942.5999755859375,
+          "y": 316.9200134277344,
+          "width": 132,
+          "height": 195.36001586914062
+        },
+        "gap": {
+          "left": 942.5999755859375,
+          "right": 119.4000244140625,
+          "top": 316.9200134277344,
+          "bottom": 321.719970703125
+        },
+        "guide": "guide       guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 775.59375,
+          "y": 532.265625,
+          "width": 299,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 272,
+              "y": 366.953125,
+              "width": 650,
+              "height": 355.453125
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 344.359375,
+              "y": 646.40625,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "desktop",
+        "collisions": [],
+        "opacity": "0",
+        "overflow": false,
+        "actor": {
+          "x": 1164,
+          "y": 342,
+          "width": 132,
+          "height": 195.3599853515625
+        },
+        "gap": {
+          "left": 1164,
+          "right": 144,
+          "top": 342,
+          "bottom": 362.6400146484375
+        },
+        "guide": "guide      guide-hidden guide-silent",
+        "side": "right",
+        "bubble": {
+          "x": 1004,
+          "y": 353.20001220703125,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 395,
+              "y": 396,
+              "width": 650,
+              "height": 355.453125
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 467.359375,
+              "y": 675.453125,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      }
+    ],
+    "debug": [],
+    "errors": []
+  },
+  "smallLayoutMatrix": {
+    "records": [
+      {
+        "name": "gift",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 61.439998626708984,
+          "y": 760.3712158203125,
+          "width": 110.55999755859375,
+          "height": 163.6287841796875
+        },
+        "gap": {
+          "left": 61.439998626708984,
+          "right": 596.0000038146973,
+          "top": 760.3712158203125,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 61.4375,
+          "y": 675.359375,
+          "width": 321,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 184,
+              "y": 789.5,
+              "width": 400,
+              "height": 101.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 481.0799865722656,
+          "width": 88,
+          "height": 130.24002075195312
+        },
+        "gap": {
+          "left": 16,
+          "right": 286,
+          "top": 481.0799865722656,
+          "bottom": 232.67999267578125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 124,
+          "y": 489.078125,
+          "width": 234,
+          "height": 50
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 25,
+              "y": 663.609375,
+              "width": 340,
+              "height": 88.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 16,
+          "right": 216,
+          "top": 60,
+          "bottom": 549.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 114,
+          "y": 68,
+          "width": 194,
+          "height": 73
+        },
+        "protected": [
+          {
+            "name": "pin-form",
+            "rect": {
+              "x": 16,
+              "y": 559.609375,
+              "width": 288,
+              "height": 88.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "gift-focus",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 716.7999877929688,
+          "width": 110.55999755859375,
+          "height": 163.6287841796875
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 580.6399993896484,
+          "top": 716.7999877929688,
+          "bottom": 143.57122802734375
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 207.359375,
+          "y": 724.796875,
+          "width": 313,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "gift-focus",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 590.7999877929688,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 16,
+          "right": 286,
+          "top": 590.7999877929688,
+          "bottom": 122.96002197265625
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 124,
+          "y": 598.796875,
+          "width": 228,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "gift-focus",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 509.760009765625,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 16,
+          "right": 216,
+          "top": 509.760009765625,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 114,
+          "y": 517.75,
+          "width": 194,
+          "height": 73
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "warp": "prepare",
+        "overflow": false,
+        "actor": {
+          "x": 547.2000122070312,
+          "y": 583.6799926757812,
+          "width": 144,
+          "height": 213.1199951171875
+        },
+        "gap": {
+          "left": 547.2000122070312,
+          "right": 76.79998779296875,
+          "top": 583.6799926757812,
+          "bottom": 227.20001220703125
+        },
+        "guide": "guide guide-traveling      guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 218.1875,
+          "y": 594.8718872070312,
+          "width": 309,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 286,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 286,
+          "right": 16,
+          "top": 60,
+          "bottom": 653.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 40,
+          "y": 68,
+          "width": 226,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "cake",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 216,
+          "y": 509.760009765625,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 216,
+          "right": 16,
+          "top": 509.760009765625,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 12,
+          "y": 517.75,
+          "width": 194,
+          "height": 73
+        },
+        "protected": []
+      },
+      {
+        "name": "birthday",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "0.997876",
+        "warp": "out",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 16,
+          "right": 664,
+          "top": 60,
+          "bottom": 833.7599945068359
+        },
+        "guide": "guide guide-traveling      guide-celebration",
+        "side": "left",
+        "bubble": {
+          "x": 124,
+          "y": 63.20000076293945,
+          "width": 140,
+          "height": 39.999996185302734
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 215.359375,
+              "y": 830.890625,
+              "width": 337.28125,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 481.0799865722656,
+          "width": 88,
+          "height": 130.24002075195312
+        },
+        "gap": {
+          "left": 16,
+          "right": 286,
+          "top": 481.0799865722656,
+          "bottom": 232.67999267578125
+        },
+        "guide": "guide       guide-celebration",
+        "side": "left",
+        "bubble": {
+          "x": 124,
+          "y": 489.078125,
+          "width": 237,
+          "height": 50
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 40.984375,
+              "y": 696,
+              "width": 308.03125,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 421.79998779296875,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 16,
+          "right": 216,
+          "top": 421.79998779296875,
+          "bottom": 187.96002197265625
+        },
+        "guide": "guide       guide-celebration",
+        "side": "left",
+        "bubble": {
+          "x": 114,
+          "y": 429.796875,
+          "width": 194,
+          "height": 73
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 16,
+              "y": 570,
+              "width": 288,
+              "height": 78
+            }
+          }
+        ]
+      },
+      {
+        "name": "birthday-model-bounds",
+        "number": {
+          "left": 97.66924044272753,
+          "right": 223.06531102117413,
+          "top": 199.39354597502802,
+          "bottom": 279.487973779301,
+          "min": {
+            "x": -1.3087656869810282,
+            "y": 1.157704418321654,
+            "z": -0.7349963326803952
+          },
+          "max": {
+            "x": 1.3241891433628292,
+            "y": 2.8391483691841803,
+            "z": -0.16471372240244797
+          }
+        },
+        "card": {
+          "left": 38.710947589178545,
+          "right": 244.48826269544696,
+          "top": 285.7311289790893,
+          "bottom": 397.4110113354847,
+          "min": {
+            "x": -2.470095902151456,
+            "y": -1.2344668044933431,
+            "z": -3.016842222614565
+          },
+          "max": {
+            "x": 1.7206343632485952,
+            "y": 0.9223034292891372,
+            "z": 0.643346260544842
+          }
+        }
+      },
+      {
+        "name": "envelope",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 547.2000122070312,
+          "y": 716.7999877929688,
+          "width": 144,
+          "height": 213.1199951171875
+        },
+        "gap": {
+          "left": 547.2000122070312,
+          "right": 76.79998779296875,
+          "top": 716.7999877929688,
+          "bottom": 94.08001708984375
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 236.1875,
+          "y": 724.796875,
+          "width": 291,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 286,
+          "y": 613.760009765625,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 286,
+          "right": 16,
+          "top": 613.760009765625,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 53,
+          "y": 621.75,
+          "width": 213,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 216,
+          "y": 509.760009765625,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 216,
+          "right": 16,
+          "top": 509.760009765625,
+          "bottom": 100
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 12,
+          "y": 517.75,
+          "width": 194,
+          "height": 73
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 547.2000122070312,
+          "y": 60,
+          "width": 144,
+          "height": 213.1199951171875
+        },
+        "gap": {
+          "left": 547.2000122070312,
+          "right": 76.79998779296875,
+          "top": 60,
+          "bottom": 750.8800048828125
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 201.1875,
+          "y": 68,
+          "width": 326,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 286,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 286,
+          "right": 16,
+          "top": 60,
+          "bottom": 653.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 28,
+          "y": 68,
+          "width": 238,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "envelope-ready",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 216,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 216,
+          "right": 16,
+          "top": 60,
+          "bottom": 549.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 12,
+          "y": 68,
+          "width": 194,
+          "height": 73
+        },
+        "protected": []
+      },
+      {
+        "name": "letter",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 56.31999969482422,
+          "width": 124,
+          "height": 183.51998901367188
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 567.1999969482422,
+          "top": 56.31999969482422,
+          "bottom": 784.1600112915039
+        },
+        "guide": "guide  guide-quiet     guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 220.796875,
+          "y": 64.3125,
+          "width": 326,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 81,
+              "y": 253,
+              "width": 606,
+              "height": 46
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 81,
+              "y": 319,
+              "width": 606,
+              "height": 372
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 232,
+              "y": 876,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "letter",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 310,
+          "top": 54,
+          "bottom": 695.2799987792969
+        },
+        "guide": "guide  guide-quiet     guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 62,
+          "width": 222,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 41,
+              "y": 265,
+              "width": 308,
+              "height": 34
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 41,
+              "y": 319,
+              "width": 308,
+              "height": 452.71875
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 55,
+              "y": 700,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "letter",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 240,
+          "top": 54,
+          "bottom": 591.2799987792969
+        },
+        "guide": "guide  guide-quiet     guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 65.19999694824219,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "H2",
+            "rect": {
+              "x": 41,
+              "y": 265,
+              "width": 238,
+              "height": 34
+            }
+          },
+          {
+            "name": "letter-lines",
+            "rect": {
+              "x": 41,
+              "y": 319,
+              "width": 238,
+              "height": 482.3125
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 20,
+              "y": 596,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "door",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 562.5599975585938,
+          "y": 716.7999877929688,
+          "width": 144,
+          "height": 213.1199951171875
+        },
+        "gap": {
+          "left": 562.5599975585938,
+          "right": 61.44000244140625,
+          "top": 716.7999877929688,
+          "bottom": 94.08001708984375
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 290.546875,
+          "y": 782.203125,
+          "width": 252,
+          "height": 61
+        },
+        "protected": []
+      },
+      {
+        "name": "door",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 286,
+          "y": 590.7999877929688,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 286,
+          "right": 16,
+          "top": 590.7999877929688,
+          "bottom": 122.96002197265625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 81,
+          "y": 598.796875,
+          "width": 185,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "door",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 216,
+          "y": 518,
+          "width": 88,
+          "height": 130.239990234375
+        },
+        "gap": {
+          "left": 216,
+          "right": 16,
+          "top": 518,
+          "bottom": 91.760009765625
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 12,
+          "y": 526,
+          "width": 185,
+          "height": 50
+        },
+        "protected": []
+      },
+      {
+        "name": "universe",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 573.4400024414062,
+          "width": 108.00001525878906,
+          "height": 159.84002685546875
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 583.1999816894531,
+          "top": 573.4400024414062,
+          "bottom": 290.719970703125
+        },
+        "guide": "guide   guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 204.796875,
+          "y": 581.4375,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 232,
+              "y": 872,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "universe",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 557.0399780273438,
+          "width": 64,
+          "height": 94.72003173828125
+        },
+        "gap": {
+          "left": 16,
+          "right": 310,
+          "top": 557.0399780273438,
+          "bottom": 192.239990234375
+        },
+        "guide": "guide   guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 563.15625,
+          "width": 250,
+          "height": 73
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 55,
+              "y": 696,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "universe",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "0.82",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 60,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 240,
+          "top": 60,
+          "bottom": 585.2799987792969
+        },
+        "guide": "guide   guide-universe    guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 71.19999694824219,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 20,
+              "y": 590,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 567.2000122070312,
+          "y": 71.68000030517578,
+          "width": 124,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 567.2000122070312,
+          "right": 76.79998779296875,
+          "top": 71.68000030517578,
+          "bottom": 768.7999801635742
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 284.1875,
+          "y": 79.671875,
+          "width": 263,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 32,
+              "y": 224,
+              "width": 704,
+              "height": 712
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 147.24423217773438,
+              "y": 285.89593505859375,
+              "width": 433.5115051269531,
+              "height": 523.2393798828125
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 71,
+              "y": 822.03125,
+              "width": 586,
+              "height": 213.1875
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 310,
+          "y": 59.08000183105469,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 310,
+          "right": 16,
+          "top": 59.08000183105469,
+          "bottom": 690.1999969482422
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 110,
+          "y": 67.078125,
+          "width": 180,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 16,
+              "y": 176,
+              "width": 358,
+              "height": 580
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 36.741790771484375,
+              "y": 240.50390625,
+              "width": 276.51641845703125,
+              "height": 372.2421875
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 43,
+              "y": 628.25,
+              "width": 264,
+              "height": 253.953125
+            }
+          }
+        ]
+      },
+      {
+        "name": "memory",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 240,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 240,
+          "right": 16,
+          "top": 54,
+          "bottom": 591.2799987792969
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 40,
+          "y": 62,
+          "width": 180,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-memory",
+            "rect": {
+              "x": 16,
+              "y": 176,
+              "width": 288,
+              "height": 476
+            }
+          },
+          {
+            "name": "memory-frame",
+            "rect": {
+              "x": 38.34874725341797,
+              "y": 241.69696044921875,
+              "width": 203.302490234375,
+              "height": 276.5435791015625
+            }
+          },
+          {
+            "name": "memory-copy",
+            "rect": {
+              "x": 43,
+              "y": 534.9375,
+              "width": 194,
+              "height": 351.53125
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 71.68000030517578,
+          "width": 124,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 567.1999969482422,
+          "top": 71.68000030517578,
+          "bottom": 768.7999801635742
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 220.796875,
+          "y": 79.671875,
+          "width": 225,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 32,
+              "y": 304,
+              "width": 704,
+              "height": 552
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 59.08000183105469,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 310,
+          "top": 59.08000183105469,
+          "bottom": 690.1999969482422
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 67.078125,
+          "width": 154,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 16,
+              "y": 204.796875,
+              "width": 358,
+              "height": 522.390625
+            }
+          }
+        ]
+      },
+      {
+        "name": "promise",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 240,
+          "top": 54,
+          "bottom": 591.2799987792969
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 62,
+          "width": 154,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-promise",
+            "rect": {
+              "x": 16,
+              "y": 176,
+              "width": 288,
+              "height": 476
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 71.68000030517578,
+          "width": 124,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 567.1999969482422,
+          "top": 71.68000030517578,
+          "bottom": 768.7999801635742
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 220.796875,
+          "y": 79.671875,
+          "width": 268,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 32,
+              "y": 224,
+              "width": 704,
+              "height": 712
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 310,
+          "y": 59.08000183105469,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 310,
+          "right": 16,
+          "top": 59.08000183105469,
+          "bottom": 690.1999969482422
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 107,
+          "y": 67.078125,
+          "width": 183,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 16,
+              "y": 176,
+              "width": 358,
+              "height": 580
+            }
+          }
+        ]
+      },
+      {
+        "name": "puzzle",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 240,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 240,
+          "right": 16,
+          "top": 54,
+          "bottom": 591.2799987792969
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 37,
+          "y": 62,
+          "width": 183,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-puzzle",
+            "rect": {
+              "x": 16,
+              "y": 176,
+              "width": 288,
+              "height": 476
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 76.80000305175781,
+          "y": 71.68000030517578,
+          "width": 124,
+          "height": 183.52001953125
+        },
+        "gap": {
+          "left": 76.80000305175781,
+          "right": 567.1999969482422,
+          "top": 71.68000030517578,
+          "bottom": 768.7999801635742
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 220.796875,
+          "y": 79.671875,
+          "width": 361,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 32,
+              "y": 256.625,
+              "width": 704,
+              "height": 646.75
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 59.08000183105469,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 310,
+          "top": 59.08000183105469,
+          "bottom": 690.1999969482422
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 67.078125,
+          "width": 245,
+          "height": 44
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 16,
+              "y": 246.046875,
+              "width": 358,
+              "height": 439.890625
+            }
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 54,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 240,
+          "top": 54,
+          "bottom": 591.2799987792969
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "side": "left",
+        "bubble": {
+          "x": 90,
+          "y": 62,
+          "width": 218,
+          "height": 65
+        },
+        "protected": [
+          {
+            "name": "world-panel panel-video",
+            "rect": {
+              "x": 16,
+              "y": 215.921875,
+              "width": 288,
+              "height": 396.140625
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 61.439998626708984,
+          "y": 563.2000122070312,
+          "width": 144,
+          "height": 213.1199951171875
+        },
+        "gap": {
+          "left": 61.439998626708984,
+          "right": 562.560001373291,
+          "top": 563.2000122070312,
+          "bottom": 247.67999267578125
+        },
+        "guide": "guide       guide-guide",
+        "side": "left",
+        "bubble": {
+          "x": 61.4375,
+          "y": 796.3125,
+          "width": 271,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 232,
+              "y": 697.75,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 286,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 286,
+          "right": 16,
+          "top": 60,
+          "bottom": 653.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 67,
+          "y": 68,
+          "width": 199,
+          "height": 50
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 55,
+              "y": 597.796875,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "rating",
+        "view": "small-phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 216,
+          "y": 60,
+          "width": 88,
+          "height": 130.24000549316406
+        },
+        "gap": {
+          "left": 216,
+          "right": 16,
+          "top": 60,
+          "bottom": 549.7599945068359
+        },
+        "guide": "guide       guide-guide",
+        "side": "right",
+        "bubble": {
+          "x": 12,
+          "y": 60,
+          "width": 194,
+          "height": 73
+        },
+        "protected": [
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 20,
+              "y": 540.609375,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "small-ipad",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "1",
+        "overflow": false,
+        "actor": {
+          "x": 574.5599975585938,
+          "y": 563.2000122070312,
+          "width": 132,
+          "height": 195.3599853515625
+        },
+        "gap": {
+          "left": 574.5599975585938,
+          "right": 61.44000244140625,
+          "top": 563.2000122070312,
+          "bottom": 265.44000244140625
+        },
+        "guide": "guide       guide-quiet",
+        "side": "right",
+        "bubble": {
+          "x": 407.546875,
+          "y": 863,
+          "width": 299,
+          "height": 61
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 59,
+              "y": 512,
+              "width": 650,
+              "height": 335.15625
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 131.359375,
+              "y": 771.15625,
+              "width": 304,
+              "height": 60
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "phone",
+        "blockedActions": [],
+        "collisions": [],
+        "opacity": "0",
+        "overflow": false,
+        "actor": {
+          "x": 16,
+          "y": 329.1600036621094,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 16,
+          "right": 310,
+          "top": 329.1600036621094,
+          "bottom": 420.1199951171875
+        },
+        "guide": "guide      guide-hidden guide-silent",
+        "side": "left",
+        "bubble": {
+          "x": 100,
+          "y": 375.07501220703125,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 16,
+              "y": 422,
+              "width": 358,
+              "height": 380.78125
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 55,
+              "y": 666.78125,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      },
+      {
+        "name": "ending",
+        "view": "small-phone",
+        "blockedActions": [
+          "กลับไปดูความทรงจำ"
+        ],
+        "collisions": [],
+        "opacity": "0",
+        "overflow": false,
+        "actor": {
+          "x": 240,
+          "y": 288.6000061035156,
+          "width": 64,
+          "height": 94.72000122070312
+        },
+        "gap": {
+          "left": 240,
+          "right": 16,
+          "top": 288.6000061035156,
+          "bottom": 356.67999267578125
+        },
+        "guide": "guide      guide-hidden guide-silent",
+        "side": "right",
+        "bubble": {
+          "x": 80,
+          "y": 314.41876220703125,
+          "width": 140,
+          "height": 40
+        },
+        "protected": [
+          {
+            "name": "ending-copy",
+            "rect": {
+              "x": 16,
+              "y": 370,
+              "width": 288,
+              "height": 444.375
+            }
+          },
+          {
+            "name": "primary-button",
+            "rect": {
+              "x": 20,
+              "y": 678.375,
+              "width": 280,
+              "height": 56
+            }
+          }
+        ]
+      }
+    ],
+    "debug": [],
+    "errors": []
+  },
+  "normalMotion": {
+    "passed": true,
+    "records": [
+      {
+        "name": "unlocked",
+        "hero": {
+          "x": 152.16241050495418,
+          "y": 228.54513751955866,
+          "width": 529.6751789900916,
+          "height": 481.9377165151626
+        },
+        "hits": [
+          {
+            "name": "แตะกล่องเพื่อเปิดเซอร์ไพรส์",
+            "x": 140.15625,
+            "y": 216.53125,
+            "width": 553.671875,
+            "height": 505.9375,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "cake-after-rotation",
+        "hero": {
+          "x": 265.6744289925856,
+          "y": 201.15895178307977,
+          "width": 662.6511420148288,
+          "height": 445.41736167816777
+        },
+        "hits": [
+          {
+            "name": "แตะเค้กเพื่อเป่าเทียน",
+            "x": 253.671875,
+            "y": 189.15625,
+            "width": 686.640625,
+            "height": 469.40625,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 1194,
+          "height": 834
+        }
+      },
+      {
+        "name": "birthday-after-rotation",
+        "hero": {
+          "x": 234.06376983487664,
+          "y": 219.3427952034283,
+          "width": 366.1371651583727,
+          "height": 463.790058324259
+        },
+        "hits": [
+          {
+            "name": "มีจดหมายถึงแฟนสุดที่ร้ากด้วย",
+            "x": 248.359375,
+            "y": 978.78125,
+            "width": 337.28125,
+            "height": 60,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "envelope",
+        "hero": {
+          "x": 149.51466626130843,
+          "y": 333.27527356120265,
+          "width": 533.1287446653771,
+          "height": 362.7454889010081
+        },
+        "hits": [
+          {
+            "name": "แตะเพื่อเปิดซองจดหมาย",
+            "x": 137.5,
+            "y": 321.265625,
+            "width": 557.125,
+            "height": 386.734375,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "paper-ready",
+        "hero": {
+          "x": 149.56763610772484,
+          "y": 281.44909319123076,
+          "width": 532.7297183225863,
+          "height": 526.4840207076768
+        },
+        "hits": [
+          {
+            "name": "แตะกระดาษเพื่ออ่านข้อความ",
+            "x": 174.9375,
+            "y": 278.640625,
+            "width": 479.203125,
+            "height": 336.65625,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "letter-after-rotation",
+        "hero": null,
+        "hits": [
+          {
+            "name": "ไปดูโลกของเรากัน",
+            "x": 445,
+            "y": 686,
+            "width": 304,
+            "height": 60,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 1194,
+          "height": 834
+        }
+      },
+      {
+        "name": "door",
+        "hero": {
+          "x": 404.9833909279133,
+          "y": 136.87943707911447,
+          "width": 384.03321814417336,
+          "height": 462.3991954050407
+        },
+        "hits": [
+          {
+            "name": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+            "x": 550.109375,
+            "y": 308.90625,
+            "width": 93.765625,
+            "height": 98.484375,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 1194,
+          "height": 834
+        }
+      },
+      {
+        "name": "universe-after-warp-rotation",
+        "hero": null,
+        "hits": [
+          {
+            "name": "ไปเซอร์ไพรส์สุดท้าย",
+            "x": 265,
+            "y": 1042,
+            "width": 304,
+            "height": 60,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "photo-by-touch",
+        "hero": null,
+        "hits": [
+          {
+            "name": "ปิดและกลับสู่จักรวาล",
+            "x": 684,
+            "y": 285,
+            "width": 48,
+            "height": 48,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "universe-return-after-panel-rotation",
+        "hero": null,
+        "hits": [
+          {
+            "name": "ไปเซอร์ไพรส์สุดท้าย",
+            "x": 445,
+            "y": 682,
+            "width": 304,
+            "height": 60,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 1194,
+          "height": 834
+        }
+      },
+      {
+        "name": "rating-after-gather-rotation",
+        "hero": {
+          "x": 232.59333673902535,
+          "y": 248.48975159979074,
+          "width": 369.04528132570516,
+          "height": 366.36337853382435
+        },
+        "hits": [],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      },
+      {
+        "name": "ending",
+        "hero": {
+          "x": 117.85664234675613,
+          "y": 44.42743855704078,
+          "width": 598.8369223729799,
+          "height": 500.9480875924156
+        },
+        "hits": [
+          {
+            "name": "กลับไปดูความทรงจำ",
+            "x": 164.359375,
+            "y": 857.625,
+            "width": 304,
+            "height": 60,
+            "canClick": true
+          }
+        ],
+        "overflow": false,
+        "viewport": {
+          "width": 834,
+          "height": 1194
+        }
+      }
+    ],
+    "world": {
+      "center": [
+        0.012861666794359619,
+        0.17128328233454512,
+        0.9894932950103135
+      ],
+      "camera": [
+        1.3877787807814457e-17,
+        3.2162969999999995,
+        -9.151881000000003
+      ]
+    },
+    "cues": [
+      "pin-reset",
+      "gift-lid",
+      "gift-light",
+      "cake-arrive",
+      "breath",
+      "wick-out",
+      "wick-out",
+      "wish-made",
+      "number-form",
+      "envelope-flap",
+      "celebrate",
+      "card-close",
+      "card-turn",
+      "seal-release",
+      "envelope-flap",
+      "paper-rise",
+      "paper-ready",
+      "paper-pull",
+      "paper-settle",
+      "tap",
+      "signature",
+      "paper-fold",
+      "door-appear",
+      "hold-stop",
+      "hold-start",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-progress",
+      "hold-stop",
+      "hold-stop",
+      "door-unlock",
+      "door-open",
+      "suction",
+      "warp",
+      "arrival",
+      "heart-form",
+      "assets-emerge",
+      "asset-cluster",
+      "asset-cluster",
+      "asset-cluster",
+      "world-ready",
+      "gather",
+      "gather-complete",
+      "heart-offer",
+      "heart-seal"
+    ],
+    "errors": []
+  },
+  "motionInvariants": {
+    "samples": 311,
+    "visiblePositionJumps": 0,
+    "fixedDrawingSurface": true,
+    "bubblesHiddenDuringOutRelocateInSettle": true
+  },
+  "finalTargetedChecks": {
+    "passed": true,
+    "records": [
+      {
+        "name": "birthday-portrait",
+        "actor": {
+          "x": 66.72000122070312,
+          "y": 680.5800170898438,
+          "width": 150.1199951171875,
+          "height": 222.1776123046875
+        },
+        "bubble": {
+          "x": 236.828125,
+          "y": 750.046875,
+          "width": 324,
+          "height": 61
+        },
+        "guide": "guide       guide-celebration",
+        "collisions": [],
+        "overflow": false
+      },
+      {
+        "name": "memory-portrait",
+        "actor": {
+          "x": 626.5999755859375,
+          "y": 83.58000183105469,
+          "width": 124,
+          "height": 183.52000427246094
+        },
+        "bubble": {
+          "x": 343.59375,
+          "y": 91.578125,
+          "width": 263,
+          "height": 61
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-quiet",
+        "collisions": [],
+        "overflow": false
+      },
+      {
+        "name": "puzzle-landscape",
+        "actor": {
+          "x": 946.5999755859375,
+          "y": 325.260009765625,
+          "width": 128,
+          "height": 189.44000244140625
+        },
+        "bubble": {
+          "x": 806.59375,
+          "y": 240.25,
+          "width": 268,
+          "height": 61
+        },
+        "guide": "guide  guide-quiet guide-universe    guide-guide",
+        "collisions": [],
+        "overflow": false
+      },
+      {
+        "name": "ending-small-ipad",
+        "actor": {
+          "x": 574.5599975585938,
+          "y": 563.2000122070312,
+          "width": 132,
+          "height": 195.3599853515625
+        },
+        "bubble": {
+          "x": 407.546875,
+          "y": 863,
+          "width": 299,
+          "height": 61
+        },
+        "guide": "guide       guide-quiet",
+        "collisions": [],
+        "overflow": false
+      },
+      {
+        "name": "ending-scrolled-390",
+        "clickable": true
+      },
+      {
+        "name": "ending-scrolled-320",
+        "clickable": true
+      }
+    ],
+    "errors": []
+  },
+  "reviewNotes": [
+    "The matrix caught a transient overlap of the previous dock with the memory close button during departure. The final change hides a departure that intersects newly opened content; final settled memory and puzzle checks pass.",
+    "On narrow phones ending actions use the existing internal scroll area. Both 390px and 320px actions were scrolled into view and tested for hit access; the final return-to-universe click passed.",
+    "Build passed; existing large Three.js chunk warning remains."
+  ],
+  "buildPassed": true,
+  "localHttpStatus": 200
+}

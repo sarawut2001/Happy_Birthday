@@ -1,0 +1,4302 @@
+{
+  "base": "http://127.0.0.1:5190",
+  "checks": [
+    {
+      "label": "gift",
+      "classes": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Wave",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ใส่รหัส 6 หลัก แล้วไปเปิดของขวัญกัน ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        9.583895999999998
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "unlocked",
+      "classes": "app has-guide stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Present",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ปลดล็อกแล้ว! แตะกล่องเพื่อเปิดเลย ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.649999999999999,
+        10.74558
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "cake",
+      "classes": "app has-guide stage-1 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Present",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "อธิษฐานก่อนนะ แล้วแตะเค้กเพื่อเป่า ♡",
+      "assets": [],
+      "camera": [
+        0,
+        2.6,
+        8.277001000000002
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "22",
+      "classes": "app has-guide stage-2 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Celebrate",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "สุขสันต์ 22 ปีน้า! มีจดหมายรออยู่ด้วย ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        8.277001001376092
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "envelope",
+      "classes": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Present",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "แตะซองนี้ได้เลย มีข้อความถึงเธอ ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.649999999999999,
+        9.438685352446424
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "envelope-ready",
+      "classes": "app has-guide stage-3 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Present",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "กระดาษออกมาแล้ว แตะเพื่ออ่านได้เลย ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.649999999999999,
+        9.438685
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "letter",
+      "classes": "app has-guide stage-4 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Idle",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ค่อย ๆ อ่านได้เลย เค้าเขียนถึงเธอไว้นะ ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        8.277001001376092
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "door",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Invite",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "กดหัวใจค้าง แล้วตามมาเลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        }
+      ],
+      "camera": [
+        0,
+        1.6500000000000001,
+        13.214159
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "universe",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Invite",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ลากดูรอบ ๆ แล้วแตะรูปหรือการ์ดที่ชอบได้เลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "memory",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Idle",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "รูปนี้มีเรื่องน่ารัก ๆ อยู่ด้วยนะ ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "promise",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Thanks",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ใบนี้ตั้งใจให้เธอเลยนะ ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "puzzle-solved",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Celebrate",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ครบแล้ว! เก่งมากเลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999986,
+        -11.221472
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "video-ended",
+      "classes": "app has-guide stage-5 theme-night  motion-reduced has-world-panel   ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Thanks",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "กลับไปดูรูปอื่น ๆ ต่อได้เลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "rating",
+      "classes": "app has-guide stage-6 theme-night  motion-reduced    finale-rating",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Thanks",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "เลือกหัวใจให้เซอร์ไพรส์นี้ได้เลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        }
+      ],
+      "camera": [
+        0,
+        3.4,
+        -11.221472
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "ending",
+      "classes": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Thanks",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ขอให้วันนี้เป็นวันที่น่ารักที่สุดเลยนะ ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "739bbaae-8f39-4fd6-bb67-832a2cb3c48a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "fffe4435-9007-4ef9-a768-c05638e3b301",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "bd0e72d8-c0ca-4c4e-a6f7-f5e90195de1a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "1560b8d4-8d7c-4c42-8795-510a07234853",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "b9fff89b-f872-48fd-88a5-c6dc2e4a6806",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "8a1bc726-ea4d-42d8-84a8-ef7d5d9a6276",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "468d8efb-6269-4f3d-bbef-981f198cb416",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "6d9e4667-fa11-4d3d-9c35-f044f5a5dd02",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "c490c1e1-376f-4587-a0c4-3636eaed06a9",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "efc0ed49-1a07-4a09-ac98-6e3d3553320f",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "5490151e-9deb-45c6-877a-16d4fc3b7307",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "25ab957c-b265-4347-9e0a-30fb69ec1685",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "ed5e9758-5f79-4993-af6c-d7d9f0e0bfc8",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "4f5d4ee8-3ab6-409d-bba2-5873a7a09829",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "566860b4-9bcd-42bf-a1b7-e30bee944eb5",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "5c26b78c-301b-4c6a-815a-21e399d33129",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "dfed4698-346c-44b5-bbf4-1e53365016ba",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999995,
+        -11.221472000000002
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "replay",
+      "classes": "app has-guide stage-0 theme-blush  motion-reduced    ",
+      "guide": {
+        "uuid": "7d7a4688-2a58-4fc5-8745-d5e8879c0de8",
+        "pose": "Wave",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ใส่รหัส 6 หลัก แล้วไปเปิดของขวัญกัน ♡",
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        9.583895999999998
+      ],
+      "guideVisible": "visible"
+    },
+    {
+      "label": "normal-reveal-to-hub",
+      "classes": "app has-guide stage-5 theme-night      ",
+      "guide": {
+        "uuid": "60430ce3-5ca4-480b-a2f3-e97983a1d3b3",
+        "pose": "Invite",
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave",
+          "Celebrate",
+          "Shy",
+          "Float",
+          "Hug",
+          "Present",
+          "Invite",
+          "Blow",
+          "Thanks"
+        ]
+      },
+      "speech": "ลากดูรอบ ๆ แล้วแตะรูปหรือการ์ดที่ชอบได้เลย ♡",
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "c7e9f681-b8c8-482d-b654-71d07a9aab65",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "19de2d9e-a5b7-4e1f-b5de-af4508752c9a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "6056d00e-e95d-41b2-92c0-405ca989b09e",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "adadca57-6d81-472c-9161-034ecb0024b7",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "fbd434fe-1250-480b-a2c3-c73e66975308",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "e488e960-a448-4e48-b900-e43c4826b858",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "e852ea36-7f84-4c1b-87b3-b587c952f7d7",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "73174209-7b5c-441e-997b-448a7b5587a9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "b74da6a0-27de-42b7-8db3-f091870b8d1e",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "284cc326-a011-42e0-82d1-7ed87c5da429",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "2b16246f-f073-4cd9-9656-1f1fa7ac5199",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "59f08eed-f9fa-45fe-84d5-494b17da6e28",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "6205f2ff-57d7-4565-9b4e-7f133609ea4b",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "23cbc910-a20f-4ac8-ab7e-60313b8e4387",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "0a5ea9b2-6415-4dbb-9d9e-e179510a15a1",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "e64d3c34-8ee2-4c21-a243-4cbbd1a5ce42",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "5d1275ba-ce4f-4f57-a6df-55e99025d5d6",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ],
+      "guideVisible": "visible"
+    }
+  ],
+  "layout": [
+    {
+      "label": "gift",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 63.8125,
+        "bottom": 136.1875,
+        "width": 204,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 428.609375,
+        "bottom": 503,
+        "width": 280,
+        "height": 74.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 641.609375,
+        "bottom": 726,
+        "width": 335,
+        "height": 84.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 641.609375,
+        "bottom": 726,
+        "width": 374,
+        "height": 84.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 814.609375,
+        "bottom": 905,
+        "width": 680,
+        "height": 90.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 814.609375,
+        "bottom": 905,
+        "width": 680,
+        "height": 90.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 814.609375,
+        "bottom": 905,
+        "width": 680,
+        "height": 90.390625
+      }
+    },
+    {
+      "label": "gift",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 814.609375,
+        "bottom": 905,
+        "width": 680,
+        "height": 90.390625
+      }
+    },
+    {
+      "label": "cake",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 63.8125,
+        "bottom": 136.1875,
+        "width": 204,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 503,
+        "bottom": 503,
+        "width": 280,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 726,
+        "bottom": 726,
+        "width": 335,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 726,
+        "bottom": 726,
+        "width": 374,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "cake",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "22",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 63.8125,
+        "bottom": 136.1875,
+        "width": 204,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 429,
+        "bottom": 480,
+        "width": 280,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 673,
+        "bottom": 724,
+        "width": 335,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 673,
+        "bottom": 724,
+        "width": 374,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 861,
+        "bottom": 912,
+        "width": 680,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 861,
+        "bottom": 912,
+        "width": 680,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 861,
+        "bottom": 912,
+        "width": 680,
+        "height": 51
+      }
+    },
+    {
+      "label": "22",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 861,
+        "bottom": 912,
+        "width": 680,
+        "height": 51
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 63.8125,
+        "bottom": 136.1875,
+        "width": 204,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 503,
+        "bottom": 503,
+        "width": 280,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 726,
+        "bottom": 726,
+        "width": 335,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 726,
+        "bottom": 726,
+        "width": 374,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "envelope",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "letter",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 88,
+        "right": 304,
+        "top": 59.609375,
+        "bottom": 124.390625,
+        "width": 216,
+        "height": 64.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 136,
+        "width": 288,
+        "height": 88
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 144,
+        "bottom": 504,
+        "width": 280,
+        "height": 360
+      }
+    },
+    {
+      "label": "letter",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 95.25,
+        "right": 359,
+        "top": 71.109375,
+        "bottom": 114.890625,
+        "width": 263.75,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 138,
+        "width": 343,
+        "height": 90
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 176,
+        "bottom": 736,
+        "width": 335,
+        "height": 560
+      }
+    },
+    {
+      "label": "letter",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 102.65625,
+        "right": 398,
+        "top": 75.78125,
+        "bottom": 119.5625,
+        "width": 295.34375,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 147.359375,
+        "width": 382,
+        "height": 99.359375
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 176,
+        "bottom": 736,
+        "width": 374,
+        "height": 560
+      }
+    },
+    {
+      "label": "letter",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 242.390625,
+        "right": 624,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 381.609375,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 74,
+        "right": 694,
+        "top": 192,
+        "bottom": 924,
+        "width": 620,
+        "height": 732
+      }
+    },
+    {
+      "label": "letter",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 372,
+        "right": 752,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 202,
+        "right": 822,
+        "top": 192,
+        "bottom": 924,
+        "width": 620,
+        "height": 732
+      }
+    },
+    {
+      "label": "letter",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 500,
+        "right": 880,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 330,
+        "right": 950,
+        "top": 192,
+        "bottom": 924,
+        "width": 620,
+        "height": 732
+      }
+    },
+    {
+      "label": "letter",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 580,
+        "right": 960,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 410,
+        "right": 1030,
+        "top": 192,
+        "bottom": 924,
+        "width": 620,
+        "height": 732
+      }
+    },
+    {
+      "label": "door",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 75,
+        "bottom": 124.984375,
+        "width": 204,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 503,
+        "bottom": 503,
+        "width": 280,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 726,
+        "bottom": 726,
+        "width": 335,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 726,
+        "bottom": 726,
+        "width": 374,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "door",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 905,
+        "bottom": 905,
+        "width": 680,
+        "height": 0
+      }
+    },
+    {
+      "label": "universe",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 63.8125,
+        "bottom": 136.1875,
+        "width": 204,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 459,
+        "bottom": 503,
+        "width": 280,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 64.3125,
+        "bottom": 136.6875,
+        "width": 248.75,
+        "height": 72.375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 682,
+        "bottom": 726,
+        "width": 335,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 682,
+        "bottom": 726,
+        "width": 374,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 44,
+        "right": 724,
+        "top": 861,
+        "bottom": 905,
+        "width": 680,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 172,
+        "right": 852,
+        "top": 861,
+        "bottom": 905,
+        "width": 680,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 300,
+        "right": 980,
+        "top": 861,
+        "bottom": 905,
+        "width": 680,
+        "height": 44
+      }
+    },
+    {
+      "label": "universe",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 380,
+        "right": 1060,
+        "top": 861,
+        "bottom": 905,
+        "width": 680,
+        "height": 44
+      }
+    },
+    {
+      "label": "memory",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 88,
+        "right": 304,
+        "top": 70.109375,
+        "bottom": 113.890625,
+        "width": 216,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 136,
+        "width": 288,
+        "height": 88
+      },
+      "content": {
+        "left": 16,
+        "right": 304,
+        "top": 144,
+        "bottom": 504,
+        "width": 288,
+        "height": 360
+      }
+    },
+    {
+      "label": "memory",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 95.25,
+        "right": 359,
+        "top": 71.109375,
+        "bottom": 114.890625,
+        "width": 263.75,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 138,
+        "width": 343,
+        "height": 90
+      },
+      "content": {
+        "left": 16,
+        "right": 359,
+        "top": 176,
+        "bottom": 736,
+        "width": 343,
+        "height": 560
+      }
+    },
+    {
+      "label": "memory",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 102.65625,
+        "right": 398,
+        "top": 75.78125,
+        "bottom": 119.5625,
+        "width": 295.34375,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 147.359375,
+        "width": 382,
+        "height": 99.359375
+      },
+      "content": {
+        "left": 16,
+        "right": 398,
+        "top": 176,
+        "bottom": 736,
+        "width": 382,
+        "height": 560
+      }
+    },
+    {
+      "label": "memory",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 242.390625,
+        "right": 624,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 381.609375,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 59,
+        "right": 709,
+        "top": 192,
+        "bottom": 924,
+        "width": 650,
+        "height": 732
+      }
+    },
+    {
+      "label": "memory",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 372,
+        "right": 752,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 132,
+        "right": 892,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "memory",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 500,
+        "right": 880,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 260,
+        "right": 1020,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "memory",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 580,
+        "right": 960,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 340,
+        "right": 1100,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "promise",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 75,
+        "bottom": 124.984375,
+        "width": 204,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 16,
+        "right": 304,
+        "top": 144,
+        "bottom": 504,
+        "width": 288,
+        "height": 360
+      }
+    },
+    {
+      "label": "promise",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 16,
+        "right": 359,
+        "top": 176,
+        "bottom": 736,
+        "width": 343,
+        "height": 560
+      }
+    },
+    {
+      "label": "promise",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 16,
+        "right": 398,
+        "top": 176,
+        "bottom": 736,
+        "width": 382,
+        "height": 560
+      }
+    },
+    {
+      "label": "promise",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 59,
+        "right": 709,
+        "top": 192,
+        "bottom": 924,
+        "width": 650,
+        "height": 732
+      }
+    },
+    {
+      "label": "promise",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 132,
+        "right": 892,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "promise",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 260,
+        "right": 1020,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "promise",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 340,
+        "right": 1100,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 75,
+        "bottom": 124.984375,
+        "width": 204,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 16,
+        "right": 304,
+        "top": 144,
+        "bottom": 504,
+        "width": 288,
+        "height": 360
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 16,
+        "right": 359,
+        "top": 176,
+        "bottom": 736,
+        "width": 343,
+        "height": 560
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 16,
+        "right": 398,
+        "top": 176,
+        "bottom": 736,
+        "width": 382,
+        "height": 560
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 59,
+        "right": 709,
+        "top": 192,
+        "bottom": 924,
+        "width": 650,
+        "height": 732
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 132,
+        "right": 892,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 260,
+        "right": 1020,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "puzzle",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 340,
+        "right": 1100,
+        "top": 192,
+        "bottom": 924,
+        "width": 760,
+        "height": 732
+      }
+    },
+    {
+      "label": "rating",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 100,
+        "right": 304,
+        "top": 75,
+        "bottom": 124.984375,
+        "width": 204,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 152,
+        "width": 288,
+        "height": 104
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 334,
+        "bottom": 503,
+        "width": 280,
+        "height": 169
+      }
+    },
+    {
+      "label": "rating",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 110.25,
+        "right": 359,
+        "top": 75.5,
+        "bottom": 125.484375,
+        "width": 248.75,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 153,
+        "width": 343,
+        "height": 105
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 535,
+        "bottom": 726,
+        "width": 335,
+        "height": 191
+      }
+    },
+    {
+      "label": "rating",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 119.21875,
+        "right": 398,
+        "top": 80.953125,
+        "bottom": 130.9375,
+        "width": 278.78125,
+        "height": 49.984375
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 163.90625,
+        "width": 382,
+        "height": 115.90625
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 535,
+        "bottom": 726,
+        "width": 374,
+        "height": 191
+      }
+    },
+    {
+      "label": "rating",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 264,
+        "right": 624,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 360,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 59,
+        "right": 709,
+        "top": 696,
+        "bottom": 905,
+        "width": 650,
+        "height": 209
+      }
+    },
+    {
+      "label": "rating",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 396,
+        "right": 752,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 187,
+        "right": 837,
+        "top": 696,
+        "bottom": 905,
+        "width": 650,
+        "height": 209
+      }
+    },
+    {
+      "label": "rating",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 524,
+        "right": 880,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 315,
+        "right": 965,
+        "top": 696,
+        "bottom": 905,
+        "width": 650,
+        "height": 209
+      }
+    },
+    {
+      "label": "rating",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 604,
+        "right": 960,
+        "top": 94,
+        "bottom": 149.984375,
+        "width": 356,
+        "height": 55.984375
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 188,
+        "width": 480,
+        "height": 132
+      },
+      "content": {
+        "left": 395,
+        "right": 1045,
+        "top": 696,
+        "bottom": 905,
+        "width": 650,
+        "height": 209
+      }
+    },
+    {
+      "label": "ending",
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 88,
+        "right": 304,
+        "top": 70.109375,
+        "bottom": 113.890625,
+        "width": 216,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 304,
+        "top": 48,
+        "bottom": 136,
+        "width": 288,
+        "height": 88
+      },
+      "content": {
+        "left": 20,
+        "right": 300,
+        "top": 275.765625,
+        "bottom": 503,
+        "width": 280,
+        "height": 227.234375
+      }
+    },
+    {
+      "label": "ending",
+      "width": 375,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 95.25,
+        "right": 359,
+        "top": 71.109375,
+        "bottom": 114.890625,
+        "width": 263.75,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 359,
+        "top": 48,
+        "bottom": 138,
+        "width": 343,
+        "height": 90
+      },
+      "content": {
+        "left": 20,
+        "right": 355,
+        "top": 392.796875,
+        "bottom": 734,
+        "width": 335,
+        "height": 341.203125
+      }
+    },
+    {
+      "label": "ending",
+      "width": 414,
+      "height": 812,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 102.65625,
+        "right": 398,
+        "top": 75.78125,
+        "bottom": 119.5625,
+        "width": 295.34375,
+        "height": 43.78125
+      },
+      "guide": {
+        "left": 16,
+        "right": 398,
+        "top": 48,
+        "bottom": 147.359375,
+        "width": 382,
+        "height": 99.359375
+      },
+      "content": {
+        "left": 20,
+        "right": 394,
+        "top": 392.796875,
+        "bottom": 734,
+        "width": 374,
+        "height": 341.203125
+      }
+    },
+    {
+      "label": "ending",
+      "width": 768,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 242.390625,
+        "right": 624,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 381.609375,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 144,
+        "right": 624,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 59,
+        "right": 709,
+        "top": 575.21875,
+        "bottom": 910,
+        "width": 650,
+        "height": 334.78125
+      }
+    },
+    {
+      "label": "ending",
+      "width": 1024,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 372,
+        "right": 752,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 272,
+        "right": 752,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 187,
+        "right": 837,
+        "top": 575.21875,
+        "bottom": 910,
+        "width": 650,
+        "height": 334.78125
+      }
+    },
+    {
+      "label": "ending",
+      "width": 1280,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 500,
+        "right": 880,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 400,
+        "right": 880,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 315,
+        "right": 965,
+        "top": 575.21875,
+        "bottom": 910,
+        "width": 650,
+        "height": 334.78125
+      }
+    },
+    {
+      "label": "ending",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false,
+      "clipped": [],
+      "bubbleOverControls": [],
+      "bubble": {
+        "left": 580,
+        "right": 960,
+        "top": 85.40625,
+        "bottom": 130.578125,
+        "width": 380,
+        "height": 45.171875
+      },
+      "guide": {
+        "left": 480,
+        "right": 960,
+        "top": 56,
+        "bottom": 160,
+        "width": 480,
+        "height": 104
+      },
+      "content": {
+        "left": 395,
+        "right": 1045,
+        "top": 575.21875,
+        "bottom": 910,
+        "width": 650,
+        "height": 334.78125
+      }
+    }
+  ],
+  "shots": [
+    "guide-story-gift-375.png",
+    "guide-story-gift-1440.png",
+    "guide-story-cake-375.png",
+    "guide-story-cake-1440.png",
+    "guide-story-22-375.png",
+    "guide-story-22-1440.png",
+    "guide-story-envelope-375.png",
+    "guide-story-envelope-1440.png",
+    "guide-story-envelope-ready.png",
+    "guide-story-letter-320.png",
+    "guide-story-letter-375.png",
+    "guide-story-letter-1440.png",
+    "guide-story-door-375.png",
+    "guide-story-door-1440.png",
+    "guide-story-universe-375.png",
+    "guide-story-universe-1440.png",
+    "guide-story-memory-375.png",
+    "guide-story-memory-1440.png",
+    "guide-story-promise-375.png",
+    "guide-story-promise-1440.png",
+    "guide-story-puzzle-375.png",
+    "guide-story-puzzle-1440.png",
+    "guide-story-rating-320.png",
+    "guide-story-rating-375.png",
+    "guide-story-rating-1440.png",
+    "guide-story-ending-320.png",
+    "guide-story-ending-375.png",
+    "guide-story-ending-1440.png",
+    "guide-story-blowing-normal.png",
+    "guide-story-normal-universe.png"
+  ],
+  "errors": [],
+  "http": []
+}

@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "version": 3,
+    "bones": 16,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave",
+      "Celebrate",
+      "Shy",
+      "Float",
+      "Hug"
+    ],
+    "pose": "Wave",
+    "arm": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "heart": 0.000009999999747378752,
+    "bytes": 4667520
+  },
+  "hug": {
+    "version": 3,
+    "bones": 16,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave",
+      "Celebrate",
+      "Shy",
+      "Float",
+      "Hug"
+    ],
+    "pose": "Hug",
+    "arm": [
+      0.4622243344783783,
+      -0.6568450927734375,
+      0.2043330818414688,
+      0.5595991015434265
+    ],
+    "heart": 0.36000001430511475,
+    "bytes": 4667520
+  },
+  "gift": {
+    "version": 3,
+    "bones": 16,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave",
+      "Celebrate",
+      "Shy",
+      "Float",
+      "Hug"
+    ],
+    "arm": [
+      0,
+      0,
+      -0.5850972533226013,
+      0.8109630942344666
+    ],
+    "heart": 0.000009999999747378752,
+    "bytes": 4667520
+  },
+  "downloadMatchesAsset": true,
+  "mobileNoOverflow": true,
+  "errors": [],
+  "http": []
+}

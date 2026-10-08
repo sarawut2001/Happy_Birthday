@@ -1,0 +1,13 @@
+{
+  "triangles": 94208,
+  "meshes": 40,
+  "motion": {
+    "samples": 312,
+    "leftPeak": 1,
+    "rightPeak": 1,
+    "greeted": true,
+    "minHeartY": -1.44,
+    "maxHeartY": -1.3900729279280906
+  },
+  "errors": []
+}

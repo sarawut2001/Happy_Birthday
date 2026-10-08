@@ -1,0 +1,13 @@
+{
+  "keyboard": {
+    "visibleHeight": 500,
+    "pinTop": 329.609375,
+    "pinBottom": 414,
+    "guideText": 125.984375,
+    "lift": "312px",
+    "overflow": false
+  },
+  "previewFreeze": true,
+  "errors": [],
+  "note": "VisualViewport resize is simulated; native device keyboard was not available in headless Chromium"
+}

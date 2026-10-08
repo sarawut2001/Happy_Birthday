@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "gift and cake coexist during handoff",
+    "same paper UUID from envelope to letter",
+    "same door UUID from paper transition to portal",
+    "full normal motion journey including 1-heart ending"
+  ],
+  "errors": [],
+  "requests": []
+}

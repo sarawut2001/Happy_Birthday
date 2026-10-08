@@ -1,0 +1,80 @@
+{
+  "data": {
+    "results": [
+      {
+        "name": "Idle",
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "legRange": 0,
+        "armRange": 0
+      },
+      {
+        "name": "Walk",
+        "lowest": 0.001999972010871166,
+        "highest": 0.00200002739192602,
+        "nonFiniteVertices": 0,
+        "legRange": 0.4600000074321085,
+        "armRange": 1.2118940140304346e-7
+      },
+      {
+        "name": "Wave",
+        "lowest": 0.0020000225323997672,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "legRange": 0,
+        "armRange": 0.08999999492318704
+      },
+      {
+        "name": "Celebrate",
+        "lowest": 0.0020000225323998783,
+        "highest": 0.18200001000395602,
+        "nonFiniteVertices": 0,
+        "legRange": 0,
+        "armRange": 0.15999999760264882
+      },
+      {
+        "name": "Shy",
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323999893,
+        "nonFiniteVertices": 0,
+        "legRange": 0,
+        "armRange": 0
+      },
+      {
+        "name": "Float",
+        "lowest": 0.0020000156360415987,
+        "highest": 0.14200000133092688,
+        "nonFiniteVertices": 0,
+        "legRange": 0.090000005771542,
+        "armRange": 0.06999998584053563
+      },
+      {
+        "name": "Hug",
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "legRange": 0,
+        "armRange": 0
+      }
+    ],
+    "cloneIndependent": true,
+    "skinnedMeshes": [
+      {
+        "name": "mesh_1",
+        "vertices": 26832
+      },
+      {
+        "name": "mesh_1_1",
+        "vertices": 26832
+      }
+    ],
+    "textures": [
+      {
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  },
+  "errors": []
+}

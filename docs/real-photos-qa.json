@@ -1,0 +1,1227 @@
+{
+  "passed": true,
+  "errors": [],
+  "failures": [],
+  "checks": [
+    {
+      "name": "portrait",
+      "viewport": [
+        834,
+        1194
+      ],
+      "overflow": false,
+      "guide": {
+        "x": 28,
+        "y": 668.6400146484375,
+        "w": 108,
+        "h": 159.84002685546875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 554.8250122070312,
+        "w": 360,
+        "h": 93
+      },
+      "objects": [
+        {
+          "name": "memory-0",
+          "x": 135.67890059419923,
+          "y": 232.50290492933968,
+          "bounds": {
+            "left": 39.55912869105213,
+            "top": 108.49484002556268,
+            "right": 226.56133139288258,
+            "bottom": 342.5900816037225
+          },
+          "phase": "exploring",
+          "position": [
+            -2.42,
+            3.45,
+            0.6
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-1",
+          "x": 674.503525045932,
+          "y": 221.89379558224513,
+          "bounds": {
+            "left": 598.5970263464682,
+            "top": 116.91742191050002,
+            "right": 754.139114443184,
+            "bottom": 323.0921852172804
+          },
+          "phase": "exploring",
+          "position": [
+            2.38,
+            3.55,
+            -0.55
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-2",
+          "x": 422.0387242478618,
+          "y": 197.3686393774101,
+          "bounds": {
+            "left": 343.7505481171018,
+            "top": 96.61069036145159,
+            "right": 500.5620069408746,
+            "bottom": 302.3061198944772
+          },
+          "phase": "exploring",
+          "position": [
+            0.05,
+            3.8,
+            -1.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-3",
+          "x": 135.54719705074788,
+          "y": 483.3772232684846,
+          "bounds": {
+            "left": 53.0466695118852,
+            "top": 378.49124848688507,
+            "right": 214.09008751084323,
+            "bottom": 579.8332911149837
+          },
+          "phase": "exploring",
+          "position": [
+            -2.75,
+            1.05,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-4",
+          "x": 661.2489974007322,
+          "y": 475.87376225336635,
+          "bounds": {
+            "left": 577.3951909690413,
+            "top": 367.51161599400507,
+            "right": 749.4082753061641,
+            "bottom": 585.3415669649912
+          },
+          "phase": "exploring",
+          "position": [
+            2.2,
+            1.3,
+            0.3
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-5",
+          "x": 169.08918645238373,
+          "y": 777.0631585558244,
+          "bounds": {
+            "left": 83.21401583860029,
+            "top": 665.1284113554143,
+            "right": 250.6231612964093,
+            "bottom": 879.9624378920169
+          },
+          "phase": "exploring",
+          "position": [
+            -2.25,
+            -1.4,
+            0.7
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-6",
+          "x": 639.2676563490172,
+          "y": 706.599360320541,
+          "bounds": {
+            "left": 561.1078388108128,
+            "top": 606.2302075978349,
+            "right": 721.065871345836,
+            "bottom": 807.8750047564412
+          },
+          "phase": "exploring",
+          "position": [
+            2.2,
+            -1.15,
+            -0.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-7",
+          "x": 295.5993833916872,
+          "y": 908.1496803149778,
+          "bounds": {
+            "left": 214.86677972361505,
+            "top": 804.960518181077,
+            "right": 372.6309239757259,
+            "bottom": 1008.9250528175714
+          },
+          "phase": "exploring",
+          "position": [
+            -1.2,
+            -3.1,
+            -0.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-8",
+          "x": 593.9751179547636,
+          "y": 949.6495385239014,
+          "bounds": {
+            "left": 524.385836705164,
+            "top": 858.042298380037,
+            "right": 666.4973547015879,
+            "bottom": 1044.8133384013965
+          },
+          "phase": "exploring",
+          "position": [
+            1.85,
+            -3.9,
+            -1.25
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-promise",
+          "x": 188.01488009515293,
+          "y": 918.2126870250473,
+          "bounds": {
+            "left": 94.72542366822309,
+            "top": 850.6729735875845,
+            "right": 278.159540710453,
+            "bottom": 977.8443469290632
+          },
+          "phase": "exploring",
+          "position": [
+            -2.35,
+            -3.45,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 495.40663141425506,
+          "y": 808.809602327184,
+          "bounds": {
+            "left": 393.8431065014235,
+            "top": 741.1469741530032,
+            "right": 599.8081723064904,
+            "bottom": 886.5547661941287
+          },
+          "phase": "exploring",
+          "position": [
+            0.7,
+            -1.6,
+            1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-video",
+          "x": 434.63267992433333,
+          "y": 376.10227926201185,
+          "bounds": {
+            "left": 326.78361187976327,
+            "top": 305.96006323884944,
+            "right": 543.1553125540071,
+            "bottom": 455.76669112392597
+          },
+          "phase": "exploring",
+          "position": [
+            0.15,
+            2.25,
+            1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"834\" height=\"1194\" style=\"display: block; width: 834px; height: 1194px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        }
+      ]
+    },
+    {
+      "name": "landscape",
+      "viewport": [
+        1194,
+        834
+      ],
+      "overflow": false,
+      "guide": {
+        "x": 1058,
+        "y": 574.1599731445312,
+        "w": 108,
+        "h": 159.84002685546875
+      },
+      "bubble": {
+        "x": 678,
+        "y": 565.3562622070312,
+        "w": 360,
+        "h": 93
+      },
+      "objects": [
+        {
+          "name": "memory-0",
+          "x": 169.30558761021052,
+          "y": 217.77460355860788,
+          "bounds": {
+            "left": 91.09428739302462,
+            "top": 133.07290672313334,
+            "right": 243.23013624235853,
+            "bottom": 305.2734423357832
+          },
+          "phase": "exploring",
+          "position": [
+            -4.9,
+            2.65,
+            0.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-1",
+          "x": 401.64034102146275,
+          "y": 123.56096338003383,
+          "bounds": {
+            "left": 341.9162187302948,
+            "top": 48.640682939923,
+            "right": 458.4812912999781,
+            "bottom": 198.65631119050303
+          },
+          "phase": "exploring",
+          "position": [
+            -2.55,
+            3.75,
+            -1.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-2",
+          "x": 612.8211072364902,
+          "y": 138.82284329218788,
+          "bounds": {
+            "left": 557.0828525278921,
+            "top": 57.9124780551455,
+            "right": 669.4300459621165,
+            "bottom": 212.2272284201876
+          },
+          "phase": "exploring",
+          "position": [
+            0.2,
+            3.55,
+            -0.85
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-3",
+          "x": 993.6462314777841,
+          "y": 219.78229146336446,
+          "bounds": {
+            "left": 925.6177003327559,
+            "top": 137.63328863013166,
+            "right": 1065.8603996379754,
+            "bottom": 296.2588833119267
+          },
+          "phase": "exploring",
+          "position": [
+            5,
+            2.55,
+            -0.6
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-4",
+          "x": 207.19871985694365,
+          "y": 388.98173546690015,
+          "bounds": {
+            "left": 140.04108819772293,
+            "top": 315.28487819981683,
+            "right": 271.0050670530774,
+            "bottom": 462.5569042027823
+          },
+          "phase": "exploring",
+          "position": [
+            -5.35,
+            0.2,
+            -1.5
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-5",
+          "x": 851.7896566937147,
+          "y": 436.6603218329905,
+          "bounds": {
+            "left": 790.0137788344072,
+            "top": 360.42325702114556,
+            "right": 916.8067040602934,
+            "bottom": 519.6449040804181
+          },
+          "phase": "exploring",
+          "position": [
+            3.05,
+            0.05,
+            0.7
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-6",
+          "x": 998.3810174326354,
+          "y": 468.44241317186254,
+          "bounds": {
+            "left": 939.0404387787308,
+            "top": 394.7666174779811,
+            "right": 1061.1144319481737,
+            "bottom": 536.0737355694208
+          },
+          "phase": "exploring",
+          "position": [
+            5.55,
+            -0.9,
+            -1.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-7",
+          "x": 421.10027181398027,
+          "y": 608.0768480621676,
+          "bounds": {
+            "left": 357.37699561491866,
+            "top": 529.6519857731677,
+            "right": 481.4648380922908,
+            "bottom": 687.0886641082689
+          },
+          "phase": "exploring",
+          "position": [
+            -2.2,
+            -2.2,
+            0.5
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "memory-8",
+          "x": 633.2226165894876,
+          "y": 602.1257088194876,
+          "bounds": {
+            "left": 576.6961623991468,
+            "top": 526.7991232470257,
+            "right": 691.648170711376,
+            "bottom": 674.7758906096894
+          },
+          "phase": "exploring",
+          "position": [
+            0.5,
+            -2.7,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-promise",
+          "x": 238.31702717072727,
+          "y": 632.5817577626922,
+          "bounds": {
+            "left": 159.66207849347165,
+            "top": 583.9308313871827,
+            "right": 314.27577663104927,
+            "bottom": 685.7837413041682
+          },
+          "phase": "exploring",
+          "position": [
+            -4.6,
+            -2.65,
+            0.2
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 840.5687036298172,
+          "y": 629.1668489303427,
+          "bounds": {
+            "left": 769.6232964966476,
+            "top": 582.818766722425,
+            "right": 913.9644503308266,
+            "bottom": 680.6806429400493
+          },
+          "phase": "exploring",
+          "position": [
+            3.25,
+            -2.85,
+            -0.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        },
+        {
+          "name": "activity-video",
+          "x": 833.136177027853,
+          "y": 150.93763901658065,
+          "bounds": {
+            "left": 753.6150804250997,
+            "top": 100.16566966077797,
+            "right": 915.730046671446,
+            "bottom": 208.36117902897553
+          },
+          "phase": "exploring",
+          "position": [
+            2.8,
+            3.4,
+            0.15
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1194\" height=\"834\" style=\"display: block; width: 1194px; height: 834px;\"></canvas>",
+          "guideClass": "guide   guide-universe guide-obscured   guide-guide"
+        }
+      ]
+    },
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "overflow": false,
+      "guide": {
+        "x": 1304,
+        "y": 504,
+        "w": 108,
+        "h": 159.84002685546875
+      },
+      "bubble": {
+        "x": 1052,
+        "y": 683.828125,
+        "w": 360,
+        "h": 93
+      },
+      "objects": [
+        {
+          "name": "memory-0",
+          "x": 258.4592672052632,
+          "y": 235.00856502399287,
+          "bounds": {
+            "left": 177.57975529404055,
+            "top": 140.01977967375862,
+            "right": 334.22949016513616,
+            "bottom": 321.37163473314445
+          },
+          "phase": "exploring",
+          "position": [
+            -4.9,
+            2.65,
+            0.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-1",
+          "x": 509.18022412388075,
+          "y": 133.33916914783387,
+          "bounds": {
+            "left": 445.34999718036164,
+            "top": 53.26875882539232,
+            "right": 569.9321851685678,
+            "bottom": 214.32691832685938
+          },
+          "phase": "exploring",
+          "position": [
+            -2.55,
+            3.75,
+            -1.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-2",
+          "x": 737.0731373055651,
+          "y": 149.80882372929503,
+          "bounds": {
+            "left": 672.8774845909821,
+            "top": 62.196106936128835,
+            "right": 802.221852236893,
+            "bottom": 233.98628255516599
+          },
+          "phase": "exploring",
+          "position": [
+            0.2,
+            3.55,
+            -0.85
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-3",
+          "x": 1148.0355015947312,
+          "y": 237.17513470538486,
+          "bounds": {
+            "left": 1071.978192453138,
+            "top": 154.16178784263732,
+            "right": 1227.9075319935662,
+            "bottom": 327.82380449199866
+          },
+          "phase": "exploring",
+          "position": [
+            5,
+            2.55,
+            -0.6
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-4",
+          "x": 299.3511365362701,
+          "y": 419.7644627667544,
+          "bounds": {
+            "left": 233.1933753312422,
+            "top": 341.6405713571772,
+            "right": 362.00011611888436,
+            "bottom": 492.9741315980848
+          },
+          "phase": "exploring",
+          "position": [
+            -5.35,
+            0.2,
+            -1.5
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-5",
+          "x": 994.9528669356632,
+          "y": 471.2161746726073,
+          "bounds": {
+            "left": 927.3549825394757,
+            "top": 383.9616014910336,
+            "right": 1066.4561735649952,
+            "bottom": 557.270703385585
+          },
+          "phase": "exploring",
+          "position": [
+            3.05,
+            0.05,
+            0.7
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-6",
+          "x": 1153.1449828409734,
+          "y": 505.5133955418936,
+          "bounds": {
+            "left": 1090.251857466683,
+            "top": 432.8948682800961,
+            "right": 1218.7714973556758,
+            "bottom": 583.3476415948336
+          },
+          "phase": "exploring",
+          "position": [
+            5.55,
+            -0.9,
+            -1.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-7",
+          "x": 530.180149439547,
+          "y": 656.1980375098487,
+          "bounds": {
+            "left": 455.0900655581638,
+            "top": 570.3474349920479,
+            "right": 601.3266769407597,
+            "bottom": 747.8146017714352
+          },
+          "phase": "exploring",
+          "position": [
+            -2.2,
+            -2.2,
+            0.5
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "memory-8",
+          "x": 759.0891545929724,
+          "y": 649.7759448019206,
+          "bounds": {
+            "left": 702.8753493217696,
+            "top": 571.7424085393488,
+            "right": 817.2744705376713,
+            "bottom": 725.4008102430249
+          },
+          "phase": "exploring",
+          "position": [
+            0.5,
+            -2.7,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "activity-promise",
+          "x": 332.9320437094179,
+          "y": 682.6421846686883,
+          "bounds": {
+            "left": 247.6005590759251,
+            "top": 624.2668025001831,
+            "right": 414.60508289505105,
+            "bottom": 734.2254524990001
+          },
+          "phase": "exploring",
+          "position": [
+            -4.6,
+            -2.65,
+            0.2
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 982.8439247803782,
+          "y": 678.9570312524837,
+          "bounds": {
+            "left": 906.349446509258,
+            "top": 626.3205127884161,
+            "right": 1062.2092155317796,
+            "bottom": 731.9896201931509
+          },
+          "phase": "exploring",
+          "position": [
+            3.25,
+            -2.85,
+            -0.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        },
+        {
+          "name": "activity-video",
+          "x": 974.8232126199853,
+          "y": 162.88234429518653,
+          "bounds": {
+            "left": 889.1468234049561,
+            "top": 102.07720366988981,
+            "right": 1064.2716560943034,
+            "bottom": 219.06749993308702
+          },
+          "phase": "exploring",
+          "position": [
+            2.8,
+            3.4,
+            0.15
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"1440\" height=\"900\" style=\"display: block; width: 1440px; height: 900px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-guide"
+        }
+      ]
+    },
+    {
+      "name": "small-ipad",
+      "viewport": [
+        768,
+        1024
+      ],
+      "overflow": false,
+      "guide": {
+        "x": 28,
+        "y": 573.4400024414062,
+        "w": 108,
+        "h": 159.84002685546875
+      },
+      "bubble": {
+        "x": 28,
+        "y": 512.6375122070312,
+        "w": 140,
+        "h": 40
+      },
+      "objects": [
+        {
+          "name": "memory-0",
+          "x": 125.2936830006021,
+          "y": 179.86658910400968,
+          "bounds": {
+            "left": 33.87964527208935,
+            "top": 64.26243538655945,
+            "right": 211.04107919755478,
+            "bottom": 282.1817567956349
+          },
+          "phase": "exploring",
+          "position": [
+            -2.42,
+            3.45,
+            0.6
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-1",
+          "x": 619.6862496312231,
+          "y": 170.15807048375848,
+          "bounds": {
+            "left": 547.6275038983783,
+            "top": 71.91006893621687,
+            "right": 695.7346295141652,
+            "bottom": 263.9894642969856
+          },
+          "phase": "exploring",
+          "position": [
+            2.38,
+            3.55,
+            -0.55
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-2",
+          "x": 388.59236813590314,
+          "y": 147.81412111618152,
+          "bounds": {
+            "left": 319.68820208800514,
+            "top": 57.489067990048284,
+            "right": 457.73294574737685,
+            "bottom": 241.99212371013374
+          },
+          "phase": "exploring",
+          "position": [
+            0.05,
+            3.8,
+            -1.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-3",
+          "x": 127.79712881407357,
+          "y": 408.85458123236356,
+          "bounds": {
+            "left": 52.77192076405176,
+            "top": 313.91255967041457,
+            "right": 198.81057205300868,
+            "bottom": 496.004956627034
+          },
+          "phase": "exploring",
+          "position": [
+            -2.75,
+            1.05,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-4",
+          "x": 607.4984443295295,
+          "y": 403.13955971349804,
+          "bounds": {
+            "left": 526.4273316371896,
+            "top": 301.12681654185235,
+            "right": 693.360222385039,
+            "bottom": 505.60250157588695
+          },
+          "phase": "exploring",
+          "position": [
+            2.2,
+            1.3,
+            0.3
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-5",
+          "x": 157.78334509252494,
+          "y": 678.0451169587034,
+          "bounds": {
+            "left": 82.03841545766512,
+            "top": 578.175508117581,
+            "right": 229.31155331733413,
+            "bottom": 769.838803780093
+          },
+          "phase": "exploring",
+          "position": [
+            -2.25,
+            -1.4,
+            0.7
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-6",
+          "x": 585.8284008103199,
+          "y": 611.4998764429538,
+          "bounds": {
+            "left": 514.168095369612,
+            "top": 519.8455281796357,
+            "right": 661.2579941650547,
+            "bottom": 703.514256993104
+          },
+          "phase": "exploring",
+          "position": [
+            2.2,
+            -1.15,
+            -0.8
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-7",
+          "x": 273.92207031450994,
+          "y": 794.0898173641053,
+          "bounds": {
+            "left": 203.75089333497465,
+            "top": 702.8745292216116,
+            "right": 340.5987214724017,
+            "bottom": 883.5481023171526
+          },
+          "phase": "exploring",
+          "position": [
+            -1.2,
+            -3.1,
+            -0.4
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "memory-8",
+          "x": 543.89947003083,
+          "y": 829.5170789148711,
+          "bounds": {
+            "left": 477.8172327307461,
+            "top": 744.4893935138667,
+            "right": 613.1785743215595,
+            "bottom": 917.3504216842641
+          },
+          "phase": "exploring",
+          "position": [
+            1.85,
+            -3.9,
+            -1.25
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "activity-promise",
+          "x": 176.8430932700628,
+          "y": 801.8338539946236,
+          "bounds": {
+            "left": 91.90475237230021,
+            "top": 740.6354028655227,
+            "right": 258.61405112532816,
+            "bottom": 855.9985733031114
+          },
+          "phase": "exploring",
+          "position": [
+            -2.35,
+            -3.45,
+            -1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 455.60585566605505,
+          "y": 707.5258279107716,
+          "bounds": {
+            "left": 362.78671421225073,
+            "top": 645.5269732526235,
+            "right": 551.3295345606338,
+            "bottom": 778.6853803891242
+          },
+          "phase": "exploring",
+          "position": [
+            0.7,
+            -1.6,
+            1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        },
+        {
+          "name": "activity-video",
+          "x": 400.21003780679746,
+          "y": 312.2084101021911,
+          "bounds": {
+            "left": 300.8431245698657,
+            "top": 247.7614893334274,
+            "right": 500.2750044837989,
+            "bottom": 385.72905075635197
+          },
+          "phase": "exploring",
+          "position": [
+            0.15,
+            2.25,
+            1
+          ],
+          "onCanvas": true,
+          "hit": "<canvas data-engine=\"three.js r180\" width=\"768\" height=\"1024\" style=\"display: block; width: 768px; height: 1024px;\"></canvas>",
+          "guideClass": "guide   guide-universe    guide-silent"
+        }
+      ]
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 0,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-04-18-01.jpg",
+        "alt": "เธอใส่หมวกและเสื้อลายทาง เดินบนทางที่ล้อมด้วยต้นไม้",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "เดินไปด้วยกัน",
+      "date": "18 เม.ย. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 1,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-08-01.jpg",
+        "alt": "เราสองคนเซลฟี่ในชุดสีอ่อน เธอถือแก้วเครื่องดื่มสีเข้ม",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "มื้อเล็ก ๆ กับคนโปรด",
+      "date": "8 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 2,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-08-02.jpg",
+        "alt": "เราสองคนใส่ชุดสีอ่อนและเอาหัวพิงกันในภาพเซลฟี่",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "ขอพิงเธอหน่อย",
+      "date": "8 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 3,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-18-01.jpg",
+        "alt": "รูปคู่หน้ากระจก เราสองคนใส่เสื้อสีขาว",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "ในรูปมีเราสองคน",
+      "date": "18 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 4,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-23-01.jpg",
+        "alt": "เธอใส่หมวกมีพู่ ถือช่อดอกทานตะวันและป้าย พร้อมรอยยิ้ม",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "วันสำคัญของเธอ",
+      "date": "23 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 5,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-23-02.jpg",
+        "alt": "เราสองคนใส่ชุดสีเขียวและถือพร็อปรอยยิ้มปิดช่วงปาก",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "ยิ้มด้วยกันหน่อย",
+      "date": "23 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 6,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-23-03.jpg",
+        "alt": "เค้าหอมแก้มเธอขณะนั่งด้วยกัน เธอยิ้มกว้างในชุดสีเขียว",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "หอมคนโปรดหนึ่งที",
+      "date": "23 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 7,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-08-23-04.jpg",
+        "alt": "เราสองคนนั่งใกล้กันในชุดสีเขียว มีต้นไม้และอาคารอยู่ด้านหลัง",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "ข้าง ๆ เธอนี่แหละ",
+      "date": "23 ส.ค. 2026"
+    },
+    {
+      "name": "real-photo-tap",
+      "i": 8,
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/memories/date-2026-09-02-01.jpg",
+        "alt": "เซลฟี่เราสองคนระยะใกล้ เธอใส่เสื้อสีเทามีลวดลายและเค้าใส่เสื้อสีขาว",
+        "width": 1108,
+        "height": 1477
+      },
+      "title": "อยากเก็บเธอไว้ทุกวัน",
+      "date": "2 ก.ย. 2026"
+    },
+    {
+      "name": "puzzle-solved-through-swaps",
+      "image": {
+        "url": "http://127.0.0.1:5173/assets/personal/puzzle/jigsaw.jpg",
+        "width": 1108,
+        "height": 1477,
+        "ratio": "contain"
+      }
+    },
+    {
+      "name": "all-nine-gathered",
+      "hidden": [
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        },
+        {
+          "visible": false,
+          "scale": 0
+        }
+      ]
+    },
+    {
+      "name": "reveal-continuity",
+      "jumps": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

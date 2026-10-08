@@ -1,0 +1,93 @@
+{
+  "checks": [
+    "flames stay lit while wind is still approaching",
+    "wind reaches the wick before extinguishing",
+    "warp is visible before any memory assets appear",
+    "arrive at galaxy before forming heart",
+    "galaxy particles form heart while objects remain hidden",
+    "objects emerge only after particle heart is formed",
+    "all photos, activity cards, phrases and five decorative hearts persist into gathering after orbit",
+    "galaxy dust spirals into the heart and disappears",
+    "every foreground asset is stored and rating has only its heading and controls",
+    "one-heart rating still receives full final wishes",
+    "revisit restores every object and a new finale resets rating"
+  ],
+  "errors": [],
+  "responses": [],
+  "beforeImpact": {
+    "assets": [],
+    "candles": [
+      {
+        "impacted": false,
+        "scale": [
+          0.948368291796116,
+          1.0020902974330295,
+          1
+        ]
+      },
+      {
+        "impacted": false,
+        "scale": [
+          1.0546876809405563,
+          0.9082202539870153,
+          1
+        ]
+      }
+    ],
+    "wind": [
+      -3.028324,
+      -3.028324,
+      -3.028324,
+      -3.132084,
+      -3.132084,
+      -3.132084
+    ],
+    "fov": 38,
+    "hidden": false,
+    "frameloop": "always",
+    "galaxy": null,
+    "camera": [
+      0,
+      2.6,
+      8.277001
+    ]
+  },
+  "impact": {
+    "assets": [],
+    "candles": [
+      {
+        "impacted": true,
+        "scale": [
+          0.081606,
+          0.157383,
+          0.081606
+        ]
+      },
+      {
+        "impacted": true,
+        "scale": [
+          0.595223,
+          1.147931,
+          0.595223
+        ]
+      }
+    ],
+    "wind": [
+      0.4,
+      0.4,
+      0.4,
+      0.893836,
+      0.893836,
+      0.893836
+    ],
+    "fov": 38,
+    "hidden": false,
+    "frameloop": "always",
+    "galaxy": null,
+    "camera": [
+      0,
+      2.6,
+      8.277001
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "passed": true,
+  "errors": [],
+  "failures": [],
+  "checks": [
+    {
+      "name": "guide-repeat-button-clickable"
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-04-18-01.jpg",
+      "bytes": 815854
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-08-01.jpg",
+      "bytes": 357086
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-08-02.jpg",
+      "bytes": 300456
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-18-01.jpg",
+      "bytes": 369902
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-23-01.jpg",
+      "bytes": 360071
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-23-02.jpg",
+      "bytes": 299026
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-23-03.jpg",
+      "bytes": 375728
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-08-23-04.jpg",
+      "bytes": 338425
+    },
+    {
+      "name": "production-photo",
+      "asset": "memories/date-2026-09-02-01.jpg",
+      "bytes": 361983
+    },
+    {
+      "name": "production-photo",
+      "asset": "puzzle/jigsaw.jpg",
+      "bytes": 210893
+    },
+    {
+      "name": "promise-interaction"
+    },
+    {
+      "name": "video-placeholder-preserved"
+    },
+    {
+      "name": "puzzle-full-photo-reduced-motion",
+      "zoom": "matrix(1.28, 0, 0, 1.28, 0, 0)"
+    },
+    {
+      "name": "phone-smoke-390x844",
+      "overflow": false
+    }
+  ]
+}

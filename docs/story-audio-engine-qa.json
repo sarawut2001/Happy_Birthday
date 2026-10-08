@@ -1,0 +1,80 @@
+{
+  "checks": [
+    "No autoplay/context before user activation",
+    "All 14 sound samples decode",
+    "Actual master bus produces non-silent audio",
+    "One cinematic cue per action",
+    "Rapid taps capped/debounced",
+    "Same ambience voice across intro phases",
+    "Video silences music, ambience, effects, hold",
+    "No cues while video panel is open",
+    "Closing video resumes preferred mix",
+    "Hidden state blocks new and active sounds",
+    "Cancelled hold releases oscillator",
+    "Enabling reduced motion cancels cinematic audio",
+    "Reduced motion uses brief confirmation motif",
+    "Mute cancels every channel",
+    "Replay/navigate clears stale sources",
+    "Cached UI sound survives same-click navigation",
+    "Unmount closes context and blocks cues"
+  ],
+  "buffers": [
+    {
+      "name": "page",
+      "length": 0.4515625
+    },
+    {
+      "name": "sparkle",
+      "length": 1.3012083333333333
+    },
+    {
+      "name": "ribbon",
+      "length": 0.7
+    },
+    {
+      "name": "lid",
+      "length": 1.65
+    },
+    {
+      "name": "breath",
+      "length": 1.95
+    },
+    {
+      "name": "paper",
+      "length": 1.5
+    },
+    {
+      "name": "door",
+      "length": 1.8
+    },
+    {
+      "name": "whoosh",
+      "length": 2.8
+    },
+    {
+      "name": "warp",
+      "length": 2.8
+    },
+    {
+      "name": "cosmic",
+      "length": 8
+    },
+    {
+      "name": "formation",
+      "length": 3.5
+    },
+    {
+      "name": "gather",
+      "length": 4.65
+    },
+    {
+      "name": "celebrate",
+      "length": 2
+    },
+    {
+      "name": "resolve",
+      "length": 2.4
+    }
+  ],
+  "errors": []
+}

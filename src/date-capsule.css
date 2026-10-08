@@ -1,0 +1,64 @@
+/* A clear stage for the persistent 3D prop; the ticket owns the result state. */
+.app.has-date-machine .canvas-wrap{filter:none;opacity:1}
+.app.has-guide.has-date-machine .scene-content{inset:11rem var(--story-edge) calc(78px + env(safe-area-inset-bottom));max-width:70rem;align-items:stretch}
+.app .panel-promise{position:relative;display:flex;flex-direction:column;justify-content:flex-start;border:0;box-shadow:none;background:transparent;padding:0 0 1rem;overflow-y:auto;overflow-x:clip;scrollbar-width:thin}
+.app .panel-promise>.panel-close{position:absolute;float:none;right:0;top:0;margin:0;z-index:5}
+.app .panel-promise>.world-back{margin:.5rem auto 0;flex-shrink:0;width:max-content}
+.date-capsule{--ticket-accent:var(--deep);position:relative;width:100%;margin:auto 0;flex-shrink:0}
+.capsule-heading{text-align:center;padding:0 3rem}
+.app .capsule-heading .panel-kicker{font-size:.65rem;letter-spacing:.16rem;margin-bottom:.5rem}
+.app .capsule-heading h2{font-size:clamp(1.15rem,3.2vw,1.8rem);line-height:1.6;margin:0}
+.capsule-topline{display:flex;align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;margin-top:.75rem;font-size:.8rem;color:var(--muted)}
+.capsule-collection-button{display:flex;align-items:center;justify-content:center;gap:.4rem;min-height:2.75rem;padding:.4rem .8rem;border:1px solid var(--line);border-radius:2rem;background:rgba(255,223,240,.06);font-size:.8rem}
+.capsule-collection-button>span{display:grid;place-items:center;min-width:1.25rem;min-height:1.25rem;border-radius:50%;background:rgba(255,223,240,.12)}
+.capsule-stage{position:relative;perspective:1200px;height:clamp(15rem,43dvh,32rem);width:100%;margin:.25rem auto 0;isolation:isolate}
+.capsule-model-anchor{position:absolute;top:0;left:50%;translate:-50% 0;width:min(100%,25rem);height:100%;pointer-events:none}
+.capsule-model-hit{position:absolute;inset:0;background:transparent;border-radius:35%;pointer-events:auto}
+.capsule-model-hit:disabled{pointer-events:none;opacity:1}
+.capsule-model-hit:focus-visible{outline:2px solid #f6a6cd;outline-offset:-1rem}
+.with-ticket .capsule-model-anchor{left:82%;width:25%;height:45%;top:0}
+.date-ticket{position:absolute;left:50%;bottom:0;translate:-50% 0;width:min(100%,32rem);min-width:0;padding:1.5rem 1.25rem 1.1rem;background:var(--paper);border:1px solid #f4d7e3;border-radius:1rem;color:var(--wine);box-shadow:0 1.5rem 4rem #140a1e66,inset 0 0 0 .3rem #fffaf5;transform-origin:center bottom;outline:none}
+.ticket-header{display:flex;justify-content:space-between;gap:1rem;font-family:'Cormorant Garamond',serif;font-size:.7rem;letter-spacing:.12rem;color:#8a5870}
+.ticket-icon{display:grid;place-items:center;width:3.5rem;height:3.5rem;border:1px solid #ebc6d6;border-radius:50%;margin:1.1rem auto .85rem;background:#fde7f0;color:var(--ticket-accent)}
+.ticket-promise{font-size:clamp(1.15rem,2.2vw,1.5rem);font-weight:500;line-height:1.7;text-align:center;color:#74314e;overflow-wrap:anywhere;max-width:26rem;margin:auto}
+.ticket-perforation{height:1px;border-top:1px dashed #d4a5b9;margin:1.3rem -.3rem 1rem;position:relative}
+.ticket-perforation:before,.ticket-perforation:after{content:'';position:absolute;top:-.55rem;width:1rem;height:1rem;border-radius:50%;background:#34112d;border:1px solid #d9afc1}
+.ticket-perforation:before{left:-1.5rem}.ticket-perforation:after{right:-1.5rem}
+.ticket-footer{display:flex;justify-content:space-between;gap:1rem;align-items:center;font-size:.8rem;color:#8a5870}
+.ticket-footer svg{color:var(--rose)}
+.ticket-kept{position:absolute;right:1rem;top:2.6rem;display:flex;align-items:center;gap:.25rem;border:1px solid #b53d70;color:#a12e60;border-radius:.3rem;padding:.25rem .45rem;font-size:.7rem;background:#fff8f1e8}
+.capsule-actions{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:.65rem;margin:.75rem auto 0;max-width:38rem}
+.capsule-status{width:100%;font-size:.85rem;text-align:center;line-height:1.6;min-height:1.4rem;color:var(--muted)}
+.capsule-actions .primary-button{width:auto;min-width:min(100%,14rem);max-width:100%;margin:0}
+.capsule-actions .primary-button>span{display:flex;align-items:center;justify-content:center;gap:.5rem}
+.capsule-actions .primary-button:disabled{opacity:.65}
+.capsule-secondary{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;min-height:3rem;border:1px solid var(--line);border-radius:2rem;background:#ffffff09;padding:.7rem 1.25rem;font-size:.95rem}
+.date-collection{position:absolute;inset:0;z-index:6;display:flex;flex-direction:column;gap:1rem;padding:1.25rem;background:linear-gradient(145deg,#552044,#271329);border:1px solid var(--line);border-radius:var(--radius);max-height:100%;overflow-y:auto;overscroll-behavior:contain}
+.date-collection header{display:flex;align-items:center;gap:.75rem;flex-shrink:0}
+.date-collection h3{font-size:1.15rem;font-weight:500;margin:0;flex:1;min-width:0}
+.date-collection-list{display:flex;flex-direction:column;gap:.75rem;min-width:0}
+.date-collection-list article{display:flex;align-items:center;gap:1rem;padding:1rem;background:var(--paper);color:#74314e;border-radius:1rem}
+.date-collection-list svg{flex-shrink:0;color:var(--rose)}
+.date-collection-list p{flex:1;font-size:1rem;line-height:1.8;min-width:0;overflow-wrap:anywhere}
+.date-collection>.capsule-secondary{align-self:center;flex-shrink:0}
+.capsule-fallback{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#ffcbe1}
+.capsule-fallback>span{width:9rem;height:9rem;display:grid;place-items:center;border:2px solid #ffe1ee;border-radius:50%;background:#f5b9d52e;margin-bottom:1rem}
+.app .puzzle-grid .selected{transform:none;box-shadow:0 0 1.25rem #ff9bd755;outline-offset:-3px}
+.app .puzzle-solved .puzzle-full-photo{box-shadow:0 1rem 2.5rem #0004,0 0 2rem #f796c444}
+@media(min-width:600px){
+ .app.has-guide.has-date-machine .scene-content{top:5.5rem;bottom:calc(88px + env(safe-area-inset-bottom))}
+ .capsule-stage{height:clamp(18rem,44dvh,34rem)}
+ .capsule-topline,.capsule-collection-button{font-size:.95rem}
+ .capsule-status{font-size:1rem}
+ .date-ticket{padding:1.75rem 2rem 1.25rem}
+ .ticket-header{font-size:.85rem}.ticket-footer{font-size:1rem}
+ .ticket-icon{width:4rem;height:4rem}
+ .date-collection{padding:1.5rem 2rem;max-width:42rem;margin:auto}
+ .date-collection-list p{font-size:1.1rem}
+}
+@media(min-width:600px) and (orientation:landscape){
+ .capsule-stage{height:clamp(15rem,44dvh,30rem)}
+ .with-ticket .capsule-model-anchor{left:16%;height:72%;width:28%;top:8%}
+ .date-ticket{bottom:1rem}
+ .date-collection{max-width:45rem}
+}

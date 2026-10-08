@@ -1,0 +1,352 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "open-lid-before-handoff",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "lidY": 0.768314,
+      "lidAngle": -0.399275,
+      "transition": "idle"
+    },
+    {
+      "name": "cake-removed-from-birthday",
+      "passed": true
+    },
+    {
+      "name": "letter-portrait-size",
+      "w": 779.2105102539062,
+      "h": 882.7473754882812,
+      "font": "20px",
+      "viewport": [
+        834,
+        1194
+      ]
+    },
+    {
+      "name": "landscape-world-centers",
+      "points": [
+        {
+          "name": "memory-0",
+          "x": 264.4141906168705,
+          "y": 215.1794816353521,
+          "position": [
+            -3.7,
+            2.7,
+            1.2
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-1",
+          "x": 866.2679553918381,
+          "y": 288.3964664988029,
+          "position": [
+            3.5,
+            1.65,
+            -0.9
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-2",
+          "x": 285.026709025851,
+          "y": 413.90101688186985,
+          "position": [
+            -4.3,
+            -0.15,
+            -1.5
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-3",
+          "x": 797.6088048055627,
+          "y": 598.9768360051936,
+          "position": [
+            2.4,
+            -1.85,
+            1.1
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-4",
+          "x": 458.00516386780413,
+          "y": 645.5994808234145,
+          "position": [
+            -1.75,
+            -2.7,
+            0.5
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-5",
+          "x": 651.3712843141735,
+          "y": 115.25129784719861,
+          "position": [
+            0.7,
+            3.85,
+            -1.2
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-promise",
+          "x": 244.47189768391473,
+          "y": 651.5226240433853,
+          "position": [
+            -4.35,
+            -2.65,
+            0.8
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 923.5989153201824,
+          "y": 515.4079005604102,
+          "position": [
+            4.3,
+            -1.3,
+            -0.5
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-video",
+          "x": 887.6220478586353,
+          "y": 118.42040150244274,
+          "position": [
+            3.65,
+            3.8,
+            -0.8
+          ],
+          "onCanvas": true,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "name": "portrait-world-centers",
+      "points": [
+        {
+          "name": "memory-0",
+          "x": 164.5693274998535,
+          "y": 232.30141780688191,
+          "position": [
+            -2.1,
+            3.45,
+            1.1
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-1",
+          "x": 683.4024348707416,
+          "y": 350.14294628164913,
+          "position": [
+            2.55,
+            2.35,
+            -0.9
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-2",
+          "x": 156.0254131477538,
+          "y": 514.2452496973827,
+          "position": [
+            -2.65,
+            0.65,
+            -1.6
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-3",
+          "x": 629.6734353659511,
+          "y": 730.1627540640926,
+          "position": [
+            1.85,
+            -0.8,
+            1.25
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-4",
+          "x": 331.9815117460727,
+          "y": 920.3039262396632,
+          "position": [
+            -0.8,
+            -2.9,
+            0.4
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "memory-5",
+          "x": 473.62501543060984,
+          "y": 212.20880275706986,
+          "position": [
+            0.55,
+            3.65,
+            -1.4
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-promise",
+          "x": 163.0661220771657,
+          "y": 817.5110435982745,
+          "position": [
+            -2.3,
+            -1.75,
+            0.8
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-puzzle",
+          "x": 667.7381742268371,
+          "y": 876.840897458362,
+          "position": [
+            2.5,
+            -2.85,
+            -0.6
+          ],
+          "onCanvas": true,
+          "inside": true
+        },
+        {
+          "name": "activity-video",
+          "x": 671.6589007070535,
+          "y": 150.00430944716052,
+          "position": [
+            2.2,
+            4.15,
+            0.4
+          ],
+          "onCanvas": true,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-0",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-1",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-2",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-3",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-4",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "memory-5",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "activity-promise",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "activity-puzzle",
+      "passed": true
+    },
+    {
+      "name": "real-3D-tap",
+      "object": "activity-video",
+      "passed": true
+    },
+    {
+      "name": "guide-render-surface-and-zoom-stable",
+      "sizes": [
+        "200:296"
+      ],
+      "zoom": 87.27272727272728,
+      "samples": 2859
+    }
+  ],
+  "errors": [],
+  "cues": [
+    "gift-tease",
+    "gift-lid",
+    "gift-light",
+    "cake-arrive",
+    "breath",
+    "wick-out",
+    "wick-out",
+    "wish-made",
+    "number-form",
+    "envelope-flap",
+    "celebrate",
+    "card-close",
+    "card-turn",
+    "seal-release",
+    "envelope-flap",
+    "paper-rise",
+    "paper-ready",
+    "paper-pull",
+    "paper-settle",
+    "signature",
+    "paper-fold",
+    "door-appear",
+    "hold-stop",
+    "hold-stop",
+    "door-unlock",
+    "door-open",
+    "suction",
+    "warp",
+    "arrival",
+    "heart-form",
+    "assets-emerge",
+    "asset-cluster",
+    "asset-cluster",
+    "asset-cluster",
+    "world-ready"
+  ]
+}

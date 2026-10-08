@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "bytes": 3397728,
+  "triangles": 94208,
+  "closedVolumes": 18,
+  "eyes": 4,
+  "clips": [
+    "CoupleIdle",
+    "CoupleBlinkLeft",
+    "CoupleBlinkRight",
+    "CoupleTogether"
+  ],
+  "texturesEmbedded": 8,
+  "sharedGripRig": true
+}

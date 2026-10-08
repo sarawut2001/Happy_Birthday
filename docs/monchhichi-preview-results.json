@@ -1,0 +1,93 @@
+{
+  "data": {
+    "triangles": 38436,
+    "meshes": 31,
+    "clips": [
+      {
+        "name": "Idle",
+        "duration": 4,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Walk",
+        "duration": 1.2000000476837158,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Wave",
+        "duration": 2.4000000953674316,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Celebrate",
+        "duration": 1.7999999523162842,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Shy",
+        "duration": 2.799999952316284,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Float",
+        "duration": 4,
+        "tracks": 17,
+        "valid": true
+      },
+      {
+        "name": "Hug",
+        "duration": 4,
+        "tracks": 17,
+        "valid": true
+      }
+    ],
+    "bounds": {
+      "forward": "+Z",
+      "ground": 0
+    },
+    "drawCalls": 33
+  },
+  "layout": [
+    {
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,176 @@
+{
+  "base": "http://127.0.0.1:5191",
+  "data": {
+    "results": [
+      {
+        "name": "Idle",
+        "duration": 4,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.00999999996010401
+      },
+      {
+        "name": "Walk",
+        "duration": 1.600000023841858,
+        "frames": 49,
+        "lowest": 0.0019999721039735525,
+        "highest": 0.0020000293368289397,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0.4600000074321085,
+        "armRange": 1.2118940140304346e-7,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.009999999957223263
+      },
+      {
+        "name": "Wave",
+        "duration": 2.799999952316284,
+        "frames": 49,
+        "lowest": 0.0020000225323997672,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0.08999999492318704,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.009999999953144646
+      },
+      {
+        "name": "Celebrate",
+        "duration": 2,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.18200000419438264,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0.15999999760264882,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.009999999974223914
+      },
+      {
+        "name": "Shy",
+        "duration": 3.200000047683716,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323999893,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.1900000014356636
+      },
+      {
+        "name": "Float",
+        "duration": 4.800000190734863,
+        "frames": 49,
+        "lowest": 0.0019999852713694505,
+        "highest": 0.14199997096625472,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0.090000005771542,
+        "armRange": 0.06999998584053563,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.00999999996010401
+      },
+      {
+        "name": "Hug",
+        "duration": 4.199999809265137,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.07358210836646413
+      },
+      {
+        "name": "Present",
+        "duration": 3.5999999046325684,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0.036000008800971095,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.009999999943031905
+      },
+      {
+        "name": "Invite",
+        "duration": 3.200000047683716,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323999893,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0,
+        "elbowRange": 0.14000000188854328,
+        "maximumHeadAndSpinePitch": 0.009999999958387223
+      },
+      {
+        "name": "Blow",
+        "duration": 3.5999999046325684,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.13499999740273932
+      },
+      {
+        "name": "Thanks",
+        "duration": 4.199999809265137,
+        "frames": 49,
+        "lowest": 0.0020000225323998783,
+        "highest": 0.0020000225323998783,
+        "nonFiniteVertices": 0,
+        "verticesEvaluated": 6573840,
+        "legRange": 0,
+        "armRange": 0.02499994768375391,
+        "elbowRange": 0,
+        "maximumHeadAndSpinePitch": 0.12499999923247287
+      }
+    ],
+    "cloneIndependent": true,
+    "skinnedMeshes": [
+      {
+        "name": "mesh_1",
+        "vertices": 26832
+      },
+      {
+        "name": "mesh_1_1",
+        "vertices": 26832
+      },
+      {
+        "name": "mesh_1_2",
+        "vertices": 26832
+      },
+      {
+        "name": "mesh_1_3",
+        "vertices": 26832
+      },
+      {
+        "name": "mesh_1_4",
+        "vertices": 26832
+      }
+    ]
+  },
+  "errors": [],
+  "badResponses": [],
+  "screenshots": []
+}

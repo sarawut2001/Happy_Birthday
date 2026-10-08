@@ -1,0 +1,14 @@
+{
+  "layouts": 150,
+  "actions": 50,
+  "checks": [
+    "no horizontal overflow",
+    "primary text at least 16px",
+    "primary height at least 52px",
+    "primary actions and guide within viewport",
+    "guide clear of activity close button",
+    "portrait gift/cake/birthday framing"
+  ],
+  "errors": [],
+  "http": []
+}

@@ -1,0 +1,10 @@
+<!doctype html><html lang="th"><head><meta charset="utf-8"><title>Couple model authoring</title></head><body><p id="status">กำลังสร้างโมเดลคู่…</p><script type="module">
+import {GLTFExporter} from 'three/addons/exporters/GLTFExporter.js';
+import {createCouple} from '../src/couple-model.ts';
+try {
+ const image=new Image();image.src='../assets/models/monchhichi-couple-reference.png';await image.decode();
+ const {root,clips}=await createCouple(image);const data=await new GLTFExporter().parseAsync(root,{binary:true,animations:clips});
+ window.coupleBytes=Array.from(new Uint8Array(data));document.getElementById('status').textContent='โมเดลคู่พร้อมแล้ว';window.coupleReady=true;
+ const download=document.createElement('a');download.href=URL.createObjectURL(new Blob([data],{type:'model/gltf-binary'}));download.download='monchhichi-couple.glb';download.textContent='ดาวน์โหลดโมเดล GLB';document.body.append(download);
+} catch(error){window.coupleError=String(error);document.getElementById('status').textContent=String(error);}
+</script></body></html>

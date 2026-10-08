@@ -1,0 +1,131 @@
+{
+  "motion": {
+    "jump": 0,
+    "checks": [
+      {
+        "name": "Wave",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Wave",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Present",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Present",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Thanks",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Thanks",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Celebrate",
+        "pop": 0.0000034150945850063755,
+        "weights": [
+          {
+            "name": "Celebrate",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Blow",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Blow",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Idle",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Blow",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Float",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Float",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Walk",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Walk",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Hug",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Hug",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Shy",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Shy",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      },
+      {
+        "name": "Invite",
+        "pop": 0,
+        "weights": [
+          {
+            "name": "Invite",
+            "weight": 1
+          }
+        ],
+        "sum": 1
+      }
+    ],
+    "freezeJump": 0,
+    "landingJump": 0
+  },
+  "errors": []
+}

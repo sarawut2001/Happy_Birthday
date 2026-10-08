@@ -1,0 +1,62 @@
+{
+  "data": {
+    "results": [
+      {
+        "name": "Idle",
+        "lowest": 0.0019999744780582057,
+        "highest": 0.0019999744780582057,
+        "legRange": 0,
+        "vertexTravel": 0
+      },
+      {
+        "name": "Walk",
+        "lowest": 0.0019190504438751559,
+        "highest": 0.0020693388626186397,
+        "legRange": 0.7199999730792315,
+        "vertexTravel": 0.1351044138835345
+      },
+      {
+        "name": "Wave",
+        "lowest": 0.0019999744780582057,
+        "highest": 0.0019999744780583167,
+        "legRange": 0,
+        "vertexTravel": 0
+      },
+      {
+        "name": "Celebrate",
+        "lowest": 0.0019999744780582057,
+        "highest": 0.1820000337955386,
+        "legRange": 0,
+        "vertexTravel": 0.04245740066425155
+      },
+      {
+        "name": "Shy",
+        "lowest": 0.0019999744780582057,
+        "highest": 0.0019999744780582057,
+        "legRange": 0,
+        "vertexTravel": 0
+      },
+      {
+        "name": "Float",
+        "lowest": 0.0019999819147996124,
+        "highest": 0.14199996760968495,
+        "legRange": 0.090000005771542,
+        "vertexTravel": 0.008433464439240673
+      },
+      {
+        "name": "Hug",
+        "lowest": 0.0019999744780580947,
+        "highest": 0.0019999744780582057,
+        "legRange": 0,
+        "vertexTravel": 0
+      }
+    ],
+    "cloneIndependent": true,
+    "texture": {
+      "width": 2048,
+      "height": 2048
+    },
+    "skinVertices": 23769
+  },
+  "errors": []
+}

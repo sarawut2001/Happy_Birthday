@@ -1,0 +1,2753 @@
+{
+  "passed": true,
+  "date": "2026-10-08",
+  "environment": "Headless Chromium with software WebGL; emulated viewports, not physical iPad/Safari.",
+  "videoFixture": "Temporary generated WebM served only by Playwright routes; no recording was added to the app.",
+  "results": {
+    "layout": {
+      "passed": true,
+      "records": [
+        {
+          "name": "invitation-834",
+          "viewport": [
+            834,
+            1194
+          ],
+          "overflow": false,
+          "card": {
+            "x": 101.296875,
+            "y": 382.078125,
+            "width": 631.390625,
+            "height": 490.03125
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 618.5999755859375,
+            "y": 60,
+            "width": 132,
+            "height": 195.36000061035156
+          },
+          "bubble": {
+            "x": 390.59375,
+            "y": 1001,
+            "width": 360,
+            "height": 93
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 118.296875,
+              "y": 455.078125,
+              "width": 597.390625,
+              "height": 336.03125,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 322.25,
+              "y": 799.109375,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "invitation-1194",
+          "viewport": [
+            1194,
+            834
+          ],
+          "overflow": false,
+          "card": {
+            "x": 237,
+            "y": 241.859375,
+            "width": 720,
+            "height": 470.90625
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 966.47998046875,
+            "y": 191.82000732421875,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 738.46875,
+            "y": 74.8125,
+            "width": 360,
+            "height": 93
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 254,
+              "y": 314.859375,
+              "width": 686,
+              "height": 316.90625,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 502.25,
+              "y": 639.765625,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "invitation-1440",
+          "viewport": [
+            1440,
+            900
+          ],
+          "overflow": false,
+          "card": {
+            "x": 360,
+            "y": 261,
+            "width": 720,
+            "height": 496
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 1164,
+            "y": 207,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 936,
+            "y": 90,
+            "width": 360,
+            "height": 93
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 377,
+              "y": 334,
+              "width": 686,
+              "height": 342,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 625.25,
+              "y": 684,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "invitation-768",
+          "viewport": [
+            768,
+            1024
+          ],
+          "overflow": false,
+          "card": {
+            "x": 95.359375,
+            "y": 327.671875,
+            "width": 577.265625,
+            "height": 459.578125
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 76.80000305175781,
+            "y": 60,
+            "width": 132,
+            "height": 195.36000061035156
+          },
+          "bubble": {
+            "x": 76.796875,
+            "y": 831,
+            "width": 360,
+            "height": 93
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 112.359375,
+              "y": 400.671875,
+              "width": 543.265625,
+              "height": 305.578125,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 289.25,
+              "y": 714.25,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "invitation-320",
+          "viewport": [
+            320,
+            740
+          ],
+          "overflow": false,
+          "card": {
+            "x": 16,
+            "y": 236.796875,
+            "width": 288,
+            "height": 277.375
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 240,
+            "y": 589.280029296875,
+            "width": 64,
+            "height": 94.719970703125
+          },
+          "bubble": {
+            "x": 12,
+            "y": 589,
+            "width": 218,
+            "height": 73
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 29,
+              "y": 297.796875,
+              "width": 262,
+              "height": 147.375,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 73.0625,
+              "y": 453.171875,
+              "width": 173.875,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "invitation-390",
+          "viewport": [
+            390,
+            844
+          ],
+          "overflow": false,
+          "card": {
+            "x": 16,
+            "y": 270.078125,
+            "width": 358,
+            "height": 316.75
+          },
+          "guide": "guide       guide-guide",
+          "actor": {
+            "x": 310,
+            "y": 693.280029296875,
+            "width": 64,
+            "height": 94.719970703125
+          },
+          "bubble": {
+            "x": 40,
+            "y": 693,
+            "width": 250,
+            "height": 73
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 29,
+              "y": 331.078125,
+              "width": 332,
+              "height": 186.75,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 108.0625,
+              "y": 525.828125,
+              "width": 173.875,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "empty-focused-mobile",
+          "viewport": [
+            390,
+            844
+          ],
+          "overflow": false,
+          "card": {
+            "x": 16,
+            "y": 65.359375,
+            "width": 358,
+            "height": 653.265625
+          },
+          "guide": "guide     guide-muted guide-hidden guide-silent",
+          "actor": {
+            "x": 310,
+            "y": 693.280029296875,
+            "width": 64,
+            "height": 94.719970703125
+          },
+          "bubble": {
+            "x": 150,
+            "y": 729.2000122070312,
+            "width": 140,
+            "height": 40
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ปิดคลิปและอ่านคำอวยพร",
+              "x": 319,
+              "y": 76.359375,
+              "width": 44,
+              "height": 44,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพร",
+              "x": 119.65625,
+              "y": 657.625,
+              "width": 150.671875,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "wishes-portrait",
+          "viewport": [
+            834,
+            1194
+          ],
+          "overflow": false,
+          "card": null,
+          "guide": "guide       guide-quiet",
+          "actor": {
+            "x": 618.5999755859375,
+            "y": 942.6400146484375,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 299.59375,
+            "y": 1000.046875,
+            "width": 299,
+            "height": 61
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 187.234375,
+              "y": 857.625,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 507.234375,
+              "y": 863.625,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 324.359375,
+              "y": 933.625,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "empty-focused-portrait",
+          "viewport": [
+            834,
+            1194
+          ],
+          "overflow": false,
+          "card": {
+            "x": 78.203125,
+            "y": 119.859375,
+            "width": 677.59375,
+            "height": 894.265625
+          },
+          "guide": "guide     guide-muted guide-hidden guide-silent",
+          "actor": {
+            "x": 618.5999755859375,
+            "y": 942.6400146484375,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 458.59375,
+            "y": 1079.199951171875,
+            "width": 140,
+            "height": 40
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ปิดคลิปและอ่านคำอวยพร",
+              "x": 700.796875,
+              "y": 130.859375,
+              "width": 44,
+              "height": 44,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพร",
+              "x": 335.3125,
+              "y": 941.125,
+              "width": 163.375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "empty-focused-landscape",
+          "viewport": [
+            1194,
+            834
+          ],
+          "overflow": false,
+          "card": {
+            "x": 117,
+            "y": 51.453125,
+            "width": 960,
+            "height": 671.078125
+          },
+          "guide": "guide     guide-muted guide-hidden guide-silent",
+          "actor": {
+            "x": 966.47998046875,
+            "y": 582.6400146484375,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 806.46875,
+            "y": 719.2000122070312,
+            "width": 140,
+            "height": 40
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "ปิดคลิปและอ่านคำอวยพร",
+              "x": 1022,
+              "y": 62.453125,
+              "width": 44,
+              "height": 44,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพร",
+              "x": 515.3125,
+              "y": 649.53125,
+              "width": 163.375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "wishes-landscape",
+          "viewport": [
+            1194,
+            834
+          ],
+          "overflow": false,
+          "card": null,
+          "guide": "guide       guide-quiet",
+          "actor": {
+            "x": 966.47998046875,
+            "y": 316.9200134277344,
+            "width": 132,
+            "height": 195.36001586914062
+          },
+          "bubble": {
+            "x": 799.46875,
+            "y": 231.90625,
+            "width": 299,
+            "height": 61
+          },
+          "guideOverlap": 0,
+          "bubbleOverlap": 0,
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 367.234375,
+              "y": 644.40625,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 687.234375,
+              "y": 652.40625,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 504.359375,
+              "y": 722.40625,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "media": {
+      "passed": true,
+      "checks": [
+        {
+          "name": "invitation-music",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": false
+            }
+          ],
+          "last": [
+            {
+              "event": "play",
+              "name": "world-ready",
+              "scope": "5::locked:out:reading:tunnel:gathering:invitation",
+              "time": 9998.899999976158,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "guide-bubble",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 10894.700000047684,
+              "enabled": true,
+              "voices": 2,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "world-ready",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11068.200000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "guide-bubble",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11120.600000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:gathering:invitation",
+              "time": 11649.800000071526,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:rating:invitation",
+              "time": 11735.800000071526,
+              "enabled": true,
+              "voices": 2,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 12722.700000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 13030.300000071526,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            }
+          ],
+          "guide": "guide       guide-guide"
+        },
+        {
+          "name": "paused-video-mutes-web-audio",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": true
+            }
+          ],
+          "last": [
+            {
+              "event": "ended",
+              "name": "world-ready",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11068.200000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "guide-bubble",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11120.600000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:gathering:invitation",
+              "time": 11649.800000071526,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:rating:invitation",
+              "time": 11735.800000071526,
+              "enabled": true,
+              "voices": 2,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 12722.700000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 13030.300000071526,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide     guide-muted guide-hidden guide-silent"
+        },
+        {
+          "name": "native-portrait-player",
+          "controls": true,
+          "inline": true,
+          "width": 270,
+          "height": 480,
+          "fit": "contain",
+          "ratio": 0.5625
+        },
+        {
+          "name": "rotated-paused-video-still-muted",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": true
+            }
+          ],
+          "last": [
+            {
+              "event": "ended",
+              "name": "world-ready",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11068.200000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "guide-bubble",
+              "scope": "5::locked:out:reading:hub:gathering:invitation",
+              "time": 11120.600000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:gathering:invitation",
+              "time": 11649.800000071526,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:rating:invitation",
+              "time": 11735.800000071526,
+              "enabled": true,
+              "voices": 2,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 12722.700000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 13030.300000071526,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide     guide-muted guide-hidden guide-silent"
+        },
+        {
+          "name": "sfx-suppressed-while-paused",
+          "passed": true
+        },
+        {
+          "name": "visibility-pause",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": true
+            }
+          ],
+          "last": [
+            {
+              "event": "play",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:rating:invitation",
+              "time": 11735.800000071526,
+              "enabled": true,
+              "voices": 2,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "gather-complete",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 12722.700000047684,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 13030.300000071526,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "hidden",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "visible",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18149.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide     guide-muted guide-hidden guide-silent"
+        },
+        {
+          "name": "native-seek",
+          "passed": true
+        },
+        {
+          "name": "ended-resumes-web-music",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": false
+            }
+          ],
+          "last": [
+            {
+              "event": "ended",
+              "name": "rating-five",
+              "scope": "6::locked:out:reading:hub:end:invitation",
+              "time": 13030.300000071526,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "hidden",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "visible",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18149.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 22600,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 23189.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            }
+          ],
+          "guide": "guide       guide-quiet"
+        },
+        {
+          "name": "native-ended-shows-wishes",
+          "passed": true
+        },
+        {
+          "name": "rewatch-paused-stays-muted",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": true
+            }
+          ],
+          "last": [
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 14603.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "hidden",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "visible",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18149.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 22600,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 23189.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide     guide-muted guide-hidden guide-silent"
+        },
+        {
+          "name": "rewatch-does-not-repeat-ending-sfx-and-keyboard-exit",
+          "passed": true
+        },
+        {
+          "name": "failed-video-focus-stays-muted",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": true
+            }
+          ],
+          "last": [
+            {
+              "event": "hidden",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "visible",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18149.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 22600,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 23189.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 24239.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 24239.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide     guide-muted guide-hidden guide-silent"
+        },
+        {
+          "name": "error-exit-resumes-music",
+          "music": [
+            {
+              "src": "http://127.0.0.1:5173/assets/audio/classical-4.mp3",
+              "paused": false
+            }
+          ],
+          "last": [
+            {
+              "event": "hidden",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18116,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": true
+            },
+            {
+              "event": "visible",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 18149.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "play",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 22600,
+              "enabled": true,
+              "voices": 1,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "ended",
+              "name": "ending",
+              "scope": "6::locked:out:reading:hub:end:complete",
+              "time": 23189.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": false,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 23576.100000023842,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "clear",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 24239.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            },
+            {
+              "event": "video-enter",
+              "name": "",
+              "scope": "6::locked:out:reading:hub:end:watching",
+              "time": 24239.399999976158,
+              "enabled": true,
+              "voices": 0,
+              "ambience": false,
+              "video": true,
+              "hidden": false
+            }
+          ],
+          "guide": "guide guide-traveling      guide-quiet"
+        }
+      ],
+      "errors": []
+    },
+    "motion": {
+      "passed": true,
+      "records": [
+        {
+          "name": "normal-portal-arrives-with-19-objects",
+          "objects": [
+            {
+              "name": "memory-0",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-1",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-2",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-3",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-4",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-5",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-6",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-7",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "memory-8",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "activity-promise",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "activity-puzzle",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "phrase-0",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "phrase-1",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "phrase-2",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "universe-heart-0",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "universe-heart-1",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "universe-heart-2",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "universe-heart-3",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            },
+            {
+              "name": "universe-heart-4",
+              "visible": true,
+              "phase": "exploring",
+              "scale": 1
+            }
+          ]
+        },
+        {
+          "name": "all-19-objects-gathered",
+          "stored": 19
+        },
+        {
+          "name": "sealing-to-invitation-camera-moves-same-model",
+          "frames": [
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.247623
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -7.213585
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -6.935013
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -6.677649
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -6.316658
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -5.001197
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -3.393684
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                -1.928517
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-invitation",
+              "frame": {
+                "x": 101.296875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6875,
+                "bottom": 872.109375,
+                "left": 101.296875
+              }
+            }
+          ]
+        },
+        {
+          "name": "same-frame-expands",
+          "frames": [
+            {
+              "camera": [
+                0,
+                3.4000000000000004,
+                4.806141999999998
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 101.3046875,
+                "y": 382.078125,
+                "width": 631.390625,
+                "height": 490.03125,
+                "top": 382.078125,
+                "right": 732.6953125,
+                "bottom": 872.109375,
+                "left": 101.3046875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                4.808079
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 96.001953125,
+                "y": 321.88836669921875,
+                "width": 641.99609375,
+                "height": 582.8193359375,
+                "top": 321.88836669921875,
+                "right": 737.998046875,
+                "bottom": 904.7077026367188,
+                "left": 96.001953125
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                4.862197
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 87.50857543945312,
+                "y": 225.48275756835938,
+                "width": 658.98291015625,
+                "height": 731.4373779296875,
+                "top": 225.48275756835938,
+                "right": 746.4914855957031,
+                "bottom": 956.9201354980469,
+                "left": 87.50857543945312
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                4.942239
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 84.55166625976562,
+                "y": 191.91989135742188,
+                "width": 664.896728515625,
+                "height": 783.1776123046875,
+                "top": 191.91989135742188,
+                "right": 749.4483947753906,
+                "bottom": 975.0975036621094,
+                "left": 84.55166625976562
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                4.942239
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 84.55166625976562,
+                "y": 191.91989135742188,
+                "width": 664.896728515625,
+                "height": 783.1776123046875,
+                "top": 191.91989135742188,
+                "right": 749.4483947753906,
+                "bottom": 975.0975036621094,
+                "left": 84.55166625976562
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                4.942239
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 84.55166625976562,
+                "y": 191.91989135742188,
+                "width": 664.896728515625,
+                "height": 783.1776123046875,
+                "top": 191.91989135742188,
+                "right": 749.4483947753906,
+                "bottom": 975.0975036621094,
+                "left": 84.55166625976562
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                5.856368
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 79.4622802734375,
+                "y": 134.15155029296875,
+                "width": 675.075439453125,
+                "height": 872.23291015625,
+                "top": 134.15155029296875,
+                "right": 754.5377197265625,
+                "bottom": 1006.3844604492188,
+                "left": 79.4622802734375
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                6.859491
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 78.68948364257812,
+                "y": 125.3797607421875,
+                "width": 676.62109375,
+                "height": 885.7554321289062,
+                "top": 125.3797607421875,
+                "right": 755.3105773925781,
+                "bottom": 1011.1351928710938,
+                "left": 78.68948364257812
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                6.859491
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 78.68948364257812,
+                "y": 125.3797607421875,
+                "width": 676.62109375,
+                "height": 885.7554321289062,
+                "top": 125.3797607421875,
+                "right": 755.3105773925781,
+                "bottom": 1011.1351928710938,
+                "left": 78.68948364257812
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                8.320134
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 78.362060546875,
+                "y": 121.6632080078125,
+                "width": 677.27587890625,
+                "height": 891.48486328125,
+                "top": 121.6632080078125,
+                "right": 755.637939453125,
+                "bottom": 1013.1480712890625,
+                "left": 78.362060546875
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                10.136008
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 78.24441528320312,
+                "y": 120.32781982421875,
+                "width": 677.51123046875,
+                "height": 893.54345703125,
+                "top": 120.32781982421875,
+                "right": 755.7556457519531,
+                "bottom": 1013.8712768554688,
+                "left": 78.24441528320312
+              }
+            },
+            {
+              "camera": [
+                0,
+                3.4,
+                10.136008
+              ],
+              "modelPosition": [
+                0,
+                1.1,
+                0
+              ],
+              "modelScale": [
+                1,
+                1,
+                1
+              ],
+              "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+              "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-watching",
+              "frame": {
+                "x": 78.24441528320312,
+                "y": 120.32781982421875,
+                "width": 677.51123046875,
+                "height": 893.54345703125,
+                "top": 120.32781982421875,
+                "right": 755.7556457519531,
+                "bottom": 1013.8712768554688,
+                "left": 78.24441528320312
+              }
+            }
+          ]
+        },
+        {
+          "name": "same-couple-through-closing",
+          "state": {
+            "camera": [
+              0,
+              3.400000000000002,
+              -7.325890999999999
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "5a5d612b-59f4-4cce-820e-62f50f8e2b2f",
+            "phase": "app has-guide stage-6 theme-blush     ending finale-end ending-complete"
+          }
+        }
+      ],
+      "cues": [
+        "cake-arrive",
+        "wish-made",
+        "celebrate",
+        "envelope-flap",
+        "paper-ready",
+        "signature",
+        "hold-stop",
+        "hold-stop",
+        "door-unlock",
+        "door-open",
+        "suction",
+        "warp",
+        "arrival",
+        "heart-form",
+        "assets-emerge",
+        "asset-cluster",
+        "asset-cluster",
+        "asset-cluster",
+        "world-ready",
+        "gather",
+        "gather-complete",
+        "heart-offer",
+        "heart-seal"
+      ],
+      "errors": []
+    },
+    "final": {
+      "passed": true,
+      "seededForIsolatedLayout": true,
+      "records": [
+        {
+          "name": "final-invitation-768",
+          "viewport": [
+            768,
+            1024
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 579.2000122070312,
+            "y": 802.239990234375,
+            "width": 112,
+            "height": 165.760009765625
+          },
+          "bubble": {
+            "x": 199.1875,
+            "y": 810.234375,
+            "width": 360,
+            "height": 93
+          },
+          "guide": "guide       guide-guide",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 112.359375,
+              "y": 400.671875,
+              "width": 543.265625,
+              "height": 305.578125,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 289.25,
+              "y": 714.25,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-invitation-834",
+          "viewport": [
+            834,
+            1194
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 638.5999755859375,
+            "y": 972.239990234375,
+            "width": 112,
+            "height": 165.760009765625
+          },
+          "bubble": {
+            "x": 258.59375,
+            "y": 980.234375,
+            "width": 360,
+            "height": 93
+          },
+          "guide": "guide       guide-guide",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 118.296875,
+              "y": 455.078125,
+              "width": 597.390625,
+              "height": 336.03125,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 322.25,
+              "y": 799.109375,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-invitation-1194",
+          "viewport": [
+            1194,
+            834
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 966.47998046875,
+            "y": 191.82000732421875,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 738.46875,
+            "y": 74.8125,
+            "width": 360,
+            "height": 93
+          },
+          "guide": "guide       guide-guide",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 254,
+              "y": 314.859375,
+              "width": 686,
+              "height": 316.90625,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 502.25,
+              "y": 639.765625,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-invitation-1440",
+          "viewport": [
+            1440,
+            900
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 1164,
+            "y": 207,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 936,
+            "y": 90,
+            "width": 360,
+            "height": 93
+          },
+          "guide": "guide       guide-guide",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 377,
+              "y": 334,
+              "width": 686,
+              "height": 342,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 625.25,
+              "y": 684,
+              "width": 189.484375,
+              "height": 56,
+              "font": 18,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-invitation-320",
+          "viewport": [
+            320,
+            740
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 240,
+            "y": 589.280029296875,
+            "width": 64,
+            "height": 94.719970703125
+          },
+          "bubble": {
+            "x": 12,
+            "y": 589,
+            "width": 218,
+            "height": 73
+          },
+          "guide": "guide       guide-guide",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "ฟังข้อความจากเค้า",
+              "x": 29,
+              "y": 297.796875,
+              "width": 262,
+              "height": 147.375,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "ไปอ่านคำอวยพรเลย",
+              "x": 73.0625,
+              "y": 453.171875,
+              "width": 173.875,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-wishes-834",
+          "viewport": [
+            834,
+            1194
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 618.5999755859375,
+            "y": 942.6400146484375,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 299.59375,
+            "y": 1000.046875,
+            "width": 299,
+            "height": 61
+          },
+          "guide": "guide       guide-quiet",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 187.234375,
+              "y": 857.625,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 507.234375,
+              "y": 863.625,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 324.359375,
+              "y": 933.625,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-wishes-1194",
+          "viewport": [
+            1194,
+            834
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 942.5999755859375,
+            "y": 316.9200134277344,
+            "width": 132,
+            "height": 195.36001586914062
+          },
+          "bubble": {
+            "x": 775.59375,
+            "y": 535.4656372070312,
+            "width": 299,
+            "height": 61
+          },
+          "guide": "guide      guide-hidden guide-quiet",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 367.234375,
+              "y": 646.40625,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 687.234375,
+              "y": 652.40625,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 504.359375,
+              "y": 722.40625,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-wishes-1440",
+          "viewport": [
+            1440,
+            900
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 1164,
+            "y": 342,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 1004,
+            "y": 353.20001220703125,
+            "width": 140,
+            "height": 40
+          },
+          "guide": "guide      guide-hidden guide-silent",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 490.234375,
+              "y": 675.453125,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 810.234375,
+              "y": 681.453125,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 627.359375,
+              "y": 751.453125,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        },
+        {
+          "name": "final-normal-wishes",
+          "viewport": [
+            1440,
+            900
+          ],
+          "overflow": false,
+          "actor": {
+            "x": 1164,
+            "y": 342,
+            "width": 132,
+            "height": 195.3599853515625
+          },
+          "bubble": {
+            "x": 1004,
+            "y": 353.20001220703125,
+            "width": 140,
+            "height": 40
+          },
+          "guide": "guide      guide-hidden guide-silent",
+          "collisions": [],
+          "controls": [
+            {
+              "text": "กลับไปดูความทรงจำ",
+              "x": 490.234375,
+              "y": 675.453125,
+              "width": 304,
+              "height": 60,
+              "font": 18,
+              "clickable": true
+            },
+            {
+              "text": "ดูคลิปอีกครั้ง",
+              "x": 810.234375,
+              "y": 681.453125,
+              "width": 139.515625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            },
+            {
+              "text": "เริ่มเซอร์ไพรส์อีกครั้ง",
+              "x": 627.359375,
+              "y": 751.453125,
+              "width": 185.265625,
+              "height": 48,
+              "font": 16,
+              "clickable": true
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

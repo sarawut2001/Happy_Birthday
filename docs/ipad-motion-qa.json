@@ -1,0 +1,348 @@
+{
+  "passed": true,
+  "records": [
+    {
+      "name": "unlocked",
+      "hero": {
+        "x": 137.73425903876625,
+        "y": 229.6451619412167,
+        "width": 558.5314819224675,
+        "height": 483.9099264256842
+      },
+      "hits": [
+        {
+          "name": "แตะกล่องเพื่อเปิดเซอร์ไพรส์",
+          "x": 125.71875,
+          "y": 217.640625,
+          "width": 582.53125,
+          "height": 507.90625,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "cake-after-rotation",
+      "hero": {
+        "x": 236.6069042616078,
+        "y": 198.98137152070268,
+        "width": 720.7861914767843,
+        "height": 451.4489349072714
+      },
+      "hits": [
+        {
+          "name": "แตะเค้กเพื่อเป่าเทียน",
+          "x": 224.59375,
+          "y": 186.96875,
+          "width": 744.78125,
+          "height": 475.4375,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 1194,
+        "height": 834
+      }
+    },
+    {
+      "name": "birthday-after-rotation",
+      "hero": {
+        "x": 104.41858635017644,
+        "y": 298.9865279231113,
+        "width": 625.9330585561338,
+        "height": 470.5098326263422
+      },
+      "hits": [
+        {
+          "name": "มีจดหมายถึงเธอด้วย",
+          "x": 265,
+          "y": 978.78125,
+          "width": 304,
+          "height": 60,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "envelope",
+      "hero": {
+        "x": 147.90918748212877,
+        "y": 336.86907270599426,
+        "width": 535.1166987466689,
+        "height": 360.8268576469291
+      },
+      "hits": [
+        {
+          "name": "แตะเพื่อเปิดซองจดหมาย",
+          "x": 135.90625,
+          "y": 324.859375,
+          "width": 559.109375,
+          "height": 384.8125,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "paper-ready",
+      "hero": {
+        "x": 149.89546681654036,
+        "y": 287.8094140250043,
+        "width": 531.7478184311726,
+        "height": 521.8599188404428
+      },
+      "hits": [
+        {
+          "name": "แตะกระดาษเพื่ออ่านข้อความ",
+          "x": 179.234375,
+          "y": 284.71875,
+          "width": 475.78125,
+          "height": 331.859375,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "letter-after-rotation",
+      "hero": null,
+      "hits": [
+        {
+          "name": "ไปดูโลกของเรากัน",
+          "x": 445,
+          "y": 686,
+          "width": 304,
+          "height": 60,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 1194,
+        "height": 834
+      }
+    },
+    {
+      "name": "door",
+      "hero": {
+        "x": 404.9833909279133,
+        "y": 136.87943707911447,
+        "width": 384.03321814417336,
+        "height": 462.3991954050407
+      },
+      "hits": [
+        {
+          "name": "กดหัวใจค้างหนึ่งวินาทีครึ่งเพื่อเปิดประตูความทรงจำ",
+          "x": 551.46875,
+          "y": 310.5,
+          "width": 91.046875,
+          "height": 95.59375,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 1194,
+        "height": 834
+      }
+    },
+    {
+      "name": "universe-after-warp-rotation",
+      "hero": null,
+      "hits": [
+        {
+          "name": "ไปเซอร์ไพรส์สุดท้าย",
+          "x": 265,
+          "y": 1042,
+          "width": 304,
+          "height": 60,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "photo-by-touch",
+      "hero": null,
+      "hits": [
+        {
+          "name": "ปิดและกลับสู่จักรวาล",
+          "x": 684,
+          "y": 349.34375,
+          "width": 48,
+          "height": 48,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "universe-return-after-panel-rotation",
+      "hero": null,
+      "hits": [
+        {
+          "name": "ไปเซอร์ไพรส์สุดท้าย",
+          "x": 445,
+          "y": 682,
+          "width": 304,
+          "height": 60,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 1194,
+        "height": 834
+      }
+    },
+    {
+      "name": "rating-after-gather-rotation",
+      "hero": {
+        "x": 232.61235428859845,
+        "y": 248.4171469179776,
+        "width": 369.00722230544943,
+        "height": 366.32429212949955
+      },
+      "hits": [],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    },
+    {
+      "name": "ending",
+      "hero": {
+        "x": 255.26261913078062,
+        "y": 116.12365433554466,
+        "width": 330.2782330011536,
+        "height": 303.9758416233053
+      },
+      "hits": [
+        {
+          "name": "กลับไปดูความทรงจำ",
+          "x": 164.359375,
+          "y": 757.212646484375,
+          "width": 304,
+          "height": 60,
+          "canClick": true
+        }
+      ],
+      "overflow": false,
+      "viewport": {
+        "width": 834,
+        "height": 1194
+      }
+    }
+  ],
+  "world": {
+    "center": [
+      0.0015553799403351203,
+      0.18108196876478494,
+      0.9894914488064968
+    ],
+    "camera": [
+      0,
+      3.2162969999999986,
+      -9.151881000000003
+    ]
+  },
+  "cues": [
+    "pin-reset",
+    "gift-tease",
+    "gift-lid",
+    "gift-light",
+    "cake-arrive",
+    "breath",
+    "wick-out",
+    "wick-out",
+    "wish-made",
+    "number-form",
+    "envelope-flap",
+    "celebrate",
+    "card-close",
+    "card-turn",
+    "seal-release",
+    "envelope-flap",
+    "paper-rise",
+    "paper-ready",
+    "paper-pull",
+    "paper-settle",
+    "tap",
+    "signature",
+    "paper-fold",
+    "door-appear",
+    "hold-stop",
+    "hold-start",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-progress",
+    "hold-stop",
+    "hold-stop",
+    "door-unlock",
+    "door-open",
+    "suction",
+    "warp",
+    "arrival",
+    "heart-form",
+    "assets-emerge",
+    "asset-cluster",
+    "asset-cluster",
+    "asset-cluster",
+    "world-ready",
+    "gather",
+    "gather-complete",
+    "heart-offer",
+    "heart-seal"
+  ],
+  "errors": []
+}

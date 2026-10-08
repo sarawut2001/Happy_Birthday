@@ -1,0 +1,470 @@
+{
+  "record": {
+    "summary": "Air-like sounds remained after the first transition revision. The full gift-opening cue chain and shared object-effect generator are now covered.",
+    "rootCause": "The first fix replaced whoosh/warp/gather only. gift-lid still used sustained filtered random noise; ribbon, paper and door shared that branch. cake-arrive and rating-five still used the external magic recording.",
+    "fix": "Noise-free tap/pluck samples replace all four object sounds. gentle-twinkle replaces the external sparkle in both shared cues. New filenames prevent old decoded buffers being reused after a page reload.",
+    "validation": "Fresh desktop gift opening, debugger call stacks, all 9 affected cues through the actual app event bridge, successful HTTP/decode and spectral concentration checks. Build passed. 8 unrelated generated files remain byte-identical.",
+    "coverageGap": "The earlier QA verified new transition files and explicitly preserved the remaining object effects. It did not inspect every audible sample in the gift-opening chain. Spectral checks characterize noise content; final timbre preference is subjective."
+  },
+  "before": {
+    "played": [
+      {
+        "name": "gift-lid",
+        "seconds": 1.347800000011921,
+        "asset": "lid.wav"
+      },
+      {
+        "name": "gift-light",
+        "seconds": 1.5959000000357628,
+        "asset": "magic-transition.wav"
+      },
+      {
+        "name": "cake-arrive",
+        "seconds": 4.325699999988079,
+        "asset": "sparkle.wav"
+      },
+      {
+        "name": "guide-bubble",
+        "seconds": 4.339600000023842
+      }
+    ],
+    "clips": [
+      {
+        "key": "lid",
+        "file": "lid.wav",
+        "status": 200,
+        "duration": 1.65,
+        "rate": 48000,
+        "cues": [
+          "gift-lid"
+        ],
+        "dominant16BinEnergy": 0.7078699979197826,
+        "broadbandRemainder": 0.29213000208021744
+      },
+      {
+        "key": "sparkle",
+        "file": "sparkle.wav",
+        "status": 200,
+        "duration": 1.3012083333333333,
+        "rate": 48000,
+        "cues": [
+          "cake-arrive",
+          "rating-five"
+        ],
+        "dominant16BinEnergy": 0.9384081223790133,
+        "broadbandRemainder": 0.061591877620986724
+      },
+      {
+        "key": "ribbon",
+        "file": "ribbon.wav",
+        "status": 200,
+        "duration": 0.7,
+        "rate": 48000,
+        "cues": [
+          "gift-tease"
+        ],
+        "dominant16BinEnergy": 0.4227353480854469,
+        "broadbandRemainder": 0.5772646519145531
+      },
+      {
+        "key": "door",
+        "file": "door.wav",
+        "status": 200,
+        "duration": 1.8,
+        "rate": 48000,
+        "cues": [
+          "door-open"
+        ],
+        "dominant16BinEnergy": 0.7440484863044365,
+        "broadbandRemainder": 0.25595151369556346
+      },
+      {
+        "key": "paper",
+        "file": "paper-slide.wav",
+        "status": 200,
+        "duration": 1.5,
+        "rate": 48000,
+        "cues": [
+          "card-turn",
+          "paper-rise",
+          "paper-pull",
+          "paper-fold"
+        ],
+        "dominant16BinEnergy": 0.5394035100555044,
+        "broadbandRemainder": 0.46059648994449565
+      },
+      {
+        "key": "page",
+        "file": "page.wav",
+        "status": 200,
+        "duration": 0.4515625,
+        "rate": 48000,
+        "cues": [
+          "card-close",
+          "envelope-flap",
+          "paper-settle",
+          "photo-change",
+          "promise-flip",
+          "tile-swap"
+        ],
+        "dominant16BinEnergy": 0.1275931750642383,
+        "broadbandRemainder": 0.8724068249357617
+      },
+      {
+        "key": "whoosh",
+        "file": "magic-transition.wav",
+        "status": 200,
+        "duration": 2.8,
+        "rate": 48000,
+        "cues": [
+          "pin-reset",
+          "gift-light",
+          "door-appear",
+          "suction",
+          "arrival",
+          "assets-emerge",
+          "panel-open",
+          "panel-close",
+          "heart-offer"
+        ],
+        "dominant16BinEnergy": 0.9995500350244869,
+        "broadbandRemainder": 0.0004499649755130841
+      },
+      {
+        "key": "warp",
+        "file": "starlight-travel.wav",
+        "status": 200,
+        "duration": 2.8,
+        "rate": 48000,
+        "cues": [
+          "warp"
+        ],
+        "dominant16BinEnergy": 0.9993654836601751,
+        "broadbandRemainder": 0.0006345163398249198
+      },
+      {
+        "key": "gather",
+        "file": "memory-return.wav",
+        "status": 200,
+        "duration": 4.65,
+        "rate": 48000,
+        "cues": [
+          "gather"
+        ],
+        "dominant16BinEnergy": 0.9993728626570394,
+        "broadbandRemainder": 0.0006271373429606042
+      },
+      {
+        "key": "breath",
+        "file": "breath.wav",
+        "status": 200,
+        "duration": 1.95,
+        "rate": 48000,
+        "cues": [
+          "breath"
+        ],
+        "dominant16BinEnergy": 0.800908359231438,
+        "broadbandRemainder": 0.199091640768562
+      }
+    ],
+    "errors": []
+  },
+  "after": {
+    "played": [
+      {
+        "name": "gift-lid",
+        "seconds": 1.2400999999642373,
+        "asset": "gift-open-tonal.wav"
+      },
+      {
+        "name": "gift-light",
+        "seconds": 1.4925,
+        "asset": "magic-transition.wav"
+      },
+      {
+        "name": "cake-arrive",
+        "seconds": 4.213599999964237,
+        "asset": "gentle-twinkle.wav"
+      },
+      {
+        "name": "guide-bubble",
+        "seconds": 4.227099999964238
+      }
+    ],
+    "clips": [
+      {
+        "key": "lid",
+        "file": "gift-open-tonal.wav",
+        "status": 200,
+        "duration": 1.65,
+        "rate": 48000,
+        "cues": [
+          "gift-lid"
+        ],
+        "dominant16BinEnergy": 0.9998362145605612,
+        "broadbandRemainder": 0.00016378543943884605
+      },
+      {
+        "key": "sparkle",
+        "file": "gentle-twinkle.wav",
+        "status": 200,
+        "duration": 1.3,
+        "rate": 48000,
+        "cues": [
+          "cake-arrive",
+          "rating-five"
+        ],
+        "dominant16BinEnergy": 0.9986866339523306,
+        "broadbandRemainder": 0.0013133660476694065
+      },
+      {
+        "key": "ribbon",
+        "file": "ribbon-pluck.wav",
+        "status": 200,
+        "duration": 0.7,
+        "rate": 48000,
+        "cues": [
+          "gift-tease"
+        ],
+        "dominant16BinEnergy": 0.999823030820482,
+        "broadbandRemainder": 0.00017696917951803837
+      },
+      {
+        "key": "door",
+        "file": "door-open-tonal.wav",
+        "status": 200,
+        "duration": 1.8,
+        "rate": 48000,
+        "cues": [
+          "door-open"
+        ],
+        "dominant16BinEnergy": 0.9992741153470582,
+        "broadbandRemainder": 0.0007258846529417662
+      },
+      {
+        "key": "paper",
+        "file": "paper-lift-tonal.wav",
+        "status": 200,
+        "duration": 1.5,
+        "rate": 48000,
+        "cues": [
+          "card-turn",
+          "paper-rise",
+          "paper-pull",
+          "paper-fold"
+        ],
+        "dominant16BinEnergy": 0.9999411709838018,
+        "broadbandRemainder": 0.00005882901619824743
+      },
+      {
+        "key": "page",
+        "file": "page.wav",
+        "status": 200,
+        "duration": 0.4515625,
+        "rate": 48000,
+        "cues": [
+          "card-close",
+          "envelope-flap",
+          "paper-settle",
+          "photo-change",
+          "promise-flip",
+          "tile-swap"
+        ],
+        "dominant16BinEnergy": 0.1275931750642383,
+        "broadbandRemainder": 0.8724068249357617
+      },
+      {
+        "key": "whoosh",
+        "file": "magic-transition.wav",
+        "status": 200,
+        "duration": 2.8,
+        "rate": 48000,
+        "cues": [
+          "pin-reset",
+          "gift-light",
+          "door-appear",
+          "suction",
+          "arrival",
+          "assets-emerge",
+          "panel-open",
+          "panel-close",
+          "heart-offer"
+        ],
+        "dominant16BinEnergy": 0.9995500350244869,
+        "broadbandRemainder": 0.0004499649755130841
+      },
+      {
+        "key": "warp",
+        "file": "starlight-travel.wav",
+        "status": 200,
+        "duration": 2.8,
+        "rate": 48000,
+        "cues": [
+          "warp"
+        ],
+        "dominant16BinEnergy": 0.9993654836601751,
+        "broadbandRemainder": 0.0006345163398249198
+      },
+      {
+        "key": "gather",
+        "file": "memory-return.wav",
+        "status": 200,
+        "duration": 4.65,
+        "rate": 48000,
+        "cues": [
+          "gather"
+        ],
+        "dominant16BinEnergy": 0.9993728626570394,
+        "broadbandRemainder": 0.0006271373429606042
+      },
+      {
+        "key": "breath",
+        "file": "breath.wav",
+        "status": 200,
+        "duration": 1.95,
+        "rate": 48000,
+        "cues": [
+          "breath"
+        ],
+        "dominant16BinEnergy": 0.800908359231438,
+        "broadbandRemainder": 0.199091640768562
+      }
+    ],
+    "errors": [],
+    "debuggerTrace": [
+      {
+        "cue": "gift-lid",
+        "frames": [
+          "emitStorySound",
+          "",
+          "_callback2",
+          "_renderZeroDurationTween2",
+          "render3"
+        ]
+      },
+      {
+        "cue": "gift-light",
+        "frames": [
+          "emitStorySound",
+          "",
+          "_callback2",
+          "_renderZeroDurationTween2",
+          "render3"
+        ]
+      },
+      {
+        "cue": "cake-arrive",
+        "frames": [
+          "emitStorySound",
+          "",
+          "finish",
+          "_callback2",
+          "render3"
+        ]
+      }
+    ]
+  },
+  "qa": {
+    "passed": true,
+    "cues": [
+      "gift-tease",
+      "gift-lid",
+      "cake-arrive",
+      "door-open",
+      "card-turn",
+      "paper-rise",
+      "paper-pull",
+      "paper-fold",
+      "rating-five"
+    ],
+    "fetched": [
+      "gentle-twinkle.wav",
+      "ribbon-pluck.wav",
+      "page.wav",
+      "gift-open-tonal.wav",
+      "breath.wav",
+      "paper-lift-tonal.wav",
+      "door-open-tonal.wav",
+      "magic-transition.wav",
+      "starlight-travel.wav",
+      "cosmic.wav",
+      "sparkle-rise.wav",
+      "memory-return.wav",
+      "celebrate.wav",
+      "resolve.wav",
+      "gift-open-tonal.wav",
+      "gentle-twinkle.wav",
+      "ribbon-pluck.wav",
+      "door-open-tonal.wav",
+      "paper-lift-tonal.wav",
+      "page.wav",
+      "magic-transition.wav",
+      "starlight-travel.wav",
+      "memory-return.wav",
+      "breath.wav"
+    ],
+    "unusedNotRequested": [
+      "lid.wav",
+      "ribbon.wav",
+      "door.wav",
+      "paper-slide.wav",
+      "sparkle.wav",
+      "whoosh.wav",
+      "warp.wav",
+      "gather.wav"
+    ],
+    "errors": []
+  },
+  "files": [
+    {
+      "name": "ribbon-pluck.wav",
+      "duration": 0.7,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "edgePeak": 0
+    },
+    {
+      "name": "gift-open-tonal.wav",
+      "duration": 1.65,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "edgePeak": 0.000030517578125
+    },
+    {
+      "name": "paper-lift-tonal.wav",
+      "duration": 1.5,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "edgePeak": 0.000030517578125
+    },
+    {
+      "name": "door-open-tonal.wav",
+      "duration": 1.8,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "edgePeak": 0
+    },
+    {
+      "name": "gentle-twinkle.wav",
+      "duration": 1.3,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "edgePeak": 0
+    }
+  ],
+  "preserved": [
+    "breath.wav",
+    "magic-transition.wav",
+    "starlight-travel.wav",
+    "cosmic.wav",
+    "sparkle-rise.wav",
+    "memory-return.wav",
+    "celebrate.wav",
+    "resolve.wav"
+  ]
+}

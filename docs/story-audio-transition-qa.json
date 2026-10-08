@@ -1,0 +1,121 @@
+{
+  "revision": "2026-10-06",
+  "files": [
+    {
+      "name": "magic-transition.wav",
+      "duration": 2.8,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "rms": 0.13888960059505592,
+      "edgePeak": 0
+    },
+    {
+      "name": "starlight-travel.wav",
+      "duration": 2.8,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "rms": 0.16395753439508431,
+      "edgePeak": 0
+    },
+    {
+      "name": "memory-return.wav",
+      "duration": 4.65,
+      "rate": 24000,
+      "channels": 2,
+      "peak": 0.649993896484375,
+      "rms": 0.14136859154762987,
+      "edgePeak": 0
+    }
+  ],
+  "preserved": [
+    {
+      "name": "ribbon.wav",
+      "unchanged": true
+    },
+    {
+      "name": "lid.wav",
+      "unchanged": true
+    },
+    {
+      "name": "breath.wav",
+      "unchanged": true
+    },
+    {
+      "name": "paper-slide.wav",
+      "unchanged": true
+    },
+    {
+      "name": "door.wav",
+      "unchanged": true
+    },
+    {
+      "name": "cosmic.wav",
+      "unchanged": true
+    },
+    {
+      "name": "sparkle-rise.wav",
+      "unchanged": true
+    },
+    {
+      "name": "celebrate.wav",
+      "unchanged": true
+    },
+    {
+      "name": "resolve.wav",
+      "unchanged": true
+    }
+  ],
+  "browser": {
+    "passed": true,
+    "files": [
+      {
+        "file": "magic-transition.wav",
+        "status": 200,
+        "duration": 2.8,
+        "expected": 2.8,
+        "channels": 2,
+        "mapped": true
+      },
+      {
+        "file": "starlight-travel.wav",
+        "status": 200,
+        "duration": 2.8,
+        "expected": 2.8,
+        "channels": 2,
+        "mapped": true
+      },
+      {
+        "file": "memory-return.wav",
+        "status": 200,
+        "duration": 4.65,
+        "expected": 4.65,
+        "channels": 2,
+        "mapped": true
+      }
+    ],
+    "cues": [
+      {
+        "name": "gift-light",
+        "played": true,
+        "peak": 0.031192049384117126,
+        "gain": 0.145
+      },
+      {
+        "name": "warp",
+        "played": true,
+        "peak": 0.03879466652870178,
+        "gain": 0.15
+      },
+      {
+        "name": "gather",
+        "played": true,
+        "peak": 0.05262244492769241,
+        "gain": 0.15
+      }
+    ],
+    "reports": [],
+    "errors": []
+  }
+}

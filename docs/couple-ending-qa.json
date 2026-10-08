@@ -1,0 +1,3286 @@
+{
+  "passed": true,
+  "errors": [],
+  "records": [
+    {
+      "label": "sealing-mid",
+      "className": "app has-guide stage-6 theme-night      finale-sealing",
+      "hero": {
+        "x": 272.26813783558094,
+        "y": 180.1263835929452,
+        "width": 291.2055114663585,
+        "height": 291.7212155603647
+      },
+      "couple": {
+        "phase": "sealing",
+        "amount": 0.03737,
+        "elapsed": 1.7190999999642376,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": false
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 0,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 0,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 0,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 0,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 0,
+          "transparent": true
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 0.009536030157101501,
+          "transparent": true
+        }
+      ],
+      "guideHidden": false,
+      "heading": null,
+      "actions": null,
+      "content": {
+        "x": 92,
+        "y": 656.6875,
+        "width": 650,
+        "height": 382.09375,
+        "scrollHeight": 382,
+        "clientHeight": 382
+      },
+      "overflow": false
+    },
+    {
+      "label": "sealing-rotated",
+      "className": "app has-guide stage-6 theme-night      finale-sealing",
+      "hero": {
+        "x": 531.4617939259915,
+        "y": 218.15377511900493,
+        "width": 142.19133096461655,
+        "height": 147.21746413164965
+      },
+      "couple": {
+        "phase": "sealing",
+        "amount": 0.934913,
+        "elapsed": 2.9541999999284765,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": false
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 0.9820992824819123,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 0.9820992824819123,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 0.9820992824819123,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 0.9820992824819123,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 0.9820992824819123,
+          "transparent": true
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": false,
+      "heading": null,
+      "actions": null,
+      "content": {
+        "x": 272,
+        "y": 458.6875,
+        "width": 650,
+        "height": 266.90625,
+        "scrollHeight": 267,
+        "clientHeight": 267
+      },
+      "overflow": false
+    },
+    {
+      "label": "end-start",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 528.8794417563284,
+        "y": 214.2386306669372,
+        "width": 147.09540906595146,
+        "height": 151.94896713217886
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 0.1495,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": false
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": false,
+      "heading": {
+        "x": 276,
+        "y": 386.953125,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": null,
+      "content": {
+        "x": 272,
+        "y": 366.953125,
+        "width": 650,
+        "height": 383.046875,
+        "scrollHeight": 383,
+        "clientHeight": 383
+      },
+      "overflow": false
+    },
+    {
+      "label": "end-before-farewell",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 417.3338557347026,
+        "y": 36.061694541189915,
+        "width": 359.79276345123327,
+        "height": 302.9186833188
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 11.41210000008345,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 276,
+        "y": 366.953125,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 276,
+        "y": 646.40625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 272,
+        "y": 366.953125,
+        "width": 650,
+        "height": 383.046875,
+        "scrollHeight": 384,
+        "clientHeight": 383
+      },
+      "overflow": false
+    },
+    {
+      "label": "end-settled",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 416.80775232711596,
+        "y": 36.7398532838319,
+        "width": 360.63422713744615,
+        "height": 303.06051059569086
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 19.46650000005961,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 276,
+        "y": 366.953125,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 276,
+        "y": 646.40625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 272,
+        "y": 366.953125,
+        "width": 650,
+        "height": 383.046875,
+        "scrollHeight": 384,
+        "clientHeight": 383
+      },
+      "overflow": false
+    },
+    {
+      "label": "portrait",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 122.7445202908281,
+        "y": 49.615115125732174,
+        "width": 588.7189662214944,
+        "height": 496.25210131910904
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 21.64230000007154,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 96,
+        "y": 597,
+        "width": 642,
+        "height": 36.265625,
+        "scrollHeight": 37,
+        "clientHeight": 36
+      },
+      "actions": {
+        "x": 96,
+        "y": 857.625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 92,
+        "y": 597,
+        "width": 650,
+        "height": 513,
+        "scrollHeight": 513,
+        "clientHeight": 513
+      },
+      "overflow": false
+    },
+    {
+      "label": "small-ipad",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 123.09754573283904,
+        "y": 38.974023243036186,
+        "width": 521.7013702926148,
+        "height": 434.6102192584157
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 25.050200000047706,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 63,
+        "y": 512,
+        "width": 642,
+        "height": 34.796875,
+        "scrollHeight": 35,
+        "clientHeight": 35
+      },
+      "actions": {
+        "x": 63,
+        "y": 771.15625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 59,
+        "y": 512,
+        "width": 650,
+        "height": 428,
+        "scrollHeight": 428,
+        "clientHeight": 428
+      },
+      "overflow": false
+    },
+    {
+      "label": "large-ipad",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 164.58785730652653,
+        "y": 48.77621900280392,
+        "width": 694.7126134267858,
+        "height": 584.6446218737775
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 28.175900000095403,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 191,
+        "y": 683,
+        "width": 642,
+        "height": 44.53125,
+        "scrollHeight": 45,
+        "clientHeight": 45
+      },
+      "actions": {
+        "x": 191,
+        "y": 957.484375,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 187,
+        "y": 683,
+        "width": 650,
+        "height": 599,
+        "scrollHeight": 599,
+        "clientHeight": 599
+      },
+      "overflow": false
+    },
+    {
+      "label": "landscape",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 417.06243994560646,
+        "y": 34.165678591949344,
+        "width": 360.6686288052257,
+        "height": 303.28657489332204
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 31.086900000035794,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 276,
+        "y": 366.953125,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 276,
+        "y": 646.40625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 272,
+        "y": 366.953125,
+        "width": 650,
+        "height": 383.046875,
+        "scrollHeight": 384,
+        "clientHeight": 383
+      },
+      "overflow": false
+    },
+    {
+      "label": "desktop",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 525.8395576158404,
+        "y": 37.44091334964354,
+        "width": 388.22562637555563,
+        "height": 329.160969641294
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 33.94930000013117,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 399,
+        "y": 396,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 399,
+        "y": 675.453125,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 395,
+        "y": 396,
+        "width": 650,
+        "height": 420,
+        "scrollHeight": 420,
+        "clientHeight": 420
+      },
+      "overflow": false
+    },
+    {
+      "label": "wide",
+      "className": "app has-guide stage-6 theme-blush     ending finale-end",
+      "hero": {
+        "x": 726.9030929700139,
+        "y": 45.21892932790142,
+        "width": 466.20504856856314,
+        "height": 392.636430242161
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 36.892600000143176,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": true
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 639,
+        "y": 475.1875,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 639,
+        "y": 754.640625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 635,
+        "y": 475.1875,
+        "width": 650,
+        "height": 520.8125,
+        "scrollHeight": 521,
+        "clientHeight": 521
+      },
+      "overflow": false
+    },
+    {
+      "label": "reduced-motion",
+      "className": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 726.6523817393982,
+        "y": 44.904352884304906,
+        "width": 466.86058951005884,
+        "height": 392.1254891369385
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 0,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": false
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 639,
+        "y": 475.1875,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 639,
+        "y": 754.640625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 635,
+        "y": 475.1875,
+        "width": 650,
+        "height": 520.8125,
+        "scrollHeight": 521,
+        "clientHeight": 521
+      },
+      "overflow": false
+    },
+    {
+      "label": "reduced-motion-after",
+      "className": "app has-guide stage-6 theme-blush  motion-reduced   ending finale-end",
+      "hero": {
+        "x": 727.3953354796317,
+        "y": 45.536530181989605,
+        "width": 465.20932560152596,
+        "height": 392.87190660910585
+      },
+      "couple": {
+        "phase": "end",
+        "amount": 1,
+        "elapsed": 0,
+        "blinkLeft": 0,
+        "blinkRight": 0,
+        "greeted": false
+      },
+      "heart": [
+        0.09899999999999999,
+        -1.44,
+        0
+      ],
+      "meshes": [
+        {
+          "name": "mesh_0",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_0_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeLeftOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeLeftInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_3",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_3_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_4_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_5_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_6_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_7_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_8_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_9_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_10_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "CoupleEyeRightInner",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "CoupleEyeRightOuter",
+          "opacity": 1,
+          "transparent": true,
+          "blink": 0
+        },
+        {
+          "name": "mesh_13",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_13_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_14_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_15_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_16_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_17_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_18_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_19_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_20_1",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21",
+          "opacity": 1,
+          "transparent": false
+        },
+        {
+          "name": "mesh_21_1",
+          "opacity": 1,
+          "transparent": false
+        }
+      ],
+      "guideHidden": true,
+      "heading": {
+        "x": 639,
+        "y": 475.1875,
+        "width": 642,
+        "height": 48.703125,
+        "scrollHeight": 49,
+        "clientHeight": 49
+      },
+      "actions": {
+        "x": 639,
+        "y": 754.640625,
+        "width": 642,
+        "height": 60,
+        "scrollHeight": 60,
+        "clientHeight": 60
+      },
+      "content": {
+        "x": 635,
+        "y": 475.1875,
+        "width": 650,
+        "height": 520.8125,
+        "scrollHeight": 521,
+        "clientHeight": 521
+      },
+      "overflow": false
+    }
+  ]
+}

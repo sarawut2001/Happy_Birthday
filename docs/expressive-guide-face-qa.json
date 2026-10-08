@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "name": "gentle",
+      "expression": "gentle",
+      "mouth": 0.7499999999999885,
+      "round": 0,
+      "blink": 0,
+      "talking": false,
+      "patches": 3
+    },
+    {
+      "name": "talking",
+      "expression": "gentle",
+      "mouth": 0.7896747767722191,
+      "round": 0.4552121574388907,
+      "blink": 0,
+      "talking": true,
+      "patches": 3
+    },
+    {
+      "name": "shy",
+      "expression": "shy",
+      "mouth": 0.4502301068807534,
+      "round": 0.0010405647455765765,
+      "blink": 0,
+      "talking": false,
+      "patches": 3
+    },
+    {
+      "name": "blow",
+      "expression": "blow",
+      "mouth": 0.5498775844083613,
+      "round": 0.9962539042193569,
+      "blink": 0,
+      "talking": false,
+      "patches": 3
+    },
+    {
+      "name": "quarter",
+      "expression": "gentle",
+      "mouth": 0.7498775767214478,
+      "round": 0.00209175232773931,
+      "blink": 0,
+      "talking": false,
+      "patches": 3
+    },
+    {
+      "name": "blink",
+      "expression": "gentle",
+      "mouth": 0.749996304615767,
+      "round": 0.00011315487188162063,
+      "blink": 0.07522619039182928,
+      "talking": false,
+      "patches": 3
+    }
+  ],
+  "errors": []
+}

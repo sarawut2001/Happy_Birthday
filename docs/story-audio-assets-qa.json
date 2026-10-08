@@ -1,0 +1,110 @@
+[
+  {
+    "name": "ribbon",
+    "seconds": 0.7,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.11333962934049412,
+    "seam": 0.0
+  },
+  {
+    "name": "lid",
+    "seconds": 1.65,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.11980524253054589,
+    "seam": 0.0
+  },
+  {
+    "name": "breath",
+    "seconds": 1.95,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.1173996950070791,
+    "seam": 0.0
+  },
+  {
+    "name": "paper-slide",
+    "seconds": 1.5,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.1207165505039391,
+    "seam": 0.0
+  },
+  {
+    "name": "door",
+    "seconds": 1.8,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.14129561228532658,
+    "seam": 0.0
+  },
+  {
+    "name": "whoosh",
+    "seconds": 2.8,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.11821207586872189,
+    "seam": 0.0
+  },
+  {
+    "name": "warp",
+    "seconds": 2.8,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.12124702237039346,
+    "seam": 0.0
+  },
+  {
+    "name": "cosmic",
+    "seconds": 8.0,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.1974696204109156,
+    "seam": 0.0001220703125
+  },
+  {
+    "name": "sparkle-rise",
+    "seconds": 3.5,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.1503822383374172,
+    "seam": 0.0
+  },
+  {
+    "name": "gather",
+    "seconds": 4.65,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.11123529533829919,
+    "seam": 0.0
+  },
+  {
+    "name": "celebrate",
+    "seconds": 2.0,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.10934221084591467,
+    "seam": 0.0
+  },
+  {
+    "name": "resolve",
+    "seconds": 2.4,
+    "channels": 2,
+    "rate": 24000,
+    "peak": 0.649993896484375,
+    "rms": 0.11482753102293726,
+    "seam": 0.0
+  }
+]

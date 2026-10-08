@@ -1,0 +1,261 @@
+{
+  "original": {
+    "path": "/Users/bic-sarawut/Project/HBD/public/assets/models/monchhichi.glb",
+    "bytes": 4667520,
+    "sha256": "9a6fa8f379e910add6e6ef9997bd6591b364bffe28c5316591749b45c0236232"
+  },
+  "updated": {
+    "path": "/private/tmp/hbd-guide/public/assets/models/monchhichi.glb",
+    "bytes": 4849476,
+    "sha256": "c6ca8c6906dc43e0225abc315a430e8d8f1dd87b45e42fff4c05c59ec45fd330"
+  },
+  "comparisons": {
+    "geometryAttributesAndIndices": true,
+    "materials": true,
+    "embeddedImageBytes": true,
+    "texturesAndSamplers": true,
+    "originalClips": [
+      {
+        "name": "Idle",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Walk",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Wave",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Celebrate",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Shy",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Float",
+        "unchanged": true,
+        "tracks": 18
+      },
+      {
+        "name": "Hug",
+        "unchanged": true,
+        "tracks": 18
+      }
+    ]
+  },
+  "unchanged": true,
+  "newClips": [
+    {
+      "name": "Present",
+      "tracks": 18
+    },
+    {
+      "name": "Invite",
+      "tracks": 18
+    },
+    {
+      "name": "Blow",
+      "tracks": 18
+    },
+    {
+      "name": "Thanks",
+      "tracks": 18
+    }
+  ],
+  "geometryEvidence": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 2292,
+              "normalized": false,
+              "sha256": "f929c820411e4f5f87090c758ad8ec760c116df9c84291f3c3b6f5933f799857"
+            },
+            "TEXCOORD_0": {
+              "type": "VEC2",
+              "componentType": 5126,
+              "count": 2292,
+              "normalized": false,
+              "sha256": "69d09e573378c6b0027649a5e50c6a807f95a09e1f777d6f82f0e5eaf5274758"
+            },
+            "NORMAL": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 2292,
+              "normalized": false,
+              "sha256": "43dacfbdf6ce5531b3fc518e4ad135dd99928f2c67f77412ce4000426cc26752"
+            }
+          },
+          "material": {
+            "pbrMetallicRoughness": {
+              "baseColorFactor": [
+                0.8387990117372213,
+                0.19806931954941637,
+                0.3813260114221238,
+                1
+              ],
+              "metallicFactor": 0,
+              "roughnessFactor": 0.5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "aa09e5f8de46f635a0c6cc518285072e8331135341bc0ccb312397e01ac13bcb"
+            },
+            "TEXCOORD_0": {
+              "type": "VEC2",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "277491e3904822c57f8a0329e5307ea1093582867ac5d075def7e68619a4aada"
+            },
+            "COLOR_0": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "94ffe896b783dbda6d1c8163074383edfbb95bbfb57a74429507ef791145d354"
+            },
+            "JOINTS_0": {
+              "type": "VEC4",
+              "componentType": 5123,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "e89a8b61843135b34b4edef49bf723df57adefdb3c0453ce3f56c274b81bb7b5"
+            },
+            "WEIGHTS_0": {
+              "type": "VEC4",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "4052eaeca550e6dc510f9928695d448e8f91eeb8cdd63e2f81b98c069c7cfe4a"
+            },
+            "NORMAL": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "0345ddc2ac8033a64822836ad2b089f7f3af08874b2b333f035f7bba28ca5c30"
+            }
+          },
+          "indices": {
+            "type": "SCALAR",
+            "componentType": 5123,
+            "count": 67689,
+            "normalized": false,
+            "sha256": "f07e412372dc206228cb3b0a155e174066e377f79b240612f35eac8c6a3f6552"
+          },
+          "material": {
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.96,
+              "baseColorTexture": {
+                "index": {
+                  "name": "reference-front-artwork",
+                  "image": {
+                    "mimeType": "image/png",
+                    "sha256": "fafd8fcae0e40d0c7756541033e46820c459ca2fbcb280e5b786bcc5dbb7fc52",
+                    "bytes": 2186744
+                  },
+                  "sampler": {
+                    "magFilter": 9729,
+                    "minFilter": 9987,
+                    "wrapS": 33071,
+                    "wrapT": 33071
+                  }
+                },
+                "texCoord": 0
+              }
+            },
+            "name": "reference-artwork-front"
+          }
+        },
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "aa09e5f8de46f635a0c6cc518285072e8331135341bc0ccb312397e01ac13bcb"
+            },
+            "TEXCOORD_0": {
+              "type": "VEC2",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "277491e3904822c57f8a0329e5307ea1093582867ac5d075def7e68619a4aada"
+            },
+            "COLOR_0": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "94ffe896b783dbda6d1c8163074383edfbb95bbfb57a74429507ef791145d354"
+            },
+            "JOINTS_0": {
+              "type": "VEC4",
+              "componentType": 5123,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "e89a8b61843135b34b4edef49bf723df57adefdb3c0453ce3f56c274b81bb7b5"
+            },
+            "WEIGHTS_0": {
+              "type": "VEC4",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "4052eaeca550e6dc510f9928695d448e8f91eeb8cdd63e2f81b98c069c7cfe4a"
+            },
+            "NORMAL": {
+              "type": "VEC3",
+              "componentType": 5126,
+              "count": 26832,
+              "normalized": false,
+              "sha256": "0345ddc2ac8033a64822836ad2b089f7f3af08874b2b333f035f7bba28ca5c30"
+            }
+          },
+          "indices": {
+            "type": "SCALAR",
+            "componentType": 5123,
+            "count": 76191,
+            "normalized": false,
+            "sha256": "2bb49b6549206b5702bb01c6983483070fb124ce5cf70d43edc12e0d3345411b"
+          },
+          "material": {
+            "pbrMetallicRoughness": {
+              "metallicFactor": 0,
+              "roughnessFactor": 0.96
+            },
+            "name": "matched-fur-and-skin-shell"
+          }
+        }
+      ]
+    }
+  ]
+}

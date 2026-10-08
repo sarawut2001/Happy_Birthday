@@ -5,5 +5,14 @@ dist/
 # Licensed Mixkit audio: serve in the website; do not redistribute as a public asset pack.
 public/assets/audio/*.mp3
 public/assets/audio/*.wav
-# Personal media stays out of Git by default.
-public/assets/personal/
+# User approved publishing the prepared website media for deployment on 2026-10-08.
+# Keep raw originals and local browser evidence out of the repository.
+image/
+docs/real-photos-*.png
+docs/presentation-cinema-*.png
+docs/*.png
+docs/*.jpg
+# Old nested checkouts and a duplicate source model are local working files.
+/HBD/
+/Happy_Birthday/
+/Meshy_AI_Monchhichi_Monkey_1003091923_texture.glb

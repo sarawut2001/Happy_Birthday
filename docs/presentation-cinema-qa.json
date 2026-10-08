@@ -1,0 +1,1353 @@
+{
+  "date": "2026-10-08",
+  "browser": "Headless Chromium 1223 / SwiftShader",
+  "media": {
+    "records": [
+      {
+        "name": "invitation-ipad",
+        "viewport": [
+          834,
+          1194
+        ],
+        "overflow": false,
+        "card": {
+          "x": 62.796875,
+          "y": 382.078125,
+          "width": 708.390625,
+          "height": 533.34375,
+          "top": 382.078125,
+          "right": 771.1875,
+          "bottom": 915.421875,
+          "left": 62.796875
+        },
+        "media": {
+          "x": 79.796875,
+          "y": 455.078125,
+          "width": 674.390625,
+          "height": 379.34375,
+          "top": 455.078125,
+          "right": 754.1875,
+          "bottom": 834.421875,
+          "left": 79.796875
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": false,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ดูเรื่องของเรา ♡",
+            "x": 79.796875,
+            "y": 455.078125,
+            "width": 674.390625,
+            "height": 379.34375,
+            "top": 455.078125,
+            "right": 754.1875,
+            "bottom": 834.421875,
+            "left": 79.796875,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 604.984375,
+            "y": 842.421875,
+            "width": 141.203125,
+            "height": 56,
+            "top": 842.421875,
+            "right": 746.1875,
+            "bottom": 898.421875,
+            "left": 604.984375,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "playing-ipad",
+        "viewport": [
+          834,
+          1194
+        ],
+        "overflow": false,
+        "card": {
+          "x": 32,
+          "y": 313,
+          "width": 770,
+          "height": 568,
+          "top": 313,
+          "right": 802,
+          "bottom": 881,
+          "left": 32
+        },
+        "media": {
+          "x": 49,
+          "y": 386,
+          "width": 736,
+          "height": 414,
+          "top": 386,
+          "right": 785,
+          "bottom": 800,
+          "left": 49
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": true,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ปิดคลิปและไปหน้าสุดท้าย",
+            "x": 747,
+            "y": 324,
+            "width": 44,
+            "height": 44,
+            "top": 324,
+            "right": 791,
+            "bottom": 368,
+            "left": 747,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 635.796875,
+            "y": 808,
+            "width": 141.203125,
+            "height": 56,
+            "top": 808,
+            "right": 777,
+            "bottom": 864,
+            "left": 635.796875,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "real-H264-AAC-MP4-decodes",
+        "src": "http://127.0.0.1:5173/assets/personal/presentation/our-story.mp4",
+        "duration": 21.333333,
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "name": "playing-1024",
+        "viewport": [
+          1024,
+          768
+        ],
+        "overflow": false,
+        "card": {
+          "x": 32,
+          "y": 46.5625,
+          "width": 960,
+          "height": 674.875,
+          "top": 46.5625,
+          "right": 992,
+          "bottom": 721.4375,
+          "left": 32
+        },
+        "media": {
+          "x": 49,
+          "y": 119.5625,
+          "width": 926,
+          "height": 520.875,
+          "top": 119.5625,
+          "right": 975,
+          "bottom": 640.4375,
+          "left": 49
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": true,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ปิดคลิปและไปหน้าสุดท้าย",
+            "x": 937,
+            "y": 57.5625,
+            "width": 44,
+            "height": 44,
+            "top": 57.5625,
+            "right": 981,
+            "bottom": 101.5625,
+            "left": 937,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 825.796875,
+            "y": 648.4375,
+            "width": 141.203125,
+            "height": 56,
+            "top": 648.4375,
+            "right": 967,
+            "bottom": 704.4375,
+            "left": 825.796875,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "playing-1440",
+        "viewport": [
+          1440,
+          900
+        ],
+        "overflow": false,
+        "card": {
+          "x": 120,
+          "y": 45.0625,
+          "width": 1200,
+          "height": 809.875,
+          "top": 45.0625,
+          "right": 1320,
+          "bottom": 854.9375,
+          "left": 120
+        },
+        "media": {
+          "x": 137,
+          "y": 118.0625,
+          "width": 1166,
+          "height": 655.875,
+          "top": 118.0625,
+          "right": 1303,
+          "bottom": 773.9375,
+          "left": 137
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": true,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ปิดคลิปและไปหน้าสุดท้าย",
+            "x": 1265,
+            "y": 56.0625,
+            "width": 44,
+            "height": 44,
+            "top": 56.0625,
+            "right": 1309,
+            "bottom": 100.0625,
+            "left": 1265,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 1153.796875,
+            "y": 781.9375,
+            "width": 141.203125,
+            "height": 56,
+            "top": 781.9375,
+            "right": 1295,
+            "bottom": 837.9375,
+            "left": 1153.796875,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "playing-320",
+        "viewport": [
+          320,
+          740
+        ],
+        "overflow": false,
+        "card": {
+          "x": 16,
+          "y": 231.3125,
+          "width": 288,
+          "height": 277.375,
+          "top": 231.3125,
+          "right": 304,
+          "bottom": 508.6875,
+          "left": 16
+        },
+        "media": {
+          "x": 29,
+          "y": 292.3125,
+          "width": 262,
+          "height": 147.375,
+          "top": 292.3125,
+          "right": 291,
+          "bottom": 439.6875,
+          "left": 29
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": true,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ปิดคลิปและไปหน้าสุดท้าย",
+            "x": 249,
+            "y": 242.3125,
+            "width": 44,
+            "height": 44,
+            "top": 242.3125,
+            "right": 293,
+            "bottom": 286.3125,
+            "left": 249,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 164.875,
+            "y": 447.6875,
+            "width": 122.125,
+            "height": 48,
+            "top": 447.6875,
+            "right": 287,
+            "bottom": 495.6875,
+            "left": 164.875,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "real-frame-ipad",
+        "viewport": [
+          834,
+          1194
+        ],
+        "overflow": false,
+        "card": {
+          "x": 32,
+          "y": 313,
+          "width": 770,
+          "height": 568,
+          "top": 313,
+          "right": 802,
+          "bottom": 881,
+          "left": 32
+        },
+        "media": {
+          "x": 49,
+          "y": 386,
+          "width": 736,
+          "height": 414,
+          "top": 386,
+          "right": 785,
+          "bottom": 800,
+          "left": 49
+        },
+        "video": {
+          "width": 1920,
+          "height": 1080,
+          "duration": 21.333333,
+          "paused": true,
+          "controls": true,
+          "inline": true,
+          "fit": "contain"
+        },
+        "collisions": [],
+        "controls": [
+          {
+            "text": "ปิดคลิปและไปหน้าสุดท้าย",
+            "x": 747,
+            "y": 324,
+            "width": 44,
+            "height": 44,
+            "top": 324,
+            "right": 791,
+            "bottom": 368,
+            "left": 747,
+            "clickable": true
+          },
+          {
+            "text": "ไปหน้าสุดท้าย",
+            "x": 635.796875,
+            "y": 808,
+            "width": 141.203125,
+            "height": 56,
+            "top": 808,
+            "right": 777,
+            "bottom": 864,
+            "left": 635.796875,
+            "clickable": true
+          }
+        ]
+      },
+      {
+        "name": "pause-keeps-web-music-and-SFX-muted"
+      },
+      {
+        "name": "native-ended-holds-then-shows-wishes",
+        "hold": 1391.7999999523163
+      },
+      {
+        "name": "rewatch-starts-at-zero-and-keyboard-exit"
+      },
+      {
+        "name": "missing-media-can-continue"
+      }
+    ],
+    "errors": []
+  },
+  "story": {
+    "passed": true,
+    "records": [
+      {
+        "name": "normal-portal-arrives-with-19-objects",
+        "objects": [
+          {
+            "name": "memory-0",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-1",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-2",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-3",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-4",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-5",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-6",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-7",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "memory-8",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "activity-promise",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "activity-puzzle",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "phrase-0",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "phrase-1",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "phrase-2",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "universe-heart-0",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "universe-heart-1",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "universe-heart-2",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "universe-heart-3",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          },
+          {
+            "name": "universe-heart-4",
+            "visible": true,
+            "phase": "exploring",
+            "scale": 1
+          }
+        ]
+      },
+      {
+        "name": "all-19-objects-gathered",
+        "stored": 19
+      },
+      {
+        "name": "sealing-to-invitation-camera-moves-same-model",
+        "frames": [
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.241078
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -7.205284
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -6.921566
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -6.643538
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -6.085809
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -6.085809
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -3.970147
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              -3.08873
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-invitation",
+            "frame": {
+              "x": 62.796875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1875,
+              "bottom": 915.421875,
+              "left": 62.796875
+            }
+          }
+        ]
+      },
+      {
+        "name": "same-frame-expands",
+        "frames": [
+          {
+            "camera": [
+              0,
+              3.4000000000000004,
+              4.806141999999998
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 62.8046875,
+              "y": 382.078125,
+              "width": 708.390625,
+              "height": 533.34375,
+              "top": 382.078125,
+              "right": 771.1953125,
+              "bottom": 915.421875,
+              "left": 62.8046875
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              4.811234
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 55.244171142578125,
+              "y": 365.1240234375,
+              "width": 723.51171875,
+              "height": 541.8495483398438,
+              "top": 365.1240234375,
+              "right": 778.7558898925781,
+              "bottom": 906.9735717773438,
+              "left": 55.244171142578125
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              4.846261
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 48.747344970703125,
+              "y": 350.55517578125,
+              "width": 736.50537109375,
+              "height": 549.15869140625,
+              "top": 350.55517578125,
+              "right": 785.2527160644531,
+              "bottom": 899.7138671875,
+              "left": 48.747344970703125
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              4.945045
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 43.44964599609375,
+              "y": 338.67535400390625,
+              "width": 747.1007080078125,
+              "height": 555.1187744140625,
+              "top": 338.67535400390625,
+              "right": 790.5503540039062,
+              "bottom": 893.7941284179688,
+              "left": 43.44964599609375
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.086927
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 40.3326416015625,
+              "y": 331.6855773925781,
+              "width": 753.334716796875,
+              "height": 558.62548828125,
+              "top": 331.6855773925781,
+              "right": 793.6673583984375,
+              "bottom": 890.3110656738281,
+              "left": 40.3326416015625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.168239
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 32.357086181640625,
+              "y": 313.8007507324219,
+              "width": 769.285888671875,
+              "height": 567.5982666015625,
+              "top": 313.8007507324219,
+              "right": 801.6429748535156,
+              "bottom": 881.3990173339844,
+              "left": 32.357086181640625
+            }
+          },
+          {
+            "camera": [
+              0,
+              3.4,
+              5.168239
+            ],
+            "modelPosition": [
+              0,
+              1.1,
+              0
+            ],
+            "modelScale": [
+              1,
+              1,
+              1
+            ],
+            "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+            "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-watching",
+            "frame": {
+              "x": 32.357086181640625,
+              "y": 313.8007507324219,
+              "width": 769.285888671875,
+              "height": 567.5982666015625,
+              "top": 313.8007507324219,
+              "right": 801.6429748535156,
+              "bottom": 881.3990173339844,
+              "left": 32.357086181640625
+            }
+          }
+        ]
+      },
+      {
+        "name": "same-couple-through-closing",
+        "state": {
+          "camera": [
+            0,
+            3.400000000000002,
+            -7.325890999999999
+          ],
+          "modelPosition": [
+            0,
+            1.1,
+            0
+          ],
+          "modelScale": [
+            1,
+            1,
+            1
+          ],
+          "couple": "1975c9e5-a7a1-44cc-8806-a0bb4cacd9c9",
+          "phase": "app has-guide stage-6 theme-blush      ending finale-end ending-complete"
+        }
+      }
+    ],
+    "cues": [
+      "cake-arrive",
+      "wish-made",
+      "celebrate",
+      "envelope-flap",
+      "paper-ready",
+      "signature",
+      "hold-stop",
+      "hold-stop",
+      "door-unlock",
+      "door-open",
+      "suction",
+      "warp",
+      "arrival",
+      "heart-form",
+      "assets-emerge",
+      "asset-cluster",
+      "asset-cluster",
+      "asset-cluster",
+      "world-ready",
+      "gather",
+      "gather-complete",
+      "heart-offer",
+      "heart-seal"
+    ],
+    "errors": []
+  }
+}

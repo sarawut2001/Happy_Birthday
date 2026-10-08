@@ -1,0 +1,405 @@
+{
+  "layouts": [
+    {
+      "name": "วันแรกของเรา",
+      "width": 768,
+      "height": 1024,
+      "actor": {
+        "x": 644,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 412,
+        "y": 120,
+        "width": 212,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "รูปนี้มีเรื่องน่ารัก ๆ อยู่ด้วยนะ ♡"
+    },
+    {
+      "name": "วันแรกของเรา",
+      "width": 1024,
+      "height": 768,
+      "actor": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 784,
+        "y": 60,
+        "width": 212,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "รูปนี้มีเรื่องน่ารัก ๆ อยู่ด้วยนะ ♡"
+    },
+    {
+      "name": "วันแรกของเรา",
+      "width": 1440,
+      "height": 1000,
+      "actor": {
+        "x": 1320,
+        "y": 765.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1200,
+        "y": 688.828125,
+        "width": 212,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "รูปนี้มีเรื่องน่ารัก ๆ อยู่ด้วยนะ ♡"
+    },
+    {
+      "name": "วันแรกของเรา",
+      "width": 1920,
+      "height": 1080,
+      "actor": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1752,
+        "y": 797.0281372070312,
+        "width": 140,
+        "height": 27.59375
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": ""
+    },
+    {
+      "name": "วันแรกของเรา",
+      "width": 375,
+      "height": 812,
+      "actor": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 22.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": ""
+    },
+    {
+      "name": "คำสัญญา",
+      "width": 768,
+      "height": 1024,
+      "actor": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 458,
+        "y": 120,
+        "width": 182,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "เลือกการ์ดหนึ่งใบได้เลย ♡"
+    },
+    {
+      "name": "คำสัญญา",
+      "width": 1024,
+      "height": 768,
+      "actor": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 714,
+        "y": 120,
+        "width": 182,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "เลือกการ์ดหนึ่งใบได้เลย ♡"
+    },
+    {
+      "name": "คำสัญญา",
+      "width": 1440,
+      "height": 1000,
+      "actor": {
+        "x": 1320,
+        "y": 765.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1230,
+        "y": 688.828125,
+        "width": 182,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "เลือกการ์ดหนึ่งใบได้เลย ♡"
+    },
+    {
+      "name": "คำสัญญา",
+      "width": 1920,
+      "height": 1080,
+      "actor": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1710,
+        "y": 768.828125,
+        "width": 182,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "เลือกการ์ดหนึ่งใบได้เลย ♡"
+    },
+    {
+      "name": "คำสัญญา",
+      "width": 375,
+      "height": 812,
+      "actor": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 156,
+        "height": 43.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "เลือกการ์ดหนึ่งใบได้เลย ♡"
+    },
+    {
+      "name": "ต่อความทรงจำ",
+      "width": 768,
+      "height": 1024,
+      "actor": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 424,
+        "y": 120,
+        "width": 216,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "แตะภาพสองชิ้นเพื่อสลับกันนะ ♡"
+    },
+    {
+      "name": "ต่อความทรงจำ",
+      "width": 1024,
+      "height": 768,
+      "actor": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 780,
+        "y": 60,
+        "width": 216,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "แตะภาพสองชิ้นเพื่อสลับกันนะ ♡"
+    },
+    {
+      "name": "ต่อความทรงจำ",
+      "width": 1440,
+      "height": 1000,
+      "actor": {
+        "x": 1320,
+        "y": 765.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1196,
+        "y": 688.828125,
+        "width": 216,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "แตะภาพสองชิ้นเพื่อสลับกันนะ ♡"
+    },
+    {
+      "name": "ต่อความทรงจำ",
+      "width": 1920,
+      "height": 1080,
+      "actor": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1676,
+        "y": 768.828125,
+        "width": 216,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "แตะภาพสองชิ้นเพื่อสลับกันนะ ♡"
+    },
+    {
+      "name": "ต่อความทรงจำ",
+      "width": 375,
+      "height": 812,
+      "actor": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 78,
+        "width": 185,
+        "height": 43.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "แตะภาพสองชิ้นเพื่อสลับกันนะ ♡"
+    },
+    {
+      "name": "ข้อความจากเค้า",
+      "width": 768,
+      "height": 1024,
+      "actor": {
+        "x": 660,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 380,
+        "y": 120,
+        "width": 260,
+        "height": 77.96875
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "มีข้อความที่อยากบอกเธอด้วยตัวเองด้วยนะ ♡"
+    },
+    {
+      "name": "ข้อความจากเค้า",
+      "width": 1024,
+      "height": 768,
+      "actor": {
+        "x": 916,
+        "y": 96,
+        "width": 80,
+        "height": 118.390625
+      },
+      "bubble": {
+        "x": 736,
+        "y": 60,
+        "width": 260,
+        "height": 77.96875
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "มีข้อความที่อยากบอกเธอด้วยตัวเองด้วยนะ ♡"
+    },
+    {
+      "name": "ข้อความจากเค้า",
+      "width": 1440,
+      "height": 1000,
+      "actor": {
+        "x": 1320,
+        "y": 765.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1124,
+        "y": 688.828125,
+        "width": 288,
+        "height": 52.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": "มีข้อความที่อยากบอกเธอด้วยตัวเองด้วยนะ ♡"
+    },
+    {
+      "name": "ข้อความจากเค้า",
+      "width": 1920,
+      "height": 1080,
+      "actor": {
+        "x": 1800,
+        "y": 845.828125,
+        "width": 92,
+        "height": 136.15625
+      },
+      "bubble": {
+        "x": 1752,
+        "y": 797.0281372070312,
+        "width": 140,
+        "height": 27.59375
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": ""
+    },
+    {
+      "name": "ข้อความจากเค้า",
+      "width": 375,
+      "height": 812,
+      "actor": {
+        "x": 299,
+        "y": 70,
+        "width": 64,
+        "height": 94.71875
+      },
+      "bubble": {
+        "x": 12,
+        "y": 81.19999694824219,
+        "width": 140,
+        "height": 22.78125
+      },
+      "actorOverClose": false,
+      "overflow": false,
+      "text": ""
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,64 @@
+/* Foreground narrator shares the story palette and stays clear of the main model. */
+.guide{position:fixed;inset:0;min-width:0;z-index:18;pointer-events:none;transition:opacity .65s ease,visibility .65s ease}
+.guide-actor{position:absolute;left:12px;top:70px;width:94px;height:139px;padding:0;display:block;background:transparent;border-radius:var(--radius);pointer-events:auto;isolation:isolate;overflow:hidden;filter:drop-shadow(3px 8px 7px #54223816);transition:opacity .5s ease,filter .5s ease}
+.guide-actor:disabled{opacity:1;cursor:default}
+.guide-actor canvas{display:block!important;max-width:100%;height:100%;pointer-events:none;touch-action:pan-y}
+.guide-actor:focus-visible{outline:2px solid var(--rose);outline-offset:3px}
+.guide-bubble{position:absolute;left:120px;top:76px;min-width:0;width:100%;padding:.8rem .95rem;border:1.5px solid var(--rose);border-radius:1.4rem 1.5rem 1.5rem .9rem;background:var(--paper);color:var(--wine);box-shadow:0 4px 0 color-mix(in srgb,var(--rose) 15%,transparent),0 12px 30px color-mix(in srgb,var(--wine) 7%,transparent);font-size:.8rem;line-height:1.75;text-align:left;overflow-wrap:anywhere;text-wrap:pretty;opacity:0;transform:translateY(.2rem);transition:opacity .4s ease,transform .65s cubic-bezier(.22,1,.36,1);pointer-events:none}
+.guide-bubble-visible{opacity:1;transform:translateY(0)}
+.guide-bubble:before,.guide-bubble:after{content:'';position:absolute;left:var(--guide-tail-x,0px);top:var(--guide-tail-y,45%);translate:-50% -50%;rotate:var(--guide-tail-angle,0deg);width:1.2rem;height:1.1rem;clip-path:polygon(0 50%,100% 0,100% 100%);pointer-events:none}
+.guide-bubble:before{background:var(--rose)}
+.guide-bubble:after{width:.9rem;height:.77rem;background:var(--paper)}
+.guide-traveling .guide-bubble-visible{opacity:0}
+.guide-unwritten{visibility:hidden}.guide-written{visibility:visible}
+.guide-quiet{grid-template-columns:clamp(4rem,19vw,5.4rem) minmax(0,1fr)}
+
+.guide-quiet .guide-bubble{font-size:.75rem;padding:.65rem .85rem;box-shadow:0 3px 0 color-mix(in srgb,var(--rose) 10%,transparent)}
+.guide-hidden{opacity:0;visibility:hidden;pointer-events:none}
+.guide-hidden .guide-actor,.guide-muted .guide-actor{pointer-events:none}
+.guide-fallback{width:100%;height:100%;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:.2rem;color:var(--rose);background:radial-gradient(ellipse,color-mix(in srgb,var(--paper) 60%,transparent),transparent 70%)}
+.guide-fallback>span{font-size:1rem}
+.guide-breath{position:fixed;inset:0;display:block;width:100%;height:100%;max-width:none;overflow:visible;pointer-events:none;z-index:8}
+.guide-air-ribbon{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5;filter:drop-shadow(0 0 2px #fff5fb70)}
+.guide-air-ribbon-0{stroke:#e89bbf}.guide-air-ribbon-1{stroke:#fff8fc;stroke-width:1.8}
+.guide-air-spark{fill:#fff7fc;filter:drop-shadow(0 0 2px #e9a0c2)}
+.theme-night .guide-bubble{--wine:#542238;--rose:#cd75a3;--paper:#fff3f9}
+.theme-night .guide-actor:focus-visible{outline-color:#ffc4e0}
+@media(min-width:600px){.guide-bubble{font-size:.9rem;padding:.9rem 1.2rem}.guide-quiet .guide-bubble{font-size:.8rem}}
+.motion-reduced .guide,.motion-reduced .guide-actor,.motion-reduced .guide-bubble{transition:none}
+@media(prefers-reduced-motion:reduce){.guide,.guide-actor,.guide-bubble{transition:none}}
+
+.has-guide.stage-0:not(.gift-spotlight) .scene-content{translate:-50% calc(-1 * var(--keyboard-lift,0px))}
+/* The universe uses a small stationary dock. It yields to direct exploration. */
+.guide-universe .guide-actor{filter:drop-shadow(2px 5px 5px #16091825)}
+.guide-universe.guide-silent .guide-actor{opacity:.82}
+.guide-obscured .guide-actor,.guide-obscured .guide-bubble{opacity:0;pointer-events:none}
+.guide-obscured:focus-within .guide-actor{opacity:1}
+.guide-hidden .guide-actor{pointer-events:none}
+@media(min-width:600px){.guide-bubble{font-size:.875rem;line-height:1.8;padding:.85rem 1.1rem}.guide-quiet .guide-bubble{font-size:.875rem;padding:.8rem 1rem}}
+
+.guide .guide-actor{left:0;top:0;width:200px;height:296px;transform-origin:0 0;will-change:transform;transition:opacity .65s ease,filter .65s ease}
+.guide-bubble{transition:opacity .4s ease,transform .65s cubic-bezier(.22,1,.36,1),width .35s ease,height .35s ease}
+.guide-traveling .guide-actor{pointer-events:none}
+.guide[data-guide-covered="true"] .guide-actor{opacity:0;pointer-events:none}
+.motion-reduced .guide .guide-actor{transition:none}
+@media(prefers-reduced-motion:reduce){.guide .guide-actor{transition:none}}
+
+/* A soft portal replaces travel across the story; the Canvas never changes size. */
+.guide:not([data-guide-placed]) .guide-actor{opacity:0;pointer-events:none}
+.guide.guide-traveling .guide-actor{opacity:var(--warp-opacity,1);transition:filter .65s ease}
+.guide.guide-obscured .guide-actor,.guide.guide-hidden .guide-actor{opacity:0}
+.guide-warp-effect{position:absolute;left:var(--warp-x,0px);top:var(--warp-y,0px);width:0;height:0;pointer-events:none;opacity:0;color:#ee8dbb}
+.guide[data-guide-warp] .guide-warp-effect{opacity:var(--warp-glow,0)}
+.guide-warp-ring{position:absolute;width:126px;height:34px;left:-63px;top:-17px;border:2px solid #f7b1d3;border-radius:50%;box-shadow:0 0 18px #f592c877,inset 0 0 14px #fff6fbbb;transform:scale(.7);transition:transform .45s ease}
+.guide[data-guide-warp="out"] .guide-warp-ring,.guide[data-guide-warp="in"] .guide-warp-ring{transform:scale(1.15)}
+.guide-warp-effect i{position:absolute;width:5px;height:5px;left:-2.5px;top:-2.5px;background:#ffd3e9;border-radius:50%;box-shadow:0 0 7px #faabd0;transform:rotate(var(--spark-angle)) translateX(38px)}
+.guide[data-guide-warp="out"] .guide-warp-effect i,.guide[data-guide-warp="in"] .guide-warp-effect i{animation:guide-portal-spark .65s var(--spark-delay) ease-out both}
+@keyframes guide-portal-spark{from{opacity:0;transform:rotate(var(--spark-angle)) translateX(18px) scale(.4)}45%{opacity:1}to{opacity:0;transform:rotate(var(--spark-angle)) translateX(74px) scale(.6)}}
+.motion-reduced .guide-warp-effect{display:none}
+@media(prefers-reduced-motion:reduce){.guide-warp-effect{display:none}}
+.guide-traveling .guide-bubble{opacity:0;transition:opacity .14s ease}
+.guide:not([data-guide-placed]) .guide-bubble{visibility:hidden}
+.guide[data-guide-warp="prepare"] .guide-bubble{opacity:0;transition:opacity .14s ease}
+.guide[data-guide-warp]:not([data-guide-warp="prepare"]) .guide-bubble{opacity:0;transition:none}
+.guide.guide-traveling[data-guide-covered="true"] .guide-actor{opacity:0}

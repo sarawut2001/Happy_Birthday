@@ -1,0 +1,287 @@
+{
+  "passed": true,
+  "records": [
+    {
+      "name": "gift-normal-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": {
+        "x": -61.63148716354351,
+        "y": 133.1722594519067,
+        "width": 891.1477210556558,
+        "height": 687.7243017307935
+      },
+      "guide": {
+        "x": 28,
+        "y": 593.90625,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "gift-unlocked-normal-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": {
+        "x": 44.003873033745805,
+        "y": 167.5884398968107,
+        "width": 679.9922539325084,
+        "height": 579.7819590445081
+      },
+      "guide": {
+        "x": 28,
+        "y": 593.90625,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "cake-normal-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": {
+        "x": 78.8103333550651,
+        "y": 361.6599077267176,
+        "width": 610.3793332898699,
+        "height": 421.1925205521318
+      },
+      "guide": {
+        "x": 197.578125,
+        "y": 222.390625,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "birthday-normal-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": {
+        "x": 55.282038817476945,
+        "y": 273.66937016681095,
+        "width": 655.1777994190794,
+        "height": 504.3104812257603
+      },
+      "guide": {
+        "x": 33.078125,
+        "y": 95.359375,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [
+        {
+          "x": 260,
+          "y": 882.96875,
+          "width": 248,
+          "height": 54,
+          "label": "มีจดหมายถึงเธอด้วย",
+          "font": 16,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "letter-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": null,
+      "guide": {
+        "x": 28,
+        "y": 70,
+        "width": 104,
+        "height": 153.90625
+      },
+      "controls": [
+        {
+          "x": 260,
+          "y": 837.5625,
+          "width": 248,
+          "height": 52,
+          "label": "ไปดูโลกของเรากัน",
+          "font": 16,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": {
+        "scrollable": false,
+        "height": 525
+      },
+      "overflow": false
+    },
+    {
+      "name": "universe-desktop",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "hero": null,
+      "guide": {
+        "x": 1740.796875,
+        "y": 758.21875,
+        "width": 151.1875,
+        "height": 223.765625
+      },
+      "controls": [
+        {
+          "x": 787.203125,
+          "y": 929.015625,
+          "width": 345.59375,
+          "height": 59.1875,
+          "label": "ไปเซอร์ไพรส์สุดท้าย",
+          "font": 19.776,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "panel-desktop",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "hero": null,
+      "guide": {
+        "x": 1740.796875,
+        "y": 758.21875,
+        "width": 113.390625,
+        "height": 167.828125
+      },
+      "controls": [
+        {
+          "x": 1283,
+          "y": 328,
+          "width": 44,
+          "height": 44,
+          "label": "ปิดและกลับสู่จักรวาล",
+          "font": 16,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "panel-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": null,
+      "guide": {
+        "x": 636,
+        "y": 70,
+        "width": 104,
+        "height": 153.90625
+      },
+      "controls": [
+        {
+          "x": 652,
+          "y": 312.96875,
+          "width": 44,
+          "height": 44,
+          "label": "ปิดและกลับสู่จักรวาล",
+          "font": 16,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "rating-portrait",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "hero": {
+        "x": 281.41907273275734,
+        "y": 279.5789780398252,
+        "width": 205.2908853321398,
+        "height": 204.3058243363413
+      },
+      "guide": {
+        "x": 28,
+        "y": 368.625,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [
+        {
+          "x": 260,
+          "y": 872.96875,
+          "width": 248,
+          "height": 52,
+          "label": "มอบหัวใจให้เค้า",
+          "font": 16,
+          "canClick": true,
+          "disabled": true
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    },
+    {
+      "name": "ending-short",
+      "viewport": {
+        "width": 1280,
+        "height": 580
+      },
+      "hero": {
+        "x": 555.4322270924594,
+        "y": 15.429975398551338,
+        "width": 169.1355458150813,
+        "height": 158.73204514770967
+      },
+      "guide": {
+        "x": 1108,
+        "y": 278.875,
+        "width": 144,
+        "height": 213.109375
+      },
+      "controls": [
+        {
+          "x": 421.265625,
+          "y": 442.421875,
+          "width": 248,
+          "height": 54.390625,
+          "label": "กลับไปดูความทรงจำ",
+          "font": 17.344,
+          "canClick": true,
+          "disabled": false
+        }
+      ],
+      "letter": null,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "http": []
+}

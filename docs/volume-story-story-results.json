@@ -1,0 +1,1173 @@
+{
+  "checks": [
+    {
+      "label": "gift",
+      "stage": "app stage-0 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Idle",
+        "position": [
+          1.65,
+          -1.25,
+          0.35
+        ],
+        "scale": 0.55,
+        "bounds": {
+          "min": [
+            1.143470126390457,
+            -1.2489000140370676,
+            -0.02307399511337288
+          ],
+          "max": [
+            2.2344844984436767,
+            0.29109994765744673,
+            0.7230739951133729
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        9.583895999999998
+      ]
+    },
+    {
+      "label": "unlocked",
+      "stage": "app stage-0 theme-blush gift-spotlight motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Wave",
+        "position": [
+          1.65,
+          -1.25,
+          0.35
+        ],
+        "scale": 0.43,
+        "bounds": {
+          "min": [
+            1.2539857351779937,
+            -1.2491400109744348,
+            0.058323967456817616
+          ],
+          "max": [
+            2.106960607874147,
+            -0.0451400409223599,
+            0.6416760325431823
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.649999999999999,
+        10.74558
+      ]
+    },
+    {
+      "label": "cake",
+      "stage": "app stage-1 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Idle",
+        "position": [
+          -1.5,
+          -1.25,
+          1.05
+        ],
+        "scale": 0.54,
+        "bounds": {
+          "min": [
+            -1.997320239543915,
+            -1.2489200137818484,
+            0.6837091684341431
+          ],
+          "max": [
+            -0.9261424924371174,
+            0.26307994860912953,
+            1.4162908315658571
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        2.6,
+        8.277001001376094
+      ]
+    },
+    {
+      "label": "22",
+      "stage": "app stage-2 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Celebrate",
+        "position": [
+          1.6,
+          -1.24,
+          0.65
+        ],
+        "scale": 0.43,
+        "bounds": {
+          "min": [
+            1.1633493681460456,
+            -1.2391400109744348,
+            0.35832396745681766
+          ],
+          "max": [
+            2.056960607874147,
+            -0.035140040922359894,
+            0.9416760325431823
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        8.277001001376092
+      ]
+    },
+    {
+      "label": "envelope",
+      "stage": "app stage-3 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Wave",
+        "position": [
+          1.62,
+          -1.24,
+          0.38
+        ],
+        "scale": 0.43,
+        "bounds": {
+          "min": [
+            1.223985735177994,
+            -1.2391400109744348,
+            0.08832396745681764
+          ],
+          "max": [
+            2.076960607874147,
+            -0.035140040922359894,
+            0.6716760325431823
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.649999999999999,
+        9.438685352446424
+      ]
+    },
+    {
+      "label": "letter",
+      "stage": "app stage-4 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Idle",
+        "position": [
+          2.05,
+          -1.28,
+          0.4
+        ],
+        "scale": 0.29,
+        "bounds": {
+          "min": [
+            1.7829206120967864,
+            -1.279420007401363,
+            0.20328825712203982
+          ],
+          "max": [
+            2.3581827355430294,
+            -0.46742002759880097,
+            0.5967117428779602
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.6500000000000004,
+        8.277001001376092
+      ]
+    },
+    {
+      "label": "door",
+      "stage": "app stage-5 theme-night  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Wave",
+        "position": [
+          1.9,
+          -2.36,
+          1.65
+        ],
+        "scale": 0.46,
+        "bounds": {
+          "min": [
+            1.4763568329811094,
+            -2.359080011740093,
+            1.3379744768142698
+          ],
+          "max": [
+            2.3888415805165293,
+            -1.0710800437774082,
+            1.96202552318573
+          ]
+        }
+      },
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "24b234af-f45d-4b78-bfc6-60498cb4ff17",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "ea8180eb-e922-4ab9-8f24-c4f56873ab80",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "754b2d7c-61b6-4aa9-98a9-cdfd2e613fec",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "2337278c-54cb-4425-96e6-466616bc800c",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "1146f7e5-9b7b-4677-b5ca-502654968399",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "31bd6c9e-5b59-4a16-ae32-29f07192b320",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "a84d3578-46bb-4208-9a84-98a248beccae",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "fc9eed83-309f-4266-8bc9-f3c8f0ded1da",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "ab8cfd2a-7dae-44b8-9914-3bdac48df427",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "b76b6d4c-54ab-4874-8f1f-9a4f26faedfe",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "9b333e1b-3cf0-4566-9352-0af29ba79799",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "a480025a-3200-49ab-9c6f-57dbe29f2e7f",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "7922bbe2-2933-4e16-a94d-266733eb4ffb",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "aa8d00f7-7dce-4e53-b268-ddbbe46059ed",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "a7601091-0860-45ca-bc62-7d56c251e455",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "a95d3d8b-5521-4d17-971b-439f74189bc9",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "5d5a1687-f27a-4efe-b2fe-6bf93fdb8b5a",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        },
+        {
+          "name": "universe-monchhichi",
+          "uuid": "4e720c73-f85c-4b18-934a-570e1512c6c0",
+          "visible": false,
+          "scale": 0,
+          "phase": "hidden"
+        }
+      ],
+      "camera": [
+        0,
+        1.6499999999999988,
+        13.214159493424994
+      ]
+    },
+    {
+      "label": "universe",
+      "stage": "app stage-5 theme-night  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": false,
+        "pose": "Wave",
+        "position": [
+          1.9,
+          -2.36,
+          1.65
+        ],
+        "scale": 0.46,
+        "bounds": {
+          "min": [
+            1.4763568329811094,
+            -2.359080011740093,
+            1.3379744768142698
+          ],
+          "max": [
+            2.3888415805165293,
+            -1.0710800437774082,
+            1.96202552318573
+          ]
+        }
+      },
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "24b234af-f45d-4b78-bfc6-60498cb4ff17",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "ea8180eb-e922-4ab9-8f24-c4f56873ab80",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "754b2d7c-61b6-4aa9-98a9-cdfd2e613fec",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "2337278c-54cb-4425-96e6-466616bc800c",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "1146f7e5-9b7b-4677-b5ca-502654968399",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "31bd6c9e-5b59-4a16-ae32-29f07192b320",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "a84d3578-46bb-4208-9a84-98a248beccae",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "fc9eed83-309f-4266-8bc9-f3c8f0ded1da",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "ab8cfd2a-7dae-44b8-9914-3bdac48df427",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "b76b6d4c-54ab-4874-8f1f-9a4f26faedfe",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "9b333e1b-3cf0-4566-9352-0af29ba79799",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "a480025a-3200-49ab-9c6f-57dbe29f2e7f",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "7922bbe2-2933-4e16-a94d-266733eb4ffb",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "aa8d00f7-7dce-4e53-b268-ddbbe46059ed",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "a7601091-0860-45ca-bc62-7d56c251e455",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "a95d3d8b-5521-4d17-971b-439f74189bc9",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "5d5a1687-f27a-4efe-b2fe-6bf93fdb8b5a",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        },
+        {
+          "name": "universe-monchhichi",
+          "uuid": "4e720c73-f85c-4b18-934a-570e1512c6c0",
+          "visible": true,
+          "scale": 1,
+          "phase": "exploring"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999977,
+        -11.221472000000006
+      ]
+    },
+    {
+      "label": "rating-3",
+      "stage": "app stage-6 theme-night  motion-reduced    finale-rating",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Shy",
+        "position": [
+          2.1,
+          -1.3,
+          -22.75
+        ],
+        "scale": 0.4,
+        "bounds": {
+          "min": [
+            1.731614637374878,
+            -1.2992000102087766,
+            -23.021326541900635
+          ],
+          "max": [
+            2.525079635231765,
+            -0.17920003806731155,
+            -22.478673458099365
+          ]
+        }
+      },
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "24b234af-f45d-4b78-bfc6-60498cb4ff17",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "ea8180eb-e922-4ab9-8f24-c4f56873ab80",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "754b2d7c-61b6-4aa9-98a9-cdfd2e613fec",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "2337278c-54cb-4425-96e6-466616bc800c",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "1146f7e5-9b7b-4677-b5ca-502654968399",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "31bd6c9e-5b59-4a16-ae32-29f07192b320",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "a84d3578-46bb-4208-9a84-98a248beccae",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "fc9eed83-309f-4266-8bc9-f3c8f0ded1da",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "ab8cfd2a-7dae-44b8-9914-3bdac48df427",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "b76b6d4c-54ab-4874-8f1f-9a4f26faedfe",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "9b333e1b-3cf0-4566-9352-0af29ba79799",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "a480025a-3200-49ab-9c6f-57dbe29f2e7f",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "7922bbe2-2933-4e16-a94d-266733eb4ffb",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "aa8d00f7-7dce-4e53-b268-ddbbe46059ed",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "a7601091-0860-45ca-bc62-7d56c251e455",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "a95d3d8b-5521-4d17-971b-439f74189bc9",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "5d5a1687-f27a-4efe-b2fe-6bf93fdb8b5a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-monchhichi",
+          "uuid": "4e720c73-f85c-4b18-934a-570e1512c6c0",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        }
+      ],
+      "camera": [
+        0,
+        3.4,
+        -11.221472
+      ]
+    },
+    {
+      "label": "ending",
+      "stage": "app stage-6 theme-blush  motion-reduced   ending finale-end",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Hug",
+        "position": [
+          2.1,
+          0.35,
+          -22.75
+        ],
+        "scale": 0.46,
+        "bounds": {
+          "min": [
+            1.6763568329811096,
+            0.350919988259907,
+            -23.06202552318573
+          ],
+          "max": [
+            2.5888415805165295,
+            1.6389199562225918,
+            -22.43797447681427
+          ]
+        }
+      },
+      "assets": [
+        {
+          "name": "memory-0",
+          "uuid": "24b234af-f45d-4b78-bfc6-60498cb4ff17",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-1",
+          "uuid": "ea8180eb-e922-4ab9-8f24-c4f56873ab80",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-2",
+          "uuid": "754b2d7c-61b6-4aa9-98a9-cdfd2e613fec",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-3",
+          "uuid": "2337278c-54cb-4425-96e6-466616bc800c",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-4",
+          "uuid": "1146f7e5-9b7b-4677-b5ca-502654968399",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "memory-5",
+          "uuid": "31bd6c9e-5b59-4a16-ae32-29f07192b320",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-promise",
+          "uuid": "a84d3578-46bb-4208-9a84-98a248beccae",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-puzzle",
+          "uuid": "fc9eed83-309f-4266-8bc9-f3c8f0ded1da",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "activity-video",
+          "uuid": "ab8cfd2a-7dae-44b8-9914-3bdac48df427",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-0",
+          "uuid": "b76b6d4c-54ab-4874-8f1f-9a4f26faedfe",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-1",
+          "uuid": "9b333e1b-3cf0-4566-9352-0af29ba79799",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "phrase-2",
+          "uuid": "a480025a-3200-49ab-9c6f-57dbe29f2e7f",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-0",
+          "uuid": "7922bbe2-2933-4e16-a94d-266733eb4ffb",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-1",
+          "uuid": "aa8d00f7-7dce-4e53-b268-ddbbe46059ed",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-2",
+          "uuid": "a7601091-0860-45ca-bc62-7d56c251e455",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-3",
+          "uuid": "a95d3d8b-5521-4d17-971b-439f74189bc9",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-heart-4",
+          "uuid": "5d5a1687-f27a-4efe-b2fe-6bf93fdb8b5a",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        },
+        {
+          "name": "universe-monchhichi",
+          "uuid": "4e720c73-f85c-4b18-934a-570e1512c6c0",
+          "visible": false,
+          "scale": 0,
+          "phase": "stored"
+        }
+      ],
+      "camera": [
+        0,
+        3.3999999999999995,
+        -11.221472000000002
+      ]
+    },
+    {
+      "label": "replay",
+      "stage": "app stage-0 theme-blush  motion-reduced    ",
+      "actor": {
+        "uuid": "0bbded41-25e6-4820-825e-eb9b85f05140",
+        "visible": true,
+        "pose": "Idle",
+        "position": [
+          1.35,
+          -1.25,
+          0.35
+        ],
+        "scale": 0.55,
+        "bounds": {
+          "min": [
+            0.8434701263904572,
+            -1.2489000140370676,
+            -0.02307399511337288
+          ],
+          "max": [
+            1.9344844984436769,
+            0.29109994765744673,
+            0.7230739951133729
+          ]
+        }
+      },
+      "assets": [],
+      "camera": [
+        0,
+        1.6499999999999995,
+        13.834886
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "stage": 1,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 1,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 2,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 3,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 4,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 5,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 6,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "stage": 7,
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    }
+  ],
+  "errors": [],
+  "http": []
+}

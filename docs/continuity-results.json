@@ -1,0 +1,56 @@
+{
+  "cameraBaselineDegrees": 180,
+  "controlsOnlyHandoffRadians": 0,
+  "normalHandoffMaxRadians": 0,
+  "normalHandoffMaxPositionDelta": 2.5121479338940403e-15,
+  "delayedLastRevealSeconds": 3.5,
+  "delayedRevealWaited": true,
+  "delayedHandoffMaxRadians": 0,
+  "feedback": {
+    "checks": [
+      "wrong PIN: additive gift shake, six digit reset on animation completion, retry focus, repeated taps, slow spin survives",
+      "wrong PIN sequence can repeat",
+      "hover only previews score; no committed reaction",
+      "all five committed scores animate and settle, including low-score smile and four-heart wink",
+      "rapid changes cancel the old reaction and keep latest score",
+      "keyboard commits reaction and preserves radio focus",
+      "confirm during low-score reaction immediately continues to full ending",
+      "return to universe restores camera controls; reset camera remains usable",
+      "reduced motion suppresses emotional animation while score remains selectable",
+      "rating layout and 44px radio targets fit 320\u20131440px",
+      "mobile and reduced-motion PIN retry remain usable"
+    ],
+    "errors": [],
+    "responses": []
+  },
+  "touch": {
+    "checks": [
+      "real touch and repeat same score trigger new reaction",
+      "touch confirm preserves low score and full ending"
+    ],
+    "errors": [],
+    "responses": []
+  },
+  "realProject": {
+    "build": "pass",
+    "diffCheck": "pass",
+    "handoffMaxRadians": 0,
+    "handoffMaxPositionDelta": 2.5121479338940403e-15,
+    "assets": 17,
+    "drag": "pass",
+    "zoom": "pass",
+    "raycastPromiseCard": "pass",
+    "modalReturn": "pass",
+    "lowRatingFullEnding": "pass",
+    "touch": {
+      "checks": [
+        "real touch and repeat same score trigger new reaction",
+        "touch confirm preserves low score and full ending"
+      ],
+      "errors": [],
+      "responses": []
+    },
+    "errors": [],
+    "httpFailures": []
+  }
+}

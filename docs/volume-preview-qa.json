@@ -1,0 +1,47 @@
+{
+  "walkMoving": true,
+  "pauseFreezes": true,
+  "pausedPoseSwitch": true,
+  "sourceComparison": true,
+  "downloadMatchesAsset": true,
+  "reducedMotion": true,
+  "layout": [
+    {
+      "width": 320,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 414,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "clipped": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "clipped": []
+    }
+  ],
+  "errors": [],
+  "http": []
+}

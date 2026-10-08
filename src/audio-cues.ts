@@ -1,0 +1,80 @@
+/** Animation cues describe what happened, rather than which file to play. */
+export const soundAssets = {
+  page: 'page.wav', sparkle: 'gentle-twinkle.wav', ribbon: 'ribbon-pluck.wav', lid: 'gift-open-tonal.wav',
+  breath: 'breath.wav', paper: 'paper-lift-tonal.wav', door: 'door-open-tonal.wav',
+  whoosh: 'magic-transition.wav', warp: 'starlight-travel.wav', cosmic: 'cosmic.wav',
+  formation: 'sparkle-rise.wav', gather: 'memory-return.wav', celebrate: 'celebrate.wav', resolve: 'resolve.wav',
+} as const;
+type Asset = keyof typeof soundAssets;
+type CueSpec = { asset?: Asset; notes?: number[]; gain: number; duration?: number; cooldown?: number; duck?: boolean };
+export const soundCues = {
+  welcome: { notes: [659, 880], gain: .13 },
+  tap: { notes: [440], gain: .09, duration: .13, cooldown: .09 },
+  nudge: { notes: [440, 554], gain: .13, cooldown: .8 },
+  'pin-wrong': { notes: [392, 330], gain: .14, duration: .25, cooldown: .8 },
+  'pin-reset': { asset: 'whoosh', gain: .06, duration: .4 },
+  unlock: { notes: [523, 659, 784], gain: .17 },
+  'gift-tease': { asset: 'ribbon', gain: .075, cooldown: 7.5 },
+  'gift-lid': { asset: 'lid', gain: .12 },
+  'gift-light': { asset: 'whoosh', gain: .145, duration: 2.9, duck: true },
+  'cake-arrive': { asset: 'sparkle', gain: .12 },
+  breath: { asset: 'breath', gain: .25 },
+  'wick-out': { notes: [280], gain: .045, duration: .1, cooldown: .1 },
+  'wish-made': { notes: [523, 659], gain: .1 },
+  'number-form': { asset: 'formation', gain: .14, duration: 2.3 },
+  celebrate: { asset: 'celebrate', gain: .2, duck: true },
+  'card-close': { asset: 'page', gain: .15 },
+  'card-turn': { asset: 'paper', gain: .13, duration: 1.7 },
+  'seal-release': { notes: [390, 620], gain: .12, duration: .14 },
+  'envelope-flap': { asset: 'page', gain: .16 },
+  'paper-rise': { asset: 'paper', gain: .16, duration: 1.45 },
+  'paper-ready': { notes: [659], gain: .09 },
+  'paper-pull': { asset: 'paper', gain: .14, duration: 1.3 },
+  'paper-settle': { asset: 'page', gain: .09 },
+  signature: { notes: [659], gain: .07 },
+  'paper-fold': { asset: 'paper', gain: .14, duration: 1.45 },
+  'door-appear': { asset: 'whoosh', gain: .10, duration: 2 },
+  'hold-release': { notes: [370, 330], gain: .06, duration: .12 },
+  'door-unlock': { notes: [523, 784], gain: .18 },
+  'door-open': { asset: 'door', gain: .12 },
+  suction: { asset: 'whoosh', gain: .13, duration: 1.5, duck: true },
+  warp: { asset: 'warp', gain: .15, duck: true },
+  arrival: { asset: 'whoosh', gain: .085, duration: 1.4 },
+  'heart-form': { asset: 'formation', gain: .19, duration: 3.5, duck: true },
+  'assets-emerge': { asset: 'whoosh', gain: .10, duration: 2.7 },
+  'asset-cluster': { notes: [659, 784], gain: .07, duration: .18, cooldown: .5 },
+  'world-ready': { notes: [523, 659, 784], gain: .13 },
+  'panel-open': { asset: 'whoosh', gain: .06, duration: .7, cooldown: .3 },
+  'photo-change': { asset: 'page', gain: .11, cooldown: .22 },
+  'capsule-crank': { notes: [330, 440, 330], gain: .07, duration: .15, cooldown: .4 },
+  'capsule-tumble': { notes: [392, 523, 440], gain: .055, duration: .12 },
+  'capsule-land': { notes: [280, 392], gain: .065, duration: .13 },
+  'capsule-pop': { notes: [523, 784], gain: .085, duration: .16 },
+  'capsule-paper': { asset: 'paper', gain: .08, duration: .8 },
+  'capsule-save': { notes: [659, 784, 988], gain: .07, duration: .15 },
+  'promise-flip': { asset: 'page', gain: .13, cooldown: .22 },
+  'promise-reveal': { notes: [659, 784], gain: .085, cooldown: .3 },
+  'tile-select': { notes: [392], gain: .075, duration: .1 },
+  'tile-swap': { asset: 'page', gain: .08, cooldown: .15 },
+  'puzzle-complete': { notes: [523, 659, 784], gain: .16 },
+  'panel-close': { asset: 'whoosh', gain: .05, duration: .65 },
+  gather: { asset: 'gather', gain: .15, duck: true },
+  'gather-complete': { notes: [784, 659, 523], gain: .12 },
+  'rating-shy': { notes: [392, 440], gain: .11, duration: .2, cooldown: .25 },
+  'rating-three': { notes: [523, 659], gain: .12, cooldown: .25 },
+  'rating-four': { notes: [659, 784], gain: .13, cooldown: .25 },
+  'rating-five': { asset: 'sparkle', gain: .17, cooldown: .25 },
+  'heart-offer': { asset: 'whoosh', gain: .11, duration: 1.8 },
+  'heart-seal': { asset: 'resolve', gain: .17, duck: true },
+  ending: { asset: 'resolve', gain: .12, duck: true },
+  navigate: { notes: [440], gain: .07, duration: .12 },
+  'guide-bubble': { notes: [660], gain: .035, duration: .1, cooldown: 5 },
+} satisfies Record<string, CueSpec>;
+export type SoundCue = keyof typeof soundCues;
+export type AudioOptions = { pan?: number; panTo?: number; once?: boolean; progress?: number };
+export type AudioEvent = { name: SoundCue | 'hold-start' | 'hold-progress' | 'hold-stop'; options?: AudioOptions };
+export type PlaySound = (name: SoundCue, options?: AudioOptions) => void;
+export function emitStorySound(name: AudioEvent['name'], options?: AudioOptions) {
+  window.dispatchEvent(new CustomEvent<AudioEvent>('hbd:sound', { detail: { name, options } }));
+}
+export function cueSpec(name: SoundCue): CueSpec { return soundCues[name]; }
