@@ -3,7 +3,7 @@ import { useFrame, useThree } from '@react-three/fiber';
 import { Billboard, useGLTF, useTexture } from '@react-three/drei';
 import * as THREE from 'three';
 import { content } from './content';
-import { fitCanvasText } from './canvas-text';
+import { fillCenteredCanvasText, fitCanvasText } from './canvas-text';
 import type { CapsuleMotion, CapsuleState } from './date-machine';
 import type { ScreenRect } from './story-layout';
 
@@ -13,9 +13,9 @@ const colors = ['#f29abd','#c6b5e8','#f3cf88','#aedccf','#f9b6bc'];
 function ActivityLabel({ title, visible }: { title: string; visible: boolean }) {
   const [source] = useMemo(() => {
     const canvas=document.createElement('canvas');canvas.width=768;canvas.height=210;
-    const context=canvas.getContext('2d')!;context.textAlign='center';context.textBaseline='middle';context.fillStyle='#ffdeee';
+    const context=canvas.getContext('2d')!;context.textBaseline='middle';context.fillStyle='#ffdeee';
     const block=fitCanvasText(context,title,{width:710,fontSize:55,minFontSize:48,maxLines:2});context.font=`500 ${block.size}px "Noto Sans Thai",sans-serif`;
-    block.lines.forEach((line,i)=>context.fillText(line,384,105+(i-(block.lines.length-1)/2)*block.size*1.4));
+    block.lines.forEach((line,i)=>fillCenteredCanvasText(context,line,384,105+(i-(block.lines.length-1)/2)*block.size*1.4));
     return [new THREE.CanvasTexture(canvas)];
   },[title]);
   useEffect(()=>()=>source.dispose(),[source]);

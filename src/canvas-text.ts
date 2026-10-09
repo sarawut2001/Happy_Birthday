@@ -1,6 +1,15 @@
 const words = new Intl.Segmenter('th', { granularity: 'word' });
 const graphemes = new Intl.Segmenter('th', { granularity: 'grapheme' });
 
+/** Avoid WebKit's complex-script center alignment bug (webkit.org/b/316235). */
+export function fillCenteredCanvasText(ctx: CanvasRenderingContext2D, text: string, centerX: number, y: number) {
+  ctx.save();
+  ctx.textAlign = 'left';
+  ctx.direction = 'ltr';
+  ctx.fillText(text, centerX - ctx.measureText(text).width / 2, y);
+  ctx.restore();
+}
+
 /** Wrap Thai at word boundaries, splitting only words wider than the surface. */
 export function wrapCanvasText(ctx: CanvasRenderingContext2D, text: string, width: number) {
   const lines: string[] = [];

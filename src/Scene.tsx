@@ -6,7 +6,7 @@ import { ToneMappingMode } from 'postprocessing';
 import * as THREE from 'three';
 import gsap from 'gsap';
 import { content } from './content';
-import { fitCanvasText } from './canvas-text';
+import { fillCenteredCanvasText, fitCanvasText } from './canvas-text';
 import { emitStorySound, type SoundCue, type AudioOptions } from './audio-cues';
 import type { OrbitControls as OrbitControlsImpl } from 'three-stdlib';
 import type { MutableRefObject } from 'react';
@@ -392,7 +392,7 @@ function Photo({ index, reduced, onClick, scale = 1 }: { index: number; reduced:
     const canvas = document.createElement('canvas'); canvas.width = 640; canvas.height = 96;
     const ctx = canvas.getContext('2d')!;
     ctx.font = '500 48px "Noto Sans Thai", sans-serif'; ctx.fillStyle = '#9e5577';
-    ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(memory.photoDate, 320, 48);
+    ctx.textBaseline = 'middle'; fillCenteredCanvasText(ctx, memory.photoDate, 320, 48);
     const texture = new THREE.CanvasTexture(canvas); texture.colorSpace = THREE.SRGBColorSpace; return texture;
   }, [memory.photoDate]);
   useEffect(() => () => dateTexture.dispose(), [dateTexture]);
@@ -506,7 +506,7 @@ function DoorLeaf({ side }: { side: number }) {
 function OrbitPhrase({ text }: { text: string }) {
   const texture = useMemo(() => {
     const canvas = document.createElement('canvas'); canvas.width = 512; canvas.height = 96;
-    const ctx = canvas.getContext('2d')!; ctx.font = 'italic 42px Georgia'; ctx.fillStyle = '#ffc3df'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(text, 256, 48);
+    const ctx = canvas.getContext('2d')!; ctx.font = 'italic 42px Georgia'; ctx.fillStyle = '#ffc3df'; ctx.textBaseline = 'middle'; fillCenteredCanvasText(ctx, text, 256, 48);
     const map = new THREE.CanvasTexture(canvas); map.colorSpace = THREE.SRGBColorSpace; return map;
   }, [text]);
   useEffect(() => () => texture.dispose(), [texture]);
@@ -535,7 +535,7 @@ function BirthdayCard({ reduced }: { reduced: boolean }) {
   const note = useMemo(() => {
     const canvas = document.createElement('canvas'); canvas.width = 1200; canvas.height = 720;
     const ctx = canvas.getContext('2d')!;
-    ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.textBaseline = 'middle';
     const blocks = [content.birthday.title, ...content.birthday.wishes].map((text, i) => ({
       ...fitCanvasText(ctx, text, { width: 1060, fontSize: i === 0 ? 70 : 68, minFontSize: i === 0 ? 64 : 60, maxLines: 2, weight: i === 0 ? 600 : 400 }),
       weight: i === 0 ? 600 : 400,
@@ -548,7 +548,7 @@ function BirthdayCard({ reduced }: { reduced: boolean }) {
       ctx.font = `${block.weight} ${block.size}px "Noto Sans Thai", sans-serif`;
       ctx.fillStyle = block.color;
       const lineHeight = block.size * 1.4;
-      block.lines.forEach(line => { ctx.fillText(line, 600, y + lineHeight / 2); y += lineHeight; });
+      block.lines.forEach(line => { fillCenteredCanvasText(ctx, line, 600, y + lineHeight / 2); y += lineHeight; });
       y += gap;
     });
     ctx.strokeStyle = '#d991b0'; ctx.lineWidth = 3; ctx.strokeRect(38, 38, 1124, 644);
